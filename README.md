@@ -17,7 +17,7 @@ Use issues to disscuss the problems.
 
 ~~Get the list of video urls~~
 
-~~Set filter for video length and effectively reduce the useless resource
+~~Set filter for video length and effectively reduce the useless resource~~
 
 #### todo
 TODO (Zekun Zhang):
