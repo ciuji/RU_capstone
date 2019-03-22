@@ -1,4 +1,4 @@
-# RU_capstone --dev branch
+# RU_capstone
 
 Rutgers ECE capstone(2019): Multilingual ASR data collection
 
@@ -10,6 +10,6 @@ Use issues to disscuss the problems.
 
 ### SBS
 
-### multilangual bibel
+### multilingual bibel
 
 #### Update time:3.22
