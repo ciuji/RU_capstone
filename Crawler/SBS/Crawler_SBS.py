@@ -8,6 +8,7 @@ import sys
 import wget
 from pydub import AudioSegment
 import time
+import string
 
 
 def language_selection():
@@ -101,11 +102,13 @@ def scrapper(link):
 				if is_string(i.contents[0]):
 					s += i.contents[0].string
 		text += s
+	'''
 	# filtering
 	audio_length = str(t.find('div', class_='field-name-field-duration').contents[1])
 	text_length = len(text)
 	if not filtering(audio_length, text_length):
 		return
+	'''
 	# current path where the program runs
 	path = os.path.split(os.path.realpath(__file__))[0]
 	# if used for the first time, create a folder for all resources
@@ -126,6 +129,7 @@ def scrapper(link):
 		os.makedirs(path + '/' + file_name)
 	path = path + '/' + file_name
 	# get text
+	
 	with open(path + '/' + f'{file_name}.txt', 'w', encoding='utf-8') as f:
 		f.write(text)
 	# get audio
@@ -139,9 +143,14 @@ def scrapper(link):
 
 		
 if __name__ == '__main__':
+	'''
 	link = language_selection()
 	t0 = time.time()
 	resources = find_all_resources(link)
 	for item in resources:
 		scrapper('https://www.sbs.com.au' + item)
 	print(time.time() - t0)
+	''' 
+	link = '' # please paste the link of the resource here
+	scrapper(link)
+	
