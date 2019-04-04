@@ -5,6 +5,7 @@ import os
 import sys
 import wget
 from pydub import AudioSegment
+import time
 
 
 def language_selection():
@@ -69,23 +70,36 @@ def scrapper(link, index):
 	if not os.path.isdir(path + '/text'):	
 		os.makedirs(path + '/text')
 	text_dir = path + '/text'
-	# get audio
-	wget.download(audio, out=audio_dir + '/' + f'{index}.mp3')
-	# format transformation
-	ori = AudioSegment.from_file(audio_dir + '/' + f'{index}.mp3', format='mp3')
-	ori = ori.set_frame_rate(44100)
-	ori.export(audio_dir + '/' + f'{index}.wav', format='wav')
-	# delete the original audio
-	os.remove(audio_dir + '/' + f'{index}.mp3')
-	# get text
-	with open(text_dir + '/' + f'{index}.txt', 'w', encoding='utf-8') as f:
-		f.write(text)
+	try:
+		# get audio
+		wget.download(audio, out=audio_dir + '/' + f'{index}.mp3')
+		# format transformation
+		ori = AudioSegment.from_file(audio_dir + '/' + f'{index}.mp3', format='mp3')
+		ori = ori.set_frame_rate(44100)
+		ori.export(audio_dir + '/' + f'{index}.wav', format='wav')
+		# delete the original audio
+		os.remove(audio_dir + '/' + f'{index}.mp3')
+		# get text
+		with open(text_dir + '/' + f'{index}.txt', 'w', encoding='utf-8') as f:
+			f.write(text)
+	except:
+		return
 
 		
 if __name__ == '__main__':
+	'''
 	link = language_selection()
+	t0 = time.time()
 	resources = find_all_resources(link)
+	t1 = time.time()
+	print('Time of finding resources: ', t1-t0)
 	index = 1
 	for item in resources:
 		scrapper(item, index)
 		index += 1
+	t2 = time.time()
+	print('\nTime of getting resources: ', t2-t1)
+	'''
+	
+	link = '' # please paste the link of the resource here
+	scrapper(link, 1)
