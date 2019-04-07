@@ -9,6 +9,7 @@ import wget
 from pydub import AudioSegment
 import time
 import string
+from zhon import hanzi
 
 
 def language_selection():
@@ -102,6 +103,11 @@ def scrapper(link):
 				if is_string(i.contents[0]):
 					s += i.contents[0].string
 		text += s
+	# remove punctuations and numbers
+	eliminate_set = string.punctuation + string.digits + hanzi.punctuation
+	replace_set = ' ' * len(eliminate_set)
+	trans_tab = str.maketrans(eliminate_set, replace_set)
+	text = text.translate(trans_tab)
 	'''
 	# filtering
 	audio_length = str(t.find('div', class_='field-name-field-duration').contents[1])
@@ -130,7 +136,7 @@ def scrapper(link):
 	path = path + '/' + file_name
 	# get text
 	
-	with open(path + '/' + f'{file_name}.txt', 'w', encoding='utf-8') as f:
+	with open(path + '/' + f'{file_name}.lab', 'w', encoding='utf-8') as f:
 		f.write(text)
 	# get audio
 	wget.download(audio, out=path + '/' + f'{file_name}.mp3')
@@ -151,6 +157,6 @@ if __name__ == '__main__':
 		scrapper('https://www.sbs.com.au' + item)
 	print(time.time() - t0)
 	''' 
-	link = '' # please paste the link of the resource here
+	link = 'https://www.sbs.com.au/yourlanguage/cantonese/en/audiotrack/ni-xiang-can-xuan-lian-bang-da-xuan-ma' # please paste the link of the resource here
 	scrapper(link)
 	
