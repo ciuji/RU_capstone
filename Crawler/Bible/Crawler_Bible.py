@@ -6,6 +6,8 @@ import sys
 import wget
 from pydub import AudioSegment
 import time
+import string
+from zhon import hanzi
 
 
 def language_selection():
@@ -51,7 +53,12 @@ def scrapper(link, index):
 	r = requests.get(url=link)
 	soup = BeautifulSoup(r.text, 'html.parser')
 	audio = soup.find('a', title='Right Click and select Save As to Download')['href']
-	text = soup.find('div', class_='textOptions').text
+	text = soup.find('div', class_='textOptions').text.upper()
+	# remove punctuations and numbers
+	eliminate_set = string.punctuation + string.digits + hanzi.punctuation
+	replace_set = ' ' * len(eliminate_set)
+	trans_tab = str.maketrans(eliminate_set, replace_set)
+	text = text.translate(trans_tab)
 	# current path where the program runs
 	path = os.path.split(os.path.realpath(__file__))[0]
 	# if used for the first time, create a folder for all resources
@@ -80,7 +87,7 @@ def scrapper(link, index):
 		# delete the original audio
 		os.remove(audio_dir + '/' + f'{index}.mp3')
 		# get text
-		with open(text_dir + '/' + f'{index}.txt', 'w', encoding='utf-8') as f:
+		with open(text_dir + '/' + f'{index}.lab', 'w', encoding='utf-8') as f:
 			f.write(text)
 	except:
 		return
@@ -101,5 +108,5 @@ if __name__ == '__main__':
 	print('\nTime of getting resources: ', t2-t1)
 	'''
 	
-	link = '' # please paste the link of the resource here
+	link = 'https://www.wordproject.org/bibles/bg/01/1.htm' # please paste the link of the resource here
 	scrapper(link, 1)
