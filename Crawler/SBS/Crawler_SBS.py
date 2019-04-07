@@ -107,7 +107,7 @@ def scrapper(link):
 	eliminate_set = string.punctuation + string.digits + hanzi.punctuation
 	replace_set = ' ' * len(eliminate_set)
 	trans_tab = str.maketrans(eliminate_set, replace_set)
-	text = text.translate(trans_tab)
+	text = text.translate(trans_tab).upper()
 	'''
 	# filtering
 	audio_length = str(t.find('div', class_='field-name-field-duration').contents[1])
@@ -157,6 +157,6 @@ if __name__ == '__main__':
 		scrapper('https://www.sbs.com.au' + item)
 	print(time.time() - t0)
 	''' 
-	link = 'https://www.sbs.com.au/yourlanguage/cantonese/en/audiotrack/ni-xiang-can-xuan-lian-bang-da-xuan-ma' # please paste the link of the resource here
+	link = 'https://www.sbs.com.au/yourlanguage/bulgarian/bg/audiotrack/federalniyat-byudzhet-2019-na-avstraliya-e-veche-fakt' # please paste the link of the resource here
 	scrapper(link)
 	
