@@ -80,7 +80,7 @@ def filtering(time, length, max_time='8 min 0 sec', min_text=100):
 	return time_is_shorter_than(time, max_time) and text_is_longer_than(length, min_text)
 
 
-def scrapper(link):
+def scrapper(link, index):
 	r = requests.get(url=link)
 	soup = BeautifulSoup(r.text, 'html.parser')
 	t = soup.find('div', class_='ds-1col')
@@ -130,37 +130,28 @@ def scrapper(link):
 	if not os.path.isdir(path + '/' + language):
 		os.makedirs(path + '/' + language)
 	path = path + '/' + language
-	# use the name of the news to create audio/text files
-	file_name = link.split('/')[-1]
-	# return directly if the resource has already existed
-	if os.path.isdir(path + '/' + file_name):
-		return
-	else:
-		os.makedirs(path + '/' + file_name)
-	path = path + '/' + file_name
 	# get text
-	
-	with open(path + '/' + f'{file_name}.lab', 'w', encoding='utf-8') as f:
+	with open(path + '/' + f'{str(index)}.lab', 'w', encoding='utf-8') as f:
 		f.write(text)
 	# get audio
-	wget.download(audio, out=path + '/' + f'{file_name}.mp3')
+	wget.download(audio, out=path + '/' + f'{str(index)}.mp3')
 	# format transformation
-	ori = AudioSegment.from_file(path + '/' + f'{file_name}.mp3', format='mp3')
+	ori = AudioSegment.from_file(path + '/' + f'{str(index)}.mp3', format='mp3')
 	ori = ori.set_frame_rate(44100)
-	ori.export(path + '/' + f'{file_name}.wav', format='wav')
+	ori.export(path + '/' + f'{str(index)}.wav', format='wav')
 	# delete the original audio
-	os.remove(path + '/' + f'{file_name}.mp3')
+	os.remove(path + '/' + f'{str(index)}.mp3')
 	
 		
 if __name__ == '__main__':
-	'''
+	
 	link = language_selection()
-	t0 = time.time()
 	resources = find_all_resources(link)
+	index = 0
 	for item in resources:
-		scrapper('https://www.sbs.com.au' + item)
-	print(time.time() - t0)
+		index += 1
+		scrapper('https://www.sbs.com.au' + item, index)
 	''' 
 	link = 'https://www.sbs.com.au/yourlanguage/czech/cs/audiotrack/nejtemnejsi-den-pro-novy-zeland-49-mrtvych-desitky-zranenych' # please paste the link of the resource here
-	scrapper(link)
-	
+	scrapper(link, 1)
+	'''	
