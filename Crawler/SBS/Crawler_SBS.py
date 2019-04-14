@@ -91,7 +91,10 @@ def scrapper(link, index):
 	des = t.find('div', itemprop='description', recursive=False)
 	text = ''
 	for i in des.find_all('p'):
-		text += i.string
+		try:
+			text += i.string
+		except TypeError:
+			pass
 	if type(text) == type(None):
 		text = ''
 	para = t.find('div', class_='field-type-text-with-summary', recursive=False)
