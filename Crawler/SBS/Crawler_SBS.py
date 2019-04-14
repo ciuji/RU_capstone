@@ -89,7 +89,9 @@ def scrapper(link):
 		return
 	audio = t.find('source')['src']
 	des = t.find('div', itemprop='description', recursive=False)
-	text = des.p.string
+	text = ''
+	for i in des.find_all('p'):
+		text += i.string
 	if type(text) == type(None):
 		text = ''
 	para = t.find('div', class_='field-type-text-with-summary', recursive=False)
@@ -108,6 +110,7 @@ def scrapper(link):
 	replace_set = ' ' * len(eliminate_set)
 	trans_tab = str.maketrans(eliminate_set, replace_set)
 	text = text.translate(trans_tab).upper()
+	
 	'''
 	# filtering
 	audio_length = str(t.find('div', class_='field-name-field-duration').contents[1])
@@ -115,6 +118,7 @@ def scrapper(link):
 	if not filtering(audio_length, text_length):
 		return
 	'''
+	
 	# current path where the program runs
 	path = os.path.split(os.path.realpath(__file__))[0]
 	# if used for the first time, create a folder for all resources
@@ -146,7 +150,7 @@ def scrapper(link):
 	ori.export(path + '/' + f'{file_name}.wav', format='wav')
 	# delete the original audio
 	os.remove(path + '/' + f'{file_name}.mp3')
-
+	
 		
 if __name__ == '__main__':
 	'''
@@ -157,6 +161,6 @@ if __name__ == '__main__':
 		scrapper('https://www.sbs.com.au' + item)
 	print(time.time() - t0)
 	''' 
-	link = 'https://www.sbs.com.au/yourlanguage/bulgarian/bg/audiotrack/federalniyat-byudzhet-2019-na-avstraliya-e-veche-fakt' # please paste the link of the resource here
+	link = 'https://www.sbs.com.au/yourlanguage/czech/cs/audiotrack/nejtemnejsi-den-pro-novy-zeland-49-mrtvych-desitky-zranenych' # please paste the link of the resource here
 	scrapper(link)
 	
