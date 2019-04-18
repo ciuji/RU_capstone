@@ -2,14 +2,10 @@
 
 Rutgers ECE capstone(2019): Multilingual ASR data collection
 
-Use this file to record the progress, todo and plan.
+## Introduction
 
-Use issues to disscuss the problems.
+Crawl multilingual audio and text reasources from web, achieve forced alignment on those data.
 
-## sub groups
+## Team Member
 
-### SBS
-
-### multilingual bibel
-
-#### Update time:3.22
+Mo Shi, Chaoji Zuo, Ziqi Wang, Zekun Zhang, Duc Le
