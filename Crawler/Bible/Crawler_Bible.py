@@ -71,12 +71,10 @@ def scrapper(link, index):
 		os.makedirs(path + '/' + language)
 	path = path + '/' + language
 	# if used for the first time, create folders for audio/text separately
-	if not os.path.isdir(path + '/audio'):	
-		os.makedirs(path + '/audio')
-	audio_dir = path + '/audio'
-	if not os.path.isdir(path + '/text'):	
-		os.makedirs(path + '/text')
-	text_dir = path + '/text'
+	if not os.path.isdir(path + '/corpus'):
+		os.makedirs(path + '/corpus')
+	audio_dir = path + '/corpus'
+	text_dir = path + '/corpus'
 	try:
 		# get audio
 		wget.download(audio, out=audio_dir + '/' + f'{index}.mp3')
