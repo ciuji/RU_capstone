@@ -28,7 +28,7 @@ Our output would be [TextGrid](https://en.wikipedia.org/wiki/TextGrid) format fi
 
 TextGrid demo:
 
-![TextGrid photo](https://github.com/ciuji/RU_capstone/tree/master/docs/textgrid_demo.png)
+![TextGrid photo](https://raw.githubusercontent.com/ciuji/RU_capstone/master/docs/textgrid_demo.png)
 
 ## Video Demo
 
