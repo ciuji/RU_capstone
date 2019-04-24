@@ -1,0 +1,4 @@
+229	Could not decode (beam too narrow)
+230	Could not decode (beam too narrow)
+787	Could not decode (beam too narrow)
+847	Could not decode (beam too narrow)
