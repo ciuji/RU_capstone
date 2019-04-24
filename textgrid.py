@@ -28,7 +28,7 @@ def find_all_intervals(s):
 		pass
 	# get the total time length
 	t = (lines.pop(0), lines.pop(0))
-	total_time = get_total_time(t)
+	# total_time = get_total_time(t)
 	# get the number of words
 	w = lines.pop(0)
 	interval_size = get_interval_size(w)
@@ -43,7 +43,7 @@ def find_all_intervals(s):
 		text = lines.pop(0).split()[-1]
 		if text != "\"\"":
 			words.append(Interval(i, xmin, xmax))	
-	return total_time, words
+	return words
 
 
 if __name__ == '__main__':
@@ -51,25 +51,21 @@ if __name__ == '__main__':
 	total_time = 0
 	aligned_time = 0
 	index = 0
-	while True:
+	not_aligned = []
+	while index <= 100:
 		index += 1
 		file_name = f'{index}.TextGrid'
 		try:
 			f = open(path + '\\' + file_name, 'r')
 			s = f.read()
 			f.close()
-			t, words = find_all_intervals(s)
-			# add the duration of the current resource to the total time
-			total_time += t
+			words = find_all_intervals(s)
 			# add all aligned intervals duration to the total aligned time
 			for i in words:
 				aligned_time += i.time
 		except FileNotFoundError:
-			break
-	print(f'The total time is: {total_time}')
+			pass
 	print(f'The aligned time is: {aligned_time}')
-	print('The matching rate is: {:.2f}%'.format(aligned_time / total_time * 100))
-
 	'''
 	total_time, words = find_all_intervals(s)
 	aligned_time = 0
