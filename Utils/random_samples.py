@@ -5,7 +5,7 @@ import random
 
 if __name__ == '__main__':
 	indices = [i for i in range(1, 1190)]
-	samples = random.sample(indices, 100)
+	samples = random.sample(indices, 30)
 	print(samples)
 	src = r'C:\Urim&Thummim\Rutgers\Spring 2019\Capstone Design\montreal-forced-aligner_win64\montreal-forced-aligner\corpus\czech\Bible'
 	des = r'C:\Urim&Thummim\Rutgers\Spring 2019\Capstone Design\montreal-forced-aligner_win64\montreal-forced-aligner\corpus\czech\Bible\Sample_4'
