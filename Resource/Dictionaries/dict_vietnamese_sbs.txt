@@ -1,0 +1,4199 @@
+﻿a	a1_T1
+aa	a1_T1 a1_T1
+abbas	ay3_T1 b b a1_T1 s
+abbott	ay3_T1 b k b o1_T1 t t
+abc	ay3_T1 b k
+abdallah	ay3_T1 b d2 a1_T1 l l a1_T1 h
+abiola	ay3_T1 b i_T1 o2_T1 l a1_T1
+abul	ay3_T1 b u1_T1 n
+accc	a2_T3 k k
+ace	a2_T3 e1_T1
+adam	a1_T1 j a1_T1 m
+adani	a1_T1 j a1_T1 n i_T1
+adelaide	a1_T1 d2 e2_T1 l a1_T1 oi_T1 e1_T1
+adivasi	a1_T1 i_T1 j a1_T3 x i_T1
+adrianne	a1_T1 r i_T1 a1_T1 n e1_T1
+advance	a1_T1 j v a1_T1 n k e1_T1
+aec	a1_T1 e1_T1 k
+aest	a1_T1 e1_T3 s t
+afghanistan	a1_T1 ph g a1_T1 n i_T3 s t a1_T1 n
+afp	a1_T1 ph p
+aged	a1_T1 g e2_T1 d2
+agency	a1_T1 g e1_T1 n k i_T1
+agriculture	a1_T1 g r i_T1 k u1_T1 l t u1_T1 o2_T1
+aguila	a1_T1 g i_T1 l a1_T1
+ahmet	a1_T1 h m e1_T1 t
+ai	ai_T1
+aid	d2 e2_T1
+aids	d1 s
+aim	a1_T1 i_T1 m
+aimee	a1_T1 i_T1 m e1_T1 e1_T1
+aires	a1_T1 i_T1 d1 e1_T1 s
+ajax	a1_T1 d1 a1_T1 x
+ajetemobi	a1_T1 d1 e1_T3 t e1_T1 m o2_T1 b i_T1
+akavi	a1_T1 k a1_T1 j i_T1
+akeela	a1_T1 k e1_T1 e2_T1 l a1_T1
+akki	a1_T1 k k i_T1
+al	a1_T1 l
+alaa	a1_T1 l a1_T1 a1_T1
+alan	a1_T1 l a1_T1 n
+albanese	a1_T1 l b a1_T1 n e1_T1 s e1_T1
+album	a1_T1 l b u1_T1 m
+alex	a1_T1 l e2_T3 k x
+alexandria	a1_T1 l e2_T3 k x a1_T1 n d2 r i_T1 a1_T1
+alfa	a1_T1 l ph a1_T1
+alhabsyi	a1_T1 l a1_T1 p x i_T1 i_T1
+allan	a1_T1 l l a1_T1 n
+allen	a1_T1 l l e1_T1 n
+alliance	a1_T1 l l ie2_T1 n e1_T1
+alpha	a1_T1 l ph a1_T1
+am	a1_T1 m
+amanda	a1_T1 m a1_T1 n j a1_T1
+amazing	a1_T1 m a1_T3 nh i_T1 ng
+ambrosio	a1_T1 m b d1 o1_T1 x i_T1 o2_T1
+amep	e2_T1 m p
+amin	a1_T1 m i_T1 n
+amy	a1_T1 m i_T1
+an	a1_T1 n
+analytica	a1_T1 n a1_T1 l i_T1 t i_T1 k a1_T1
+anbarasan	a1_T1 n b a1_T1 a1_T3 x a1_T1 n
+and	a1_T1 n d2 e2_T1
+anders	a1_T1 n d2 e2_T1 d1 s
+andorajan	a1_T1 n d1 o1_T1 d1 a1_T1 d1 a1_T1 n
+andrew	a1_T1 n d2 r j
+andrews	a1_T1 n d2 r v s
+andy	a1_T1 n d2 i_T1
+ang	a1_T1 ng
+angus	a1_T1 n g u1_T1 s
+anh	a1_T1 nh
+anoushka	a1_T1 n o2_T1 u1_T3 t k a1_T1
+anthony	a1_T1 n t o1_T3 n i_T1
+anu	a1_T1 n u1_T1
+anzac	a1_T1 n d1 k
+aran	a1_T1 r a1_T1 n
+archie	a1_T1 ch i_T1 e1_T1
+ardern	a1_T1 d1 e1_T1 n
+arles	a1_T1 l e1_T3 s
+armidale	a1_T1 m oi_T1 a1_T1 l e1_T1
+army	a1_T1 m i_T1
+asean	a1_T1 x e1_T3 a1_T1 n
+asia	a1_T1 s i_T1 a1_T1
+assagne	a1_T1 x s g n e1_T1
+assanga	a1_T1 x s ng a1_T1
+assange	a1_T1 x s ng e1_T1
+ataturk	a1_T1 t a1_T1 t oa_T1 k
+ath	a1_T1 t t
+attaturk	a1_T1 t t a1_T1 t ua_T1 k
+au	au_T1
+audio	ao_T1 d1 i_T1 o2_T1
+auspaynet	ao_T1 s p e2_T1 ay_T1 n e1_T1 t
+australia	ao_T1 x t r a1_T1 l i_T1 a1_T1
+australian	ao_T1 x t r a1_T1 l i_T1 a1_T1 n
+autumn	ao_T1 t u1_T1 m n
+avatar	a1_T1 j a1_T1 t a1_T1
+ave	a1_T1 j e1_T1
+aviv	a1_T1 j i_T1 v
+avyld	a1_T1 j i_T1 l d2 e2_T1
+awu	a1_T1 u1_T1
+ào	ao_T1
+ác	a2_T3
+ái	ai_T1
+ám	a1_T1 m
+án	a1_T1 n
+áng	a1_T1 ng
+ánh	a1_T1 nh
+áp	ay3_T1 p i_T1
+ảnh	a1_T1 nh
+ảo	ao_T1
+ba	b a1_T1
+babar	b ay3_T1 b a1_T1
+bac	b ay3_T1 k
+bai	b ai_T1
+bailey	b ai_T1 l e1_T3 i_T1
+bakdounes	b ay3_T1 k d2 u1_T1 n e1_T1 s
+baloch	b a1_T1 l o1_T1 ch
+ban	b a1_T1 n
+banaby	b a1_T1 n ay3_T1 b i_T1
+bandt	b a1_T1 n d2 t
+bang	b a1_T1 ng
+bank	b a1_T1 n k
+banks	b a1_T1 n k s
+bao	b ao_T1
+baridner	b a1_T1 oi_T1 n o3_T2
+barnaby	b a1_T1 n ay3_T1 b i_T1
+barr	b a1_T1 r r
+bashir	b a1_T1 x i_T1 r
+batley	b a1_T1 t l e1_T3 i_T1
+batleymột	b a1_T1 t l e1_T3 i_T1 m o2_T1 t
+baudinette	b au_T1 d1 i_T1 n e1_T1 t ai_T1
+bay	b ay_T1
+bài	b ai_T1
+bàn	b a1_T1 n
+bàng	b a1_T1 ng
+bào	b ao_T1
+bày	b ay_T1
+bác	b ay3_T1 k
+bán	b a1_T1 n
+báo	b ao_T1
+bản	b a1_T1 n
+bảo	b ao_T1
+bảy	b ay_T1
+bạc	b ay3_T1 k
+bạch	b ay3_T1 ch
+bại	b ai_T1
+bạn	b a1_T1 n
+bạo	b ao_T1
+bbc	b i_T1 b i_T1 k
+bch	b ch
+be	b e1_T1
+bega	b e2_T1 g a1_T1
+benjamin	b e1_T1 n d1 a1_T1 m i_T1 n
+benny	b e1_T1 n n i_T1
+benyamin	b e1_T1 n i_T1 a1_T1 m i_T1 n
+bernoth	b e1_T1 d1 n o2_T1 th
+better	b e1_T1 t t e1_T1 r
+bhavesh	b a1_T1 j e1_T3 t
+bi	b i_T1
+bia	b i_T1 a1_T1
+bibbys	b i_T1 b i_T1 b i_T1 i_T1 s
+biet	b i_T1 e1_T3 t
+bigg	b i_T1 d1 i_T1 j i_T1
+bill	b i_T1 n
+binh	b i_T1 nh
+biên	b ie2_T1 n
+biến	b ie2_T1 n
+biết	b ie2_T1 t
+biển	b ie2_T1 n
+biểu	b ieu_T1
+biện	b ie2_T1 n
+biệt	b ie2_T1 t
+bình	b i_T1 nh
+biến	b ie2_T3 n
+biết	b ie2_T3 t
+biển	b ie2_T4 n
+biểu	b ieu_T4
+biện	b ie2_T6 n
+biệt	b ie2_T6 t
+biệtmueller	b ie2_T6 t m o2_T1 eo_T1 o3_T2
+blackburn	b l a2_T3 k b oa_T1 n
+blasio	b l a1_T3 x i_T1 o2_T1
+blaxland	b l a1_T1 x l a1_T1 n d2 e2_T1
+bo	b o1_T1
+bob	b o1_T1 b
+bokhari	b o1_T1 kh a1_T1 r i_T1
+bolero	b o2_T1 e2_T1 d1 o2_T1
+bom	b o1_T1 m
+bonnyrigg	b o1_T1 n i_T1 r i_T1 j i_T1 d1 i_T1
+book	b o1_T1 o1_T1 k
+booy	b o1_T1 o1_T1 i_T1
+born	b o1_T1 r n
+bougainville	b o1_T1 u1_T1 g ai_T1 n v i_T1 l l e1_T1
+bougaville	b o1_T1 u1_T1 g a1_T1 j i_T1 l l e1_T1
+bowen	b au3_T1 e1_T1 n
+bón	b o1_T1 n
+bóng	b o1_T1 ng
+bọn	b o1_T1 n
+bp	b p
+bracken	b r a2_T3 k e1_T1 n
+bradbury	b r a1_T1 b oa_T1 i_T1
+bradley	b r a1_T1 l e1_T3 i_T1
+brazil	b d1 a1_T1 d1
+brecko	b o2_T1 k k o2_T1
+brendan	b o2_T1 n d2 a1_T1 n
+brett	b o2_T1 t t
+bri	b r i_T1
+briceño	b d1 i_T1 k eo_T1
+brien	b r i_T3 e1_T1 n
+brimbank	b r i_T1 m b a1_T1 n k
+brisbane	b r i_T3 x b a1_T1 n e1_T1
+brittain	b r i_T3 t t a1_T1 i_T1 n
+broad	b r oa_T1 d1
+broadmeadows	b o1_T1 a1_T1 m a1_T1 au3_T1 s
+brown	b r o1_T1 n
+bruce	b r u1_T1 k e1_T1
+bruun	b r u1_T1 u1_T1 n
+brynhill	b r i_T1 nh i_T1 n
+bs	b s
+bts	b t s
+bu	b u1_T1
+buffet	b u1_T1 o1_T3 ph e1_T1 t
+burke	b ua_T1 k e1_T1
+burnham	b oa_T1 nh a1_T1 m
+bus	b u1_T3
+business	b u1_T3 i_T1 n e1_T3 s
+bussy	b u1_T3 x i_T1
+buôn	b ua_T1 n
+buồn	b ua_T1 n
+buối	b uoi2_T1
+buổi	b uoi2_T1
+buộc	b ua_T1 k
+buồn	b ua_T2 n
+buổi	b uoi2_T4
+buộc	b ua_T6 k
+bà	b a1_T2
+bài	b ai_T2
+bàn	b a1_T2 n
+bào	b ao_T2
+bày	b ay_T2
+bá	b a1_T3
+bác	b a1_T3 k
+bách	b a1_T3 ch
+bám	b a1_T3 m
+bán	b a1_T3 n
+bánh	b a1_T3 nh
+báo	b ao_T3
+bát	b a1_T3 t
+bât	b a3_T1 t
+bây	b ay3_T1
+bầu	b au3_T1
+bấm	b a3_T1 m
+bất	b a3_T1 t
+bậc	b a3_T1 k
+bật	b a3_T1 t
+bã	b a1_T5
+bão	b ao_T5
+bè	b e1_T2
+bèn	b e1_T2 n
+bé	b e1_T3
+bén	b e1_T3 n
+bê	b e2_T1
+bên	b e2_T1 n
+bênh	b e2_T1 nh
+bền	b e2_T1 n
+bếp	b e2_T1 p
+bệnh	b e2_T1 nh
+bình	b i_T2 nh
+bí	b i_T3
+bít	b i_T3 t
+bò	b o1_T2
+bó	b o1_T3
+bóng	b o1_T3 ng
+bóp	b o1_T3 p
+bô	b o2_T1
+bôi	b oi2_T1
+bông	b o2_T1 ng
+bồn	b o2_T1 n
+bối	b oi2_T1
+bỗng	b o2_T1 ng
+bộnh	b o2_T1 nh
+bù	b u1_T2
+bùa	b ua_T2
+bùi	b ui_T2
+bùng	b u1_T2 ng
+búc	b u1_T3 k
+búi	b ui_T3
+bút	b u1_T3 t
+băng	b a2_T1 ng
+bằng	b a2_T1 ng
+bắc	b a2_T1 k
+bắn	b a2_T1 n
+bắt	b a2_T1 t
+bơ	b o3_T1
+bơi	b oi3_T1
+bơm	b o3_T1 m
+bới	b oi3_T1
+bớt	b o3_T1 t
+bởi	b oi3_T1
+bưu	b uu2_T1
+bước	b ua2_T1 k
+bướm	b ua2_T1 m
+bức	b k
+bước	b ua2_T3 k
+bạc	b a1_T6 k
+bạch	b a1_T6 ch
+bại	b ai_T6
+bạn	b a1_T6 n
+bạo	b ao_T6
+bạt	b a1_T6 t
+bản	b a1_T4 n
+bảng	b a1_T4 ng
+bảo	b ao_T4
+bảy	b ay_T4
+bấp	b a3_T3 p
+bất	b a3_T3 t
+bần	b a3_T2 n
+bầu	b au3_T2
+bẩn	b a3_T4 n
+bẩy	b ay3_T4
+bậc	b a3_T6 k
+bận	b a3_T6 n
+bật	b a3_T6 t
+bắc	b a2_T3 k
+bắn	b a2_T3 n
+bắt	b a2_T3 t
+bằng	b a2_T2 ng
+bẽn	b e1_T5 n
+bết	b e2_T3 t
+bệ	b e2_T6
+bệnh	b e2_T6 nh
+bỉm	b i_T4 m
+bỉu	b iu_T4
+bị	b i_T6
+bịa	b i_T6 a1_T1
+bịnh	b i_T6 nh
+bịt	b i_T6 t
+bọc	b o1_T6 k
+bọn	b o1_T6 n
+bỏ	b o1_T4
+bỏng	b o1_T4 ng
+bố	b o2_T3
+bốc	b o2_T3 k
+bối	b oi2_T3
+bốn	b o2_T3 n
+bổ	b o2_T4
+bổn	b o2_T4 n
+bổng	b o2_T4 ng
+bộ	b o2_T6
+bột	b o2_T6 t
+bớt	b o3_T3 t
+bờ	b o3_T2
+bờm	b o3_T2 m
+bởi	b oi3_T4
+bục	b u1_T6 k
+bức	b u2_T3 k
+bữa	b ua2_T5
+c	k
+ca	k a1_T1
+cacao	k a1_T1 k ao_T1
+cai	k ai_T1
+cairns	k ai_T1 d1 n s
+cairo	k ai_T1 d1 o2_T1
+cam	k a1_T1 m
+cambridge	k a1_T1 m b r oi_T1 g e1_T1
+camera	k a1_T1 m e1_T1 d1 a1_T1
+campbell	k a1_T1 m p b e1_T1 n
+campuchia	k a1_T1 m p u1_T1 ch i_T1 a1_T1
+can	k a1_T1 n
+canada	k a1_T1 n a1_T1 j a1_T1
+canberra	k a1_T1 n b o3_T1 d1 a1_T1
+canh	k a1_T1 nh
+cao	k ao_T1
+care	k a1_T3 e1_T1
+carlton	k a1_T3 l t o1_T1 n
+cartel	k a1_T3 t eo_T1
+casey	k a1_T1 x e1_T3 i_T1
+cassidy	k a1_T1 x x oi_T1 i_T1
+castan	k a1_T1 s t a1_T1 n
+cateano	k e2_T3 t a1_T1 n o2_T1
+catherine	k a1_T1 t th e1_T1 i_T1 n e1_T1
+cayman	k ay_T1 m a1_T1 n
+càng	k a1_T1 ng
+cành	k a1_T1 nh
+các	k a1_T1 k
+cách	k a1_T1 ch
+cái	k ai_T1
+cáng	k a1_T1 ng
+cáo	k ao_T1
+cãi	k ai_T1
+cải	k ai_T1
+cảm	k a1_T1 m
+cản	k a1_T1 n
+cảnh	k a1_T1 nh
+cạnh	k a1_T1 nh
+ch	ch
+cha	ch a1_T1
+challenge	ch a1_T1 l l e1_T1 ng e1_T1
+champions	ch a1_T1 m p i_T1 o1_T1 n s
+chapter	ch a1_T1 p t e1_T1 r
+charles	ch a1_T1 r l e1_T3 s
+charlie	ch a1_T1 r l i_T3 e1_T1
+chaudhary	ch au_T1 d1 h a1_T1 r i_T1
+chánh	ch a1_T1 nh
+cháu	ch au_T1
+cháy	ch ay_T1
+chạp	ch a1_T3 p
+chạy	ch ay_T1
+che	ch e1_T1
+chechnya	ch e1_T1 ch n i_T1 a1_T1
+cheers	ch e1_T1 o3_T1 s
+chelsea	ch e1_T1 l x e1_T3 a1_T1
+chen	ch e1_T1 n
+cheng	ch e1_T1 ng
+chi	ch i_T1
+chia	ch i_T1 a1_T1
+chieu	ch i_T1 e2_T1 u1_T1
+childcare	ch i_T1 d2 k a1_T3 e1_T1
+children	ch i_T1 d2 r e1_T1 n
+chim	ch i_T1 m
+chiêu	ch ieu_T1
+chiều	ch ieu_T1
+chiếc	ch ie2_T1 k
+chiếm	ch ie2_T1 m
+chiến	ch ie2_T1 n
+chìm	ch i_T1 m
+chính	ch i_T1 nh
+chỉnh	ch i_T1 nh
+chịnh	ch i_T1 nh
+chịu	ch iu_T1
+chiếc	ch ie2_T3 k
+chiếm	ch ie2_T3 m
+chiến	ch ie2_T3 n
+chiếu	ch ieu_T3
+chiều	ch ieu_T2
+cho	ch o1_T1
+chocochips	ch o2_T1 k o2_T1 ch i_T1 p s
+choáng	ch oa_T3 ng
+chóng	ch o1_T1 ng
+chót	ch o1_T1 t
+chọn	ch o1_T1 n
+chris	ch r i_T3 s
+christchurch	ch r i_T3 s t ch ua_T1 ch
+christina	ch r i_T3 s t i_T1 n a1_T1
+christine	ch r i_T3 s t i_T1 n e1_T1
+christmas	ch r i_T3 s t m a1_T3 s
+chu	ch u1_T1
+chung	ch u1_T1 ng
+church	ch oa_T1 ch
+chuyên	ch uy_T1 e2_T1 n
+chuyến	ch uy_T1 e2_T1 n
+chuyển	ch uy_T1 e2_T1 n
+chuyện	ch uy_T1 e2_T1 n
+chuyến	ch uy_T1 e2_T3 n
+chuyền	ch uy_T1 e2_T2 n
+chuyển	ch uy_T1 e2_T4 n
+chuyện	ch uy_T1 e2_T6 n
+chuẩn	ch u1_T1 a3_T1 n
+chuông	ch ua_T1 ng
+chuộng	ch ua_T1 ng
+chuột	ch uoi2_T1 t
+chúa	ch ua_T1
+chúng	ch u1_T1 ng
+chút	ch u1_T1 t
+chủng	ch u1_T1 ng
+chục	ch u1_T1 k
+chuẩn	ch ua_T4 n
+chuộc	ch ua_T6 k
+chuộng	ch ua_T6 ng
+chuột	ch ua_T6 t
+chàng	ch a1_T2 ng
+chào	ch ao_T2
+chán	ch a1_T3 n
+chánh	ch a1_T3 nh
+cháu	ch au_T3
+cháy	ch ay_T3
+châm	ch a3_T1 m
+chân	ch a3_T1 n
+chât	ch a3_T1 t
+châu	ch au3_T1
+chấm	ch a3_T1 m
+chấn	ch a3_T1 n
+chấp	ch a3_T1 p
+chất	ch a3_T1 t
+chậm	ch a3_T1 m
+chận	ch a3_T1 n
+chén	ch e1_T3 n
+chép	ch e1_T3 p
+chê	ch e2_T1
+chêm	ch e2_T1 m
+chênh	ch e2_T1 nh
+chết	ch e2_T1 t
+chìa	ch i_T2 a1_T1
+chìm	ch i_T2 m
+chí	ch i_T3
+chích	ch i_T3 ch
+chín	ch i_T3 n
+chính	ch i_T3 nh
+chó	ch o1_T3
+chóc	ch o1_T3 k
+chóng	ch o1_T3 ng
+chóp	ch o1_T3 p
+chót	ch o1_T3 t
+chô	ch o2_T1
+chôn	ch o2_T1 n
+chông	ch o2_T1 ng
+chồi	ch oi2_T1
+chồn	ch o2_T1 n
+chối	ch oi2_T1
+chống	ch o2_T1 ng
+chốt	ch o2_T1 t
+chùa	ch ua_T2
+chú	ch u1_T3
+chúa	ch ua_T3
+chúc	ch u1_T3 k
+chúng	ch u1_T3 ng
+chút	ch u1_T3 t
+chăm	ch a2_T1 m
+chăn	ch a2_T1 n
+chăng	ch a2_T1 ng
+chắc	ch a2_T1 k
+chắn	ch a2_T1 n
+chẳng	ch a2_T1 ng
+chặn	ch a2_T1 n
+chặt	ch a2_T1 t
+chơ	ch o3_T1
+chơi	ch oi3_T1
+chơn	ch o3_T1 n
+chư	ch u2_T1
+chưa	ch ua2_T1
+chưng	ch u2_T1 ng
+chương	ch ua2_T1 ng
+chứa	ch ua2_T1
+chức	ch u2_T1 k
+chứng	ch u2_T1 ng
+chữa	ch ua2_T1
+chạm	ch a1_T6 m
+chạp	ch a1_T6 p
+chạy	ch ay_T6
+chả	ch a1_T4
+chảy	ch ay_T4
+chấm	ch a3_T3 m
+chấn	ch a3_T3 n
+chấp	ch a3_T3 p
+chất	ch a3_T3 t
+chẩn	ch a3_T4 n
+chậm	ch a3_T6 m
+chật	ch a3_T6 t
+chắc	ch a2_T3 k
+chắn	ch a2_T3 n
+chẳng	ch a2_T4 ng
+chặn	ch a2_T6 n
+chặt	ch a2_T6 t
+chẽ	ch e1_T5
+chế	ch e2_T3
+chết	ch e2_T3 t
+chỉ	ch i_T4
+chỉn	ch i_T4 n
+chỉnh	ch i_T4 nh
+chị	ch i_T6
+chịu	ch iu_T6
+chọi	ch oi_T6
+chọn	ch o1_T6 n
+chối	ch oi2_T3
+chống	ch o2_T3 ng
+chốt	ch o2_T3 t
+chồng	ch o2_T2 ng
+chổ	ch o2_T4
+chỗ	ch o2_T5
+chờ	ch o3_T2
+chở	ch o3_T4
+chợ	ch o3_T6
+chợt	ch o3_T6 t
+chục	ch u1_T6 k
+chụp	ch u1_T6 p
+chủ	ch u1_T4
+chủng	ch u1_T4 ng
+chứ	ch u2_T3
+chứa	ch ua2_T3
+chức	ch u2_T3 k
+chứng	ch u2_T3 ng
+chừa	ch ua2_T2
+chừng	ch u2_T2 ng
+chữ	ch u2_T5
+chữa	ch ua2_T5
+chực	ch u2_T6 k
+chựng	ch u2_T6 ng
+cibubur	k i_T1 b u1_T1 b oa_T1
+cinamon	k n a1_T1 m o1_T1 n
+cities	k i_T1 t i_T1 e1_T3
+cl	k l
+clarke	k l a1_T3 k e1_T1
+clement	k l e1_T1 m e1_T1 n t
+clinton	k l i_T1 n t o2_T1 ng
+clip	k l i_T1 p
+clubb	k l u1_T1 b b i_T1
+cncs	k n s
+co	k o1_T1
+coast	k o1_T1 a1_T3 x t
+cohen	k o1_T1 e1_T1 n
+coi	k oi_T1
+coleman	k o2_T1 l e1_T3 m a1_T1 n
+colombia	k o2_T1 l o2_T1 m b i_T1 a1_T1
+colombo	k o2_T1 l o2_T1 m k b o1_T1
+columbia	k o1_T1 l u1_T1 m b i_T1 a1_T1
+com	k o1_T1 m
+communication	k o1_T1 m m u1_T1 n i_T1 k a1_T1 t i_T1 o1_T1 n
+communities	k o1_T1 m m u1_T1 n i_T1 t i_T1 e1_T3
+community	k o1_T1 m m u1_T1 n i_T1 t i_T1
+compost	k o1_T1 m p o1_T1 s t
+con	k o1_T1 n
+condrad	k o1_T1 n j r a1_T1
+conduct	k o1_T1 n j u1_T1 k t
+connor	k o1_T1 n o2_T1 r
+conrad	k o1_T1 r a1_T1
+conway	k o1_T1 o1_T1 ay_T1
+cook	k o1_T1 o1_T1 k
+cooper	k o1_T1 o1_T1 p e1_T1 r
+coral	k o1_T1 d1 a1_T1 n
+corbyn	k o1_T1 r b i_T1 n
+cormack	k o1_T1 d1 m a2_T3 k
+coroner	k o1_T1 r o1_T1 n e1_T1 r
+cosgrove	k o1_T1 x g o1_T1 n e1_T1
+council	k o1_T1 u1_T1 n
+cowan	k au3_T1 a1_T1 n
+còn	k o1_T1 n
+craig	k r a1_T1 i_T1 d1 i_T1
+crimea	k r i_T3 m a1_T1
+crowdspot	k r au3_T1 d1 x p o1_T1 t
+crown	k r o1_T1 n
+cruel	k r u1_T1 eo_T1
+csis	k s i_T1 s
+cu	k u1_T1
+cua	k ua_T1
+cuba	k u1_T1 b a1_T1
+cugn	k u1_T1 g n
+cull	k u1_T1 n
+cung	k u1_T1 ng
+curtis	k u1_T1 a1_T1 i_T3 s
+cuồng	k ua_T1 ng
+cuối	k uoi2_T1
+cuốn	k ua_T1 n
+cuống	k ua_T1 ng
+cuộc	k ua_T1 k
+cùng	k u1_T1 ng
+cúc	k u1_T1 k
+cũng	k u1_T1 ng
+của	k ua_T1
+củng	k u1_T1 ng
+cuốc	k ua_T3 k
+cuối	k uoi2_T3
+cuốn	k ua_T3 n
+cuộc	k ua_T6 k
+cà	k a1_T2
+càng	k a1_T2 ng
+cào	k ao_T2
+cá	k a1_T3
+các	k a1_T3 k
+cách	k a1_T3 ch
+cái	k ai_T3
+cán	k a1_T3 n
+cánh	k a1_T3 nh
+cáo	k ao_T3
+cân	k a3_T1 n
+câu	k au3_T1
+cây	k ay3_T1
+cầm	k a3_T1 m
+cần	k a3_T1 n
+cầu	k au3_T1
+cấm	k a3_T1 m
+cấp	k a3_T1 p
+cất	k a3_T1 t
+cận	k a3_T1 n
+cập	k a3_T1 p
+cậy	k ay3_T1
+cãi	k ai_T5
+còn	k o1_T2 n
+có	k o1_T3
+cóc	k o1_T3 k
+cô	k o2_T1
+côi	k oi2_T1
+công	k o2_T1 ng
+côngo	k o2_T1 n g o1_T1
+cối	k oi2_T1
+cộng	k o2_T1 ng
+cùng	k u1_T2 ng
+cú	k u1_T3
+cúc	k u1_T3 k
+cúm	k u1_T3 m
+cúng	k u1_T3 ng
+căn	k a2_T1 n
+căng	k a2_T1 ng
+cắm	k a2_T1 m
+cắt	k a2_T1 t
+cặn	k a2_T1 n
+cđnvtd	k d2 n v t e2_T1 d2 e2_T1
+cũ	k u1_T5
+cũng	k u1_T5 ng
+cơ	k o3_T1
+cơn	k o3_T1 n
+cư	k u2_T1
+cương	k ua2_T1 ng
+cường	k ua2_T1 ng
+cứu	k uu2_T1
+cửa	k ua2_T1
+cực	k u2_T1 k
+cựu	k uu2_T1
+cước	k ua2_T3 k
+cưới	k uoi3_T3
+cướp	k ua2_T3 p
+cười	k uoi3_T2
+cường	k ua2_T2 ng
+cưỡng	k ua2_T5 ng
+cạn	k a1_T6 n
+cạnh	k a1_T6 nh
+cả	k a1_T4
+cải	k ai_T4
+cảm	k a1_T4 m
+cản	k a1_T4 n
+cảnh	k a1_T4 nh
+cấm	k a3_T3 m
+cấp	k a3_T3 p
+cất	k a3_T3 t
+cấu	k au3_T3
+cầm	k a3_T2 m
+cần	k a3_T2 n
+cầu	k au3_T2
+cẩn	k a3_T4 n
+cận	k a3_T6 n
+cập	k a3_T6 p
+cật	k a3_T6 t
+cậu	k au3_T6
+cắ	k a2_T3
+cắp	k a2_T3 p
+cắt	k a2_T3 t
+cặn	k a2_T6 n
+cặp	k a2_T6 p
+cố	k o2_T3
+cống	k o2_T3 ng
+cốt	k o2_T3 t
+cổ	k o2_T4
+cổng	k o2_T4 ng
+cộng	k o2_T6 ng
+cờ	k o3_T2
+cởi	k oi3_T4
+cỡ	k o3_T5
+cụ	k u1_T6
+cục	k u1_T6 k
+cụm	k u1_T6 m
+cụt	k u1_T6 t
+củ	k u1_T4
+của	k ua_T4
+củng	k u1_T4 ng
+cứ	k u2_T3
+cứng	k u2_T3 ng
+cứu	k uu2_T3
+cử	k u2_T4
+cửa	k ua2_T4
+cửu	k uu2_T4
+cự	k u2_T6
+cực	k u2_T6 k
+cựu	k uu2_T6
+d	d1
+da	j a1_T1
+damascus	j a1_T1 m a1_T3 x k u1_T1 s
+dame	j e2_T1 m
+danh	j a1_T1 nh
+daniel	j a1_T1 n i_T1 eo_T1
+darfur	j a1_T1 r ph oa_T1
+darling	j a1_T1 r l i_T1 ng
+darren	j a1_T1 r r e1_T1 n
+david	j a1_T1 j oi_T1
+day	j ay_T1
+dài	j ai_T1
+dàn	j a1_T1 n
+dàng	d1 a1_T1 ng
+dành	j a1_T1 nh
+dào	j ao_T1
+dám	j a1_T1 m
+dán	j a1_T1 n
+dáng	d1 a1_T1 ng
+dạy	j ay_T1
+de	j e1_T1
+democrats	j e1_T1 m o1_T1 k r a1_T1 t s
+demosthenes	j e1_T1 m o1_T1 x th e1_T1 n e1_T1 s
+denise	j e1_T1 n i_T1 s e1_T1
+des	j e1_T1 s
+design	j e1_T1 s i_T1 j i_T1 n
+dev	j e1_T1 v
+dẹp	j e2_T2 p
+di	j i_T1
+dialogue	j i_T1 a1_T1 l o1_T1 g o2_T1
+dignity	j i_T1 j i_T1 n i_T1 t i_T1
+dillon	j i_T1 l l o1_T1 n
+dinh	j i_T1 nh
+diếm	j ie2_T1 m
+diễn	j ie2_T1 n
+diện	j ie2_T1 n
+diệt	j ie2_T1 t
+dính	j i_T1 nh
+dịch	j i_T1 ch
+dịp	j i_T1 p
+diễn	j ie2_T5 n
+diện	j ie2_T6 n
+diệp	j ie2_T6 p
+diệt	j ie2_T6 t
+do	j o1_T1
+doa	j oa_T1
+doanh	j oa_T1 nh
+dolad	d2 o2_T1 l e2_T3 d2 e2_T1
+dominik	j o1_T1 m i_T1 n i_T1 k
+don	j o1_T1 n
+donald	j o1_T1 n a1_T1 l d1
+doukas	d2 o2_T1 u1_T1 k a1_T3 x
+dowling	j o1_T1 l i_T1 ng
+dòng	j o1_T1 ng
+dõi	j oi_T1
+dọa	j oa_T1
+dr	j t o3_T1
+du	j u1_T1
+dual	j ua_T1 n
+duigan	j ui_T1 g a1_T1 n
+dujarric	j u1_T1 d1 a1_T1 r r i_T1 k
+duncan	j u1_T1 n k a1_T1 n
+dung	j u1_T1 ng
+dunlop	j u1_T1 n l o2_T1 p
+duterte	j u1_T1 t o3_T1 t e1_T1
+duy	j uy_T1
+duyen	j uy_T1 e1_T1 n
+duyệt	j uy_T1 e2_T1 t
+duyệt	j uy_T1 e2_T6 t
+dùi	j ui_T1
+dùng	j u1_T1 ng
+dũng	j u1_T1 ng
+dục	j u1_T1 k
+dụng	j u1_T1 ng
+dvd	j v d1
+dyer	j i_T1 o3_T2
+dài	j ai_T2
+dàira	j ai_T2 d1 a1_T1
+dàng	d1 a1_T2 ng
+dành	j a1_T2 nh
+dày	j ay_T2
+dám	j a1_T3 m
+dán	j a1_T3 n
+dáng	j a1_T3 ng
+dâm	j a3_T1 m
+dân	j a3_T1 n
+dâng	j a3_T1 ng
+dântrong	j a3_T1 n tr o1_T1 ng
+dây	j ay3_T1
+dầu	j au3_T1
+dấu	j au3_T1
+dẫn	j a3_T1 n
+dã	j a1_T5
+dãy	j ay_T5
+dè	j e1_T2
+dép	d1 e1_T3 p
+dê	j e2_T1
+dìu	d1 iu_T2
+dính	j i_T3 nh
+díu	d1 iu_T3
+dò	j o1_T2
+dòng	j o1_T2 ng
+dồi	j oi2_T1
+dốc	j o2_T1 k
+dối	j oi2_T1
+dõi	j oi_T5
+dù	j u1_T2
+dùng	j u1_T2 ng
+dắt	d2 t
+dĩ	j i_T5
+dũng	j u1_T5 ng
+dời	j oi3_T1
+dư	j u2_T1
+dưng	j u2_T1 ng
+dương	j ua2_T1 ng
+dường	j ua2_T1 ng
+dưới	j uoi3_T1
+dưỡng	j ua2_T1 ng
+dứa	j ua2_T1
+dứt	j u2_T1 t
+dựa	j ua2_T1
+dựng	j u2_T1 ng
+dưới	j uoi3_T3
+dường	j ua2_T2 ng
+dưỡng	j ua2_T5 ng
+dạn	j a1_T6 n
+dạng	j a1_T6 ng
+dạy	j ay_T6
+dả	d1 a1_T4
+dảng	j a1_T4 ng
+dấn	j a3_T3 n
+dấu	j au3_T3
+dấy	j ay3_T3
+dần	j a3_T2 n
+dầu	j au3_T2
+dẩn	d1 a3_T4 n
+dẫn	j a3_T5 n
+dậm	j a3_T6 m
+dập	j a3_T6 p
+dậy	j ay3_T6
+dắt	j a2_T3 t
+dằn	j a2_T2 n
+dặn	j a2_T6 n
+dể	j e2_T4
+dễ	j e2_T5
+dị	j i_T6
+dịch	j i_T6 ch
+dịp	j i_T6 p
+dọa	j oa_T6
+dốc	j o2_T3 k
+dối	j oi2_T3
+dồi	j oi2_T2
+dỗ	j o2_T5
+dội	j oi2_T6
+dời	j oi3_T2
+dụ	j u1_T6
+dục	j u1_T6 k
+dụm	d1 u1_T6 m
+dụng	j u1_T6 ng
+dứt	j u2_T3 t
+dừng	j u2_T2 ng
+dữ	j u2_T5
+dự	j u2_T6
+dựa	j ua2_T6
+dựng	j u2_T6 ng
+e	e1_T1
+easter	e2_T1 a1_T3 x t o3_T1
+eastern	e2_T1 a1_T3 x t o3_T1 n
+eat	e2_T1 a1_T3 t
+ecuador	e1_T1 k ua_T1 d2 t o3_T1
+ecuadortrong	e1_T1 k ua_T1 d2 o2_T1 d1 tr o1_T1 ng
+eddine	e2_T1 d2 d1 i_T1 n e1_T1
+edinburgh	e2_T1 d2 i_T1 n b ua_T1 g
+eduardo	e2_T1 d2 ua_T1 o1_T1 o1_T1
+edward	e2_T1 d2 ua_T1 o1_T1
+edwards	e2_T1 d2 ua_T1 o1_T1 s
+eftpos	e1_T1 ph t p o1_T1 s
+eiffel	ay3_T1 o1_T3 ph e1_T1 n
+ekin	e2_T1 k i_T1 n
+el	e1_T1 n
+elizabeth	e2_T1 l i_T3 s ay3_T1 b e1_T3 t t
+em	e2_T1 m
+email	e2_T1 m ai_T1 l
+emily	e2_T1 m i_T1 l i_T1
+emin	e2_T1 m i_T1 n
+emmanuel	e2_T1 m m n u1_T1 eo_T1
+energy	e1_T1 n e1_T3 k g i_T1
+engelbert	e1_T1 ng eo_T1 b o3_T1 t
+england	e1_T1 ng l a1_T1 n d2 e2_T1
+english	e1_T1 ng l i_T3 x h
+ennett	e1_T1 n n e1_T1 t t
+entertainment	e1_T1 n t o3_T1 t ai_T1 n m e1_T1 n t
+eo	eo_T1
+equador	e2_T1 k ua_T1 d2 t o3_T1
+erekat	e2_T1 r e2_T2 k a1_T3 t
+ericsson	e2_T1 d1 i_T1 k x x o1_T1 n
+ethiopia	e2_T1 th i_T1 o1_T1 p i_T1 a1_T1
+ethirajan	e2_T1 th i_T1 d1 a1_T1 d1 a1_T1 n
+ethnic	e2_T1 t th n i_T1 k
+euporie	ua_T1 p o1_T1 r i_T3 e1_T1
+ev	e2_T1 v
+evan	e2_T1 j a1_T1 n
+evenergi	e2_T1 v e1_T1 n e1_T3 k g i_T1
+f	ph
+facebook	ph a2_T3 e1_T3 p o1_T1 o1_T1 k
+fahim	e1_T1 ph a1_T1 h i_T1 m
+fairfield	e1_T1 ph a1_T1 i_T1 r ph i_T1 eo_T1 d2 e2_T1
+falster	e1_T1 ph a1_T1 l x t o3_T1
+family	e1_T1 ph a1_T1 m i_T1 l i_T1
+fan	ph a1_T1 n
+farm	e1_T1 ph a1_T1 d1 m
+faruqi	e1_T1 ph a1_T1 r u1_T1 k i_T1
+fashion	e1_T1 ph a1_T1 x i_T1 o1_T1 n
+fast	e1_T1 ph a1_T1 s t
+fatima	e1_T1 ph a1_T1 t i_T1 m a1_T1
+fecca	ph e1_T1 k k a1_T1
+federation	ph e2_T1 d2 e2_T1 d1 a1_T1 t i_T1 o1_T1 n
+federica	ph e2_T1 d2 e2_T1 d1 i_T1 k a1_T1
+field	ph i_T1 eo_T1 d2 e2_T1
+fiji	ph i_T1 d1 i_T1
+file	ph i_T1 l e1_T1
+files	ph i_T1 l e1_T3 s
+fiona	ph i_T1 o1_T1 n a1_T1
+fisher	ph i_T1 s th e1_T1
+fitzgerald	ph i_T1 t d1 g e1_T1 d1 a1_T1 n d2
+florida	ph l r oi_T1 a1_T1
+for	ph t o3_T1
+france	ph r a1_T1 k e1_T1
+francisco	ph r a1_T1 k i_T3 x k o2_T1
+frank	ph r a1_T1 k
+franklin	ph r a1_T1 k l i_T1 n
+free	ph o2_T1 e1_T1
+friday	ph r oi_T1 ay_T1
+fritz	ph r i_T3 t d1
+g	g
+gaddafi	g a1_T1 j d2 a1_T1 ph i_T1
+gai	g ai_T1
+gallipoli	g a1_T1 l l i_T3 p o2_T1 l i_T1
+game	g e2_T1 m
+gandhi	g a1_T1 n d2 i_T1
+gantz	g a1_T1 n t d1
+gardiner	g a1_T1 d1 d1 i_T1 n e1_T1 r
+gaulle	g a1_T1 u1_T1 n e1_T1
+gavin	g a1_T1 j i_T1 n
+gay	g ay_T1
+gazi	g a1_T1 nh i_T1
+gác	g a1_T1 k
+gái	g ai_T1
+gánh	g a1_T1 nh
+gdđt	j i_T1 d2 i_T1 d2 t
+gear	g e1_T1 a1_T1
+general	g e1_T1 n e1_T1 d1 a1_T1 n
+geneva	g e1_T1 n e2_T1 v a1_T1
+george	g e1_T1 o2_T1 g e1_T1
+georges	g e1_T1 o2_T1 g e1_T1 s
+getup	g e1_T1 t u1_T1 p
+ghadafi	g a1_T1 j a1_T1 ph i_T1
+ghazar	g a1_T1 d1 a1_T1
+ghazarian	g a1_T1 d1 r i_T1 a1_T1 n
+ghét	g e1_T1 t
+ghi	g i_T1
+ghim	g i_T1 m
+ghnouno	g n o2_T1 u1_T1 n o2_T1
+ghé	g e1_T3
+ghép	g e1_T3 p
+ghét	g e1_T3 t
+ghê	g e2_T1
+ghẹo	g eo_T6
+ghế	g e2_T3
+ghề	g e2_T2
+gi	j
+gia	j a1_T1
+giai	j ai_T1
+giam	j a1_T1 m
+gian	j a1_T1 n
+giang	j a1_T1 ng
+giao	j ao_T1
+giàn	j a1_T1 n
+giành	j a1_T1 nh
+giàu	j au_T1
+giác	j a1_T1 k
+giám	j a1_T1 m
+gián	j a1_T1 n
+giáo	j ao_T1
+giải	j ai_T1
+giảm	j a1_T1 m
+giản	j a1_T1 n
+giảng	j a1_T1 ng
+gieo	j eo_T1
+gillard	j n a1_T1 d2 e2_T1
+giỏi	j oi_T1
+girls	j r l s
+giun	d1 u1_T1 n
+giúp	j u1_T1 p
+giục	j u1_T1 k
+già	j a1_T2
+giành	j a1_T2 nh
+giàu	j au_T2
+giày	j ay_T2
+giá	j a1_T3
+giác	j a1_T3 k
+giám	j a1_T3 m
+gián	j a1_T3 n
+giáng	j a1_T3 ng
+giáo	j ao_T3
+giáp	j a1_T3 p
+giây	j ay3_T1
+giấu	j au3_T1
+giận	j a3_T1 n
+giêng	j e2_T1 ng
+gió	j o1_T3
+giống	j o2_T1 ng
+giùm	j u1_T2 m
+giúp	j u1_T3 p
+giăm	j a2_T1 m
+giăng	j a2_T1 ng
+giơ	j o3_T1
+giới	j oi3_T1
+giư	j u2_T1
+giữa	j ua2_T1
+giường	j ua2_T2 ng
+gìn	j n
+giả	j a1_T4
+giải	j ai_T4
+giảm	j a1_T4 m
+giản	j a1_T4 n
+giảng	j a1_T4 ng
+giấc	j a3_T3 k
+giấu	j au3_T3
+giấy	j ay3_T3
+giận	j a3_T6 n
+giật	j a3_T6 t
+giặt	j a2_T6 t
+giết	j e2_T3 t
+giềng	j e2_T2 ng
+giọng	j o1_T6 ng
+giỏi	j oi_T4
+giống	j o2_T3 ng
+giới	j oi3_T3
+giờ	j o3_T2
+giỡn	j o3_T5 n
+giữ	j u2_T5
+giữa	j ua2_T5
+giựt	j u2_T6 t
+global	g l o2_T1 b a1_T1 l
+glory	g l o2_T1 r i_T1
+good	g o1_T1 o1_T1 d1
+google	g o1_T1 o1_T1 g l e1_T1
+gothic	g o1_T3 h i_T1 k
+gov	g o2_T3 p v
+góp	g o1_T1 p
+gọi	g oi_T1
+gps	g p s
+graham	g r a1_T1 h a1_T1 m
+grandma	g d1 a1_T1 n d2 m
+grantz	g r a1_T1 t d1
+greg	g r e2_T1 g
+greham	g o2_T1 h a1_T1 m
+group	g r o2_T1 u1_T1 p
+gs	g s
+guaidó	g ua_T1 oi_T1 o1_T3
+guine	g i_T1 n e1_T1
+guinea	g i_T1 e2_T1 a1_T1
+guitar	g ui_T1 t a1_T1 r
+gunasekara	g n a1_T3 x e1_T3 k a1_T1 d1 a1_T1
+guns	g n s
+gũi	g ui_T1
+guồng	g ua_T2 ng
+gác	g a1_T3 k
+gái	g ai_T3
+gánh	g a1_T3 nh
+gây	g ay3_T1
+gần	g a3_T1 n
+gấp	g a3_T1 p
+gã	g a1_T5
+gì	g i_T2
+gò	g o1_T2
+gòn	g o1_T2 n
+góc	g o1_T3 k
+gói	g oi_T3
+góp	g o1_T3 p
+gồm	g o2_T1 m
+gồn	g o2_T1 n
+gốc	g o2_T1 k
+gắn	g a2_T1 n
+gặp	g a2_T1 p
+gũi	g ui_T5
+gơ	g o3_T1
+gởi	g oi3_T1
+gương	g ua2_T1 ng
+gường	g ua2_T2 ng
+gạo	g ao_T6
+gấp	g a3_T3 p
+gầm	g a3_T2 m
+gần	g a3_T2 n
+gầy	g ay3_T2
+gắn	g a2_T3 n
+gắng	g a2_T3 ng
+gắp	g a2_T3 p
+gặn	g a2_T6 n
+gặp	g a2_T6 p
+gỉai	g i_T4 ai_T1
+gọi	g oi_T6
+gọng	g o1_T6 ng
+gốc	g o2_T3 k
+gồ	g o2_T2
+gồm	g o2_T2 m
+gởi	g oi3_T4
+gỡ	g o3_T5
+gợi	g oi3_T6
+gửi	g ui2_T4
+h	h
+ha	h a1_T1
+haftar	h a1_T1 ph t a1_T1
+hai	h ai_T1
+haluk	h a1_T1 l u1_T1 k
+hang	h a1_T1 ng
+hanrahan	h a1_T1 n d1 a1_T1 h a1_T1 n
+harman	h a1_T1 d1 m a1_T1 n
+harmony	h a1_T1 d1 m o1_T1 n i_T1
+harrop	h a1_T1 d1 r o1_T1 p
+harry	h a1_T1 d1 r i_T1
+harvey	h a1_T1 d1 v e2_T1 i_T1
+hastag	h a1_T1 s t a1_T1 g
+hawl	h a1_T1 n
+hay	h ay_T1
+hayley	h ay_T1 l e1_T3 i_T1
+hài	h ai_T1
+hàn	h a1_T1 n
+hàng	h a1_T1 ng
+hành	h a1_T1 nh
+hái	h ai_T1
+hán	h a1_T1 n
+hát	h a1_T1 t
+hãi	h ai_T1
+hãm	h a1_T1 m
+hãn	h a1_T1 n
+hãnh	h a1_T1 nh
+hãy	h ay_T1
+hải	h ai_T1
+hảo	h ao_T1
+hại	h ai_T1
+hạn	h a1_T1 n
+hạng	h a1_T1 ng
+hạnh	h a1_T1 nh
+hcm	h k m
+headspace	h e1_T1 a1_T1 s p e2_T1 a2_T3 e1_T1
+helpline	h eo_T1 p o3_T2 l i_T1 n e1_T1
+hèn	h e1_T1 n
+hẹn	h e1_T1 n
+higgins	h i_T1 j i_T1 d1 i_T1 n s
+hilary	h i_T1 l a1_T1 r i_T1
+hilson	h i_T1 l x o1_T1 n
+hiv	h i_T1 v
+hiên	h ie2_T1 n
+hiền	h ie2_T1 n
+hiếm	h ie2_T1 m
+hiến	h ie2_T1 n
+hiếp	h ie2_T1 p
+hiếu	h ieu_T1
+hiểm	h ie2_T1 m
+hiểu	h ieu_T1
+hiện	h ie2_T1 n
+hiệp	h ie2_T1 p
+hiệu	h ieu_T1
+hình	h i_T1 nh
+hiếm	h ie2_T3 m
+hiến	h ie2_T3 n
+hiết	h ie2_T3 t
+hiếu	h ieu_T3
+hiềm	h ie2_T2 m
+hiền	h ie2_T2 n
+hiểm	h ie2_T4 m
+hiển	h ie2_T4 n
+hiểu	h ieu_T4
+hiện	h ie2_T6 n
+hiệp	h ie2_T6 p
+hiệu	h ieu_T6
+ho	h o1_T1
+hoa	h oa_T1
+hoan	h oa_T1 n
+hoang	h oa_T1 ng
+hoax	h oa_T1 x
+hoay	h oa_T1 i_T1
+hoàn	h oa_T1 n
+hoàng	h oa_T1 ng
+hoãn	h oa_T1 n
+hoảng	h oa_T1 ng
+hoạch	h oa_T1 ch
+hoại	h oa_T1 i_T1
+hoạn	h oa_T1 n
+hoạt	h oa_T1 t
+hobart	h o1_T1 b a1_T1 a1_T1
+hoda	h o1_T1 j a1_T1
+hoi	h oi_T1
+hong	h o1_T1 ng
+hoọc	h o1_T3 k
+hotspur	h o1_T1 t s p e2_T1 oa_T1
+hoà	h oa_T2
+hoài	h oa_T2 i_T1
+hoàn	h oa_T2 n
+hoàng	h oa_T2 ng
+hoành	h oa_T2 nh
+hoá	h oa_T3
+hoãn	h oa_T5 n
+hoặc	h o1_T1 a2_T1 k
+hòa	h oa_T1
+hòn	h o1_T1 n
+hóa	h oa_T1
+hỏa	h oa_T1
+hỏi	h oi_T1
+họa	h oa_T1
+học	h o1_T1 k
+họcái	h o1_T1 k ai_T1
+họng	h o1_T1 ng
+họp	h o1_T1 p
+hoạch	h oa_T6 ch
+hoại	h oa_T6 i_T1
+hoạn	h oa_T6 n
+hoạt	h oa_T6 t
+hoảng	h oa_T4 ng
+hoặc	h o1_T1 a2_T6 k
+hrafnsson	h d1 a1_T1 ph n x x o1_T1 n
+hu	h u1_T1
+hughes	h u1_T1 g e1_T1 s
+humzeh	h u1_T1 m x e2_T1 t
+hung	h u1_T1 ng
+hunt	h u1_T1 n t
+hussein	h u1_T1 s x e2_T1 i_T1 n
+huu	h u1_T1 u1_T1
+huy	h uy_T1
+huynh	h uy_T1 nh
+huyên	h uy_T1 e2_T1 n
+huỳnh	h uy_T1 nh
+huyết	h uy_T1 e2_T3 t
+huyền	h uy_T1 e2_T2 n
+huấn	h u1_T1 a3_T1 n
+huống	h ua_T1 ng
+huýt	h uy_T3 t
+huơng	h u1_T1 o3_T1 ng
+hủy	h uy_T1
+huấn	h ua_T3 n
+huống	h ua_T3 ng
+huỳnh	h uy_T2 nh
+hy	h i_T1
+hà	h a1_T2
+hài	h ai_T2
+hàn	h a1_T2 n
+hàng	h a1_T2 ng
+hành	h a1_T2 nh
+hào	h ao_T2
+hách	h a1_T3 ch
+hái	h ai_T3
+hán	h a1_T3 n
+háo	h ao_T3
+hát	h a1_T3 t
+hâm	h a3_T1 m
+hân	h a3_T1 n
+hầm	h a3_T1 m
+hầu	h au3_T1
+hận	h a3_T1 n
+hậu	h au3_T1
+hãi	h ai_T5
+hãng	h a1_T5 ng
+hãnh	h a1_T5 nh
+hãy	h ay_T5
+hè	h e1_T2
+hèn	h e1_T2 n
+hé	h e1_T3
+hét	h e1_T3 t
+hê	h e2_T1
+hết	h e2_T1 t
+hình	h i_T2 nh
+hòa	h oa_T2
+hòn	h o1_T2 n
+hóa	h oa_T3
+hô	h o2_T1
+hôm	h o2_T1 m
+hôn	h o2_T1 n
+hồi	h oi2_T1
+hồng	h o2_T1 ng
+hỗn	h o2_T1 n
+hội	h oi2_T1
+hùng	h u1_T2 ng
+hút	h u1_T3 t
+hăng	h a2_T1 ng
+hẵn	h a2_T1 n
+hđnd	h d2 n d2 e2_T1
+hđtp	h d2 t p
+hơ	h o3_T1
+hơi	h oi3_T1
+hơn	h o3_T1 n
+hợp	h o3_T1 p
+hư	h u2_T1
+hưng	h u2_T1 ng
+hưu	h uu2_T1
+hương	h ua2_T1 ng
+hướng	h ua2_T1 ng
+hưởng	h ua2_T1 ng
+hứa	h ua2_T1
+hữu	h uu2_T1
+hước	h ua2_T3 k
+hướng	h ua2_T3 ng
+hưởng	h ua2_T4 ng
+hạ	h a1_T6
+hại	h ai_T6
+hạn	h a1_T6 n
+hạng	h a1_T6 ng
+hạnh	h a1_T6 nh
+hạt	h a1_T6 t
+hả	h a1_T4
+hải	h ai_T4
+hảnh	h a1_T4 nh
+hấn	h a3_T3 n
+hấp	h a3_T3 p
+hầm	h a3_T2 m
+hầu	h au3_T2
+hậu	h au3_T6
+hậy	h ay3_T6
+hắn	h a2_T3 n
+hằn	h a2_T2 n
+hằng	h a2_T2 ng
+hẳn	h a2_T4 n
+hẹn	h e1_T6 n
+hẻm	h e1_T4 m
+hẻo	h eo_T4
+hết	h e2_T3 t
+hề	h e2_T2
+hển	h e2_T4 n
+hệ	h e2_T6
+hỉ	h i_T4
+họ	h o1_T6
+họa	h oa_T6
+học	h o1_T6 k
+họp	h o1_T6 p
+hỏa	h oa_T4
+hỏi	h oi_T4
+hố	h o2_T3
+hối	h oi2_T3
+hồ	h o2_T2
+hồi	h oi2_T2
+hồn	h o2_T2 n
+hồng	h o2_T2 ng
+hổ	h o2_T4
+hổn	h o2_T4 n
+hổng	h o2_T4 ng
+hỗ	h o2_T5
+hỗn	h o2_T5 n
+hộ	h o2_T6
+hội	h oi2_T6
+hời	h oi3_T2
+hợp	h o3_T6 p
+hợt	h o3_T6 t
+hụt	h u1_T6 t
+hủy	h uy_T4
+hứa	h ua2_T3
+hức	h u2_T3 k
+hứng	h u2_T3 ng
+hữu	h uu2_T5
+hực	h u2_T6 k
+i	i_T1
+ian	i_T1 a1_T1 n
+iceland	i_T1 k e2_T1 l a1_T1 n d2 e2_T1
+identity	oi_T1 e1_T1 n t i_T1 t i_T1
+idlib	oi_T1 l i_T1 b
+ihor	ai_T1 o1_T3 t o3_T1
+ilhan	h a1_T1 n
+im	i_T1 m
+in	i_T1 n
+indira	i_T1 n j i_T1 d1 a1_T1
+indonesia	i_T1 n j o1_T1 n e1_T1 s i_T1 a1_T1
+industrial	i_T1 n d2 u1_T3 tr i_T1 a1_T1 n
+initiative	i_T1 n i_T1 t i_T1 a1_T1 t i_T1 j e1_T1
+insight	i_T1 n s i_T1 j i_T1 h t
+international	i_T1 n t e1_T1 r n a1_T1 t i_T1 o1_T1 n a1_T1 l
+internet	i_T1 n t e1_T1 r n e1_T1 t
+iraq	i_T1 d1 a1_T1 k
+iron	i_T1 d1 o1_T1 n
+irrigation	i_T1 d1 r i_T1 j i_T1 a1_T1 t i_T1 o1_T1 n
+is	i_T1 s
+isabella	i_T1 s a1_T1 b eo_T1 l a1_T1
+isis	i_T1 s i_T1 s
+island	i_T1 s l a1_T1 n d2 e2_T1
+islands	i_T1 s l a1_T1 n d2 s
+israel	i_T1 s d1 a1_T1 eo_T1
+ích	ai_T1 ch
+ít	i_T1 t
+jacinda	j a2_T3 i_T1 n j a1_T1
+jackson	j a2_T3 k x o1_T1 n
+jaison	j ai_T1 x o1_T1 n
+jakarta	j a1_T1 k a1_T1 r t a1_T1
+jama	j a1_T1 m a1_T1
+jamaath	j a1_T1 m a1_T3 a1_T1 t t
+james	j e2_T1 m s
+jasarevic	j a1_T3 x a1_T1 r e2_T1 j i_T1 k
+jateff	j e2_T3 t o1_T3 ph
+jaylani	j ay_T1 l a1_T1 n i_T1
+jazeera	j a1_T1 x e2_T1 e2_T1 d1 a1_T1
+jean	j i_T1 n
+jeff	j o1_T3 ph
+jelena	j l e1_T1 n a1_T1
+jennifer	j n i_T1 ph e1_T1 r
+jeremiah	j o2_T1 m i_T1 a1_T1 h
+jeremy	j o2_T1 m i_T1
+jeronimuc	j r o2_T1 n i_T1 m u1_T1 k
+jeronimus	j r o2_T1 n i_T1 m u1_T1 s
+jerry	j d1 r i_T1
+jessica	j e1_T3 s i_T1 k a1_T1
+jesus	j e1_T3 x u1_T1 s
+jill	d1 i_T1 n
+job	j o2_T1 b
+john	j o2_T1 h n
+joko	j o2_T1 k o2_T1
+jokowi	j o2_T1 k o2_T1 o1_T1 ai_T1
+joseph	j o2_T1 x e1_T3 ph
+josh	j o2_T1 s h
+joyce	j o2_T1 i_T1 k e1_T1
+juan	j ua_T1 n
+julia	j u1_T1 l i_T1 a1_T1
+julian	j u1_T1 l i_T1 a1_T1 n
+juwita	j u1_T1 o1_T1 i_T1 t a1_T1
+k	k
+kamran	k a1_T1 m r a1_T1 n
+kapadia	k a1_T1 p a1_T1 j i_T1 a1_T1
+karakoc	k a1_T1 d1 a1_T1 k o1_T1 k
+karen	k a1_T1 r e1_T1 n
+karttunaykka	k a1_T1 d1 t e2_T1 t e2_T1 u1_T1 n ay_T1 k k a1_T1
+katherine	k a1_T1 t th e1_T1 i_T1 n e1_T1
+kathleen	k a1_T1 t th l e1_T3 e1_T1 n
+katrina	k a1_T1 t d1 i_T1 n a1_T1
+ke	k e1_T1
+kelly	k e1_T1 eo_T1 i_T1
+kellyanne	k e1_T1 eo_T1 i_T1 a1_T1 n e1_T1
+kellyglen	k e1_T1 eo_T1 i_T1 g l e1_T1 n
+kemel	k e1_T1 m e1_T1 n
+kennedy	k e1_T1 n n e2_T1 d2 i_T1
+kerala	k e1_T1 d1 a1_T1 l a1_T1
+kevin	k e1_T1 j i_T1 n
+kèm	k e1_T1 m
+kém	k e1_T1 m
+kéo	k eo_T1
+kẹt	k e1_T1 t
+kha	kh a1_T1
+khai	kh ai_T1
+khaled	kh a1_T1 l e1_T3 d2 e2_T1
+khalifa	kh a1_T1 l i_T1 ph a1_T1
+khan	kh a1_T1 n
+kharel	kh a1_T1 r e1_T1 n
+khartoum	kh a1_T1 r t u1_T1 m
+khác	kh a1_T1 k
+khách	kh a1_T1 ch
+khám	kh a1_T1 m
+khát	kh a1_T1 t
+khe	kh e1_T1
+khen	kh e1_T1 n
+khét	kh e1_T1 t
+khi	kh i_T1
+khinh	kh i_T1 nh
+khiến	kh ie2_T1 n
+khiếp	kh ie2_T1 p
+khích	kh i_T1 ch
+khiến	kh ie2_T3 n
+khiếu	kh ieu_T3
+kho	kh o1_T1
+khoa	kh oa_T1
+khoan	kh oa_T1 n
+khoát	kh oa_T1 t
+khoản	kh oa_T1 n
+khoảng	kh oa_T1 ng
+khóc	kh o1_T1 k
+khỏe	kh oe_T1
+khỏi	kh oi_T1
+khoản	kh oa_T4 n
+khoảng	kh oa_T4 ng
+khoảnh	kh oa_T4 nh
+khu	kh u1_T1
+khung	kh u1_T1 ng
+khuynh	kh uy_T1 nh
+khuyên	kh uy_T1 e2_T1 n
+khuyến	kh uy_T1 e2_T1 n
+khuyến	kh uy_T1 e2_T3 n
+khuât	kh u1_T1 a3_T1 t
+khuôn	kh ua_T1 n
+khủng	kh u1_T1 ng
+khuấy	kh ua_T3 i_T1
+khá	kh a1_T3
+khác	kh a1_T3 k
+khách	kh a1_T3 ch
+khái	kh ai_T3
+khám	kh a1_T3 m
+khán	kh a1_T3 n
+kháng	kh a1_T3 ng
+khâu	kh au3_T1
+khấu	kh au3_T1
+khẩn	kh a3_T1 n
+khép	kh e1_T3 p
+khét	kh e1_T3 t
+khêu	kh e2_T1 u1_T1
+khí	kh i_T3
+khía	kh i_T3 a1_T1
+khích	kh i_T3 ch
+khó	kh o1_T3
+khóa	kh oa_T3
+khóc	kh o1_T3 k
+khói	kh oi_T3
+khô	kh o2_T1
+khôi	kh oi2_T1
+không	kh o2_T1 ng
+khốc	kh o2_T1 k
+khống	kh o2_T1 ng
+khổng	kh o2_T1 ng
+khăm	kh a2_T1 m
+khăn	kh a2_T1 n
+khắc	kh a2_T1 k
+khắp	kh a2_T1 p
+khơi	kh oi3_T1
+khởi	kh oi3_T1
+khư	kh u2_T1
+khả	kh a1_T4
+khải	kh ai_T4
+khảm	kh a1_T4 m
+khảo	kh ao_T4
+khấy	kh ay3_T3
+khẩn	kh a3_T4 n
+khẩu	kh au3_T4
+khắc	kh a2_T3 k
+khắp	kh a2_T3 p
+khẳng	kh a2_T4 ng
+khỏe	kh oe_T4
+khỏi	kh oi_T4
+khố	kh o2_T3
+khốc	kh o2_T3 k
+khống	kh o2_T3 ng
+khổ	kh o2_T4
+khổng	kh o2_T4 ng
+khớp	kh o3_T3 p
+khởi	kh oi3_T4
+khủng	kh u1_T4 ng
+khứ	kh u2_T3
+ki	k i_T1
+kia	k ie2_T1
+kids	k oi_T1 s
+kim	k i_T1 m
+kinda	k i_T1 n j a1_T1
+kinh	k i_T1 nh
+kitô	k i_T1 t o2_T1
+kiêm	k ie2_T1 m
+kiên	k ie2_T1 n
+kiếm	k ie2_T1 m
+kiến	k ie2_T1 n
+kiểm	k ie2_T1 m
+kiểu	k ieu_T1
+kiệm	k ie2_T1 m
+kiện	k ie2_T1 n
+kích	k i_T1 ch
+kín	k i_T1 n
+kính	k i_T1 nh
+kịch	k i_T1 ch
+kiếm	k ie2_T3 m
+kiến	k ie2_T3 n
+kiểm	k ie2_T4 m
+kiểu	k ieu_T4
+kiệm	k ie2_T6 m
+kiện	k ie2_T6 n
+kiệt	k ie2_T6 t
+km	k m
+knesset	k n e1_T3 s e1_T1 t
+knight	k n i_T1 j i_T1 h t
+knih	k n i_T1 t
+knox	k n o1_T1 x
+kobashi	k o2_T1 b a1_T1 x i_T1
+kober	k o2_T1 b o3_T2
+kolomoisky	k o2_T1 l o2_T1 m oi_T1 s k i_T1
+kong	k o2_T1 ng
+korhan	k o2_T1 d1 h a1_T1 n
+kota	k o1_T1 t a1_T1
+kretsinger	k r e1_T3 t s i_T1 ng o3_T2
+kristinn	k r i_T3 s t i_T1 n n
+ksnd	k x n d2 e2_T1
+kucuksakalli	k u1_T1 k u1_T1 k s k a1_T1 l l i_T1
+ky	k i_T1
+kym	k i_T1 m
+kèm	k e1_T2 m
+kém	k e1_T3 m
+kéo	k eo_T3
+kê	k e2_T1
+kêu	k e2_T1 u1_T1
+kết	k e2_T1 t
+kích	k i_T3 ch
+kín	k i_T3 n
+kính	k i_T3 nh
+kông	k o2_T1 ng
+ký	k i_T3
+kẹt	k e1_T6 t
+kẻ	k e1_T4
+kế	k e2_T3
+kết	k e2_T3 t
+kềm	k e2_T2 m
+kể	k e2_T4
+kịch	k i_T6 ch
+kịp	k i_T6 p
+kịt	k i_T6 t
+kỳ	k i_T2
+kỷ	k i_T4
+kỹ	k i_T5
+l	l
+la	l a1_T1
+lab	l a1_T1 b i_T1
+lahore	l a1_T1 h o1_T1 r e1_T1
+lai	l ai_T1
+lal	l a1_T1 n
+lamoin	l a1_T1 m oi_T1 n
+lan	l a1_T1 n
+lang	l a1_T1 ng
+lanka	l a1_T1 n k a1_T1
+lankan	l a1_T1 n k a1_T1 n
+lao	l ao_T1
+latrobe	l a1_T1 t d1 o2_T1 b e1_T1
+latvia	l a1_T1 t v i_T1 a1_T1
+launceston	l au_T1 n e1_T3 s t o1_T1 n
+law	l a1_T1
+lay	l ay_T1
+làm	l a1_T1 m
+làng	l a1_T1 ng
+lái	l ai_T1
+lãng	l a1_T1 ng
+lãnh	l a1_T1 nh
+lạc	l a1_T1 k
+lại	l ai_T1
+le	l e1_T1
+leadership	l e1_T1 a1_T1 o3_T1 s h i_T1 p
+league	l e1_T1 a1_T1 g o2_T1
+learning	l e1_T1 a1_T1 n i_T1 ng
+legal	l e2_T1 g a1_T1 l
+legan	l e2_T1 g a1_T1 n
+len	l e1_T1 n
+lenin	l e1_T1 n i_T1 n
+leo	l eo_T1
+lèo	l eo_T1
+lẻo	l eo_T1
+lgbtqi	l g b t k i_T1
+lhq	l h k uy_T1
+li	l i_T1
+libya	l i_T1 b i_T1 a1_T1
+libyan	l i_T1 b i_T1 a1_T1 n
+lidcombe	l oi_T1 k o2_T1 m b e1_T1
+life	l i_T1 ph e1_T1
+like	l i_T3 k e1_T1
+likud	l i_T3 k u1_T1 d2 e2_T1
+lily	l i_T1 l i_T1
+lim	l i_T1 m
+lin	l i_T1 n
+linh	l i_T1 nh
+lisa	l i_T1 s a1_T1
+littleproud	l i_T3 t t l e2_T2 p r o2_T2 u1_T1 d2 e2_T1
+liz	l i_T3 s
+liêm	l ie2_T1 m
+liên	l ie2_T1 n
+liêu	l ieu_T1
+liền	l ie2_T1 n
+liệt	l ie2_T1 t
+liệu	l ieu_T1
+lính	l i_T1 nh
+líu	l iu_T1
+lĩnh	l i_T1 nh
+lịch	l i_T3 ch
+liếm	l ie2_T3 m
+liệt	l ie2_T6 t
+liệu	l ieu_T6
+lna	l n a1_T1
+lnaka	l n a1_T3 k a1_T1
+lo	l o1_T1
+loan	l oa_T1 n
+loanh	l oa_T1 nh
+loay	l oa_T1 i_T1
+loài	l oa_T1 i_T1
+loại	l oa_T1 i_T1
+loạn	l oa_T1 n
+loạt	l oa_T1 t
+lobby	l o1_T1 b b i_T1
+lodge	l o1_T1 j g e1_T1
+loi	l oi_T1
+london	l o1_T1 n j o1_T1 n
+long	l o1_T1 ng
+longwood	l o1_T1 ng o1_T1 o1_T1 o1_T1 d1
+lord	l o1_T1 o1_T1
+lost	l o1_T1 s t
+louis	l o1_T1 ui_T1 s
+louisa	l o1_T1 ui_T1 s a1_T1
+lowcock	l au3_T1 k o2_T3 k
+loài	l oa_T2 i_T1
+lòng	l o1_T1 ng
+lỏng	l o1_T1 ng
+lọc	l o1_T1 k
+lọt	l o1_T1 t
+loại	l oa_T6 i_T1
+loạn	l oa_T6 n
+loạt	l oa_T6 t
+lui	l ui_T1
+lung	l u1_T1 ng
+luyện	l uy_T1 e2_T1 n
+luyện	l uy_T1 e2_T6 n
+luân	l u1_T1 a3_T1 n
+luận	l u1_T1 a3_T1 n
+luật	l u1_T1 a3_T1 t
+luôn	l ua_T1 n
+lúc	l u1_T1 k
+lục	l u1_T1 k
+lụt	l u1_T1 t
+luận	l ua_T6 n
+luật	l ua_T6 t
+ly	l i_T1
+lybia	l i_T1 b i_T1 a1_T1
+lynham	l i_T1 nh a1_T1 m
+là	l a1_T2
+làm	l a1_T2 m
+làn	l a1_T2 n
+làng	l a1_T2 ng
+lành	l a1_T2 nh
+lá	l a1_T3
+lái	l ai_T3
+láng	l a1_T3 ng
+lánh	l a1_T3 nh
+lâm	l a3_T1 m
+lân	l a3_T1 n
+lâu	l au3_T1
+lây	l ay3_T1
+lầm	l a3_T1 m
+lần	l a3_T1 n
+lấy	l ay3_T1
+lập	l a3_T1 p
+lật	l a3_T1 t
+lãng	l a1_T5 ng
+lãnh	l a1_T5 nh
+lão	l ao_T5
+lén	l e1_T3 n
+lê	l e2_T1
+lêm	l e2_T1 m
+lên	l e2_T1 n
+lều	l e2_T1 u1_T1
+lệnh	l e2_T1 nh
+lính	l i_T3 nh
+líu	l iu_T3
+lòa	l oa_T2
+lòe	l oe_T2
+lòng	l o1_T2 ng
+lói	l oi_T3
+lót	l o1_T3 t
+lô	l o2_T1
+lôi	l oi2_T1
+lối	l oi2_T1
+lỗi	l oi2_T1
+lùa	l ua_T2
+lúc	l u1_T3 k
+lút	l u1_T3 t
+lý	l i_T3
+lăm	l a2_T1 m
+lăn	l a2_T1 n
+lắm	l a2_T1 m
+lắng	l a2_T1 ng
+lặng	l a2_T1 ng
+lĩnh	l i_T5 nh
+lũy	l u1_T5 i_T1
+lơ	l o3_T1
+lời	l oi3_T1
+lớn	l o3_T1 n
+lợi	l oi3_T1
+lưng	l u2_T1 ng
+lưu	l uu2_T1
+lương	l ua2_T1 ng
+lường	l ua2_T1 ng
+lược	l ua2_T1 k
+lượng	l ua2_T1 ng
+lửa	l ua2_T1
+lựa	l ua2_T1
+lực	l u2_T1 k
+lưới	l uoi3_T3
+lướt	l ua2_T3 t
+lưỡi	l uoi3_T5
+lược	l ua2_T6 k
+lượng	l ua2_T6 ng
+lạ	l a1_T6
+lạc	l a1_T6 k
+lại	l ai_T6
+lạm	l a1_T6 m
+lạnh	l a1_T6 nh
+lạp	l a1_T6 p
+lạt	l a1_T6 t
+lạy	l ay_T6
+lấp	l a3_T3 p
+lấy	l ay3_T3
+lầm	l a3_T2 m
+lần	l a3_T2 n
+lẩn	l a3_T4 n
+lẩy	l ay3_T4
+lẫm	l a3_T5 m
+lẫn	l a3_T5 n
+lẫy	l ay3_T5
+lận	l a3_T6 n
+lập	l a3_T6 p
+lật	l a3_T6 t
+lắm	l a2_T3 m
+lắn	l a2_T3 n
+lắng	l a2_T3 ng
+lắp	l a2_T3 p
+lằn	l a2_T2 n
+lặng	l a2_T6 ng
+lặp	l a2_T6 p
+lẻ	l e1_T4
+lẽ	l e1_T5
+lẽn	l e1_T5 n
+lề	l e2_T2
+lễ	l e2_T5
+lệ	l e2_T6
+lệch	l e2_T6 ch
+lệnh	l e2_T6 nh
+lịch	l i_T6 ch
+lọt	l o1_T6 t
+lỏi	l oi_T4
+lối	l oi2_T3
+lồ	l o2_T2
+lồi	l oi2_T2
+lỗ	l o2_T5
+lỗi	l oi2_T5
+lộ	l o2_T6
+lộc	l o2_T6 k
+lội	l oi2_T6
+lộn	l o2_T6 n
+lớ	l o3_T3
+lớn	l o3_T3 n
+lớp	l o3_T3 p
+lời	l oi3_T2
+lởi	l oi3_T4
+lỡ	l o3_T5
+lợi	l oi3_T6
+lục	l u1_T6 k
+lụy	l u1_T6 i_T1
+lứa	l ua2_T3
+lừ	l u2_T2
+lừa	l ua2_T2
+lừng	l u2_T2 ng
+lửa	l ua2_T4
+lựa	l ua2_T6
+lực	l u2_T6 k
+m	m
+ma	m a1_T1
+macintyre	m a2_T3 i_T1 t i_T1 r e1_T1
+macquarie	m a2_T3 k ua_T1 r i_T3 e1_T1
+macron	m a1_T1 k r o2_T1 ng
+madagascar	m a1_T1 j a1_T1 g a1_T3 x k a1_T1 r
+maduro	m a1_T1 ua_T1 o1_T1
+magnisky	m a1_T1 g n i_T1 s k i_T1
+mahiou	m a1_T1 h i_T1 o2_T1 u1_T1
+mai	m ai_T1
+maidan	m ai_T1 d2 a1_T1 n
+maithripala	m ai_T1 th r i_T3 p a1_T1 l a1_T1
+malcolm	m a1_T1 l k o2_T1 l m
+mamabolo	m a1_T1 m a1_T3 k b o1_T1 l o1_T1
+man	m a1_T1 n
+management	m a1_T1 n a1_T1 g e1_T1 m e1_T1 n t
+mang	m a1_T1 ng
+manh	m a1_T1 nh
+manik	m a1_T1 n i_T1 k
+manning	m a1_T1 n i_T1 ng
+manus	m a1_T1 n u1_T1 s
+maori	m ao_T1 r i_T1
+marco	m a1_T3 k o2_T1
+maree	m a1_T3 e2_T1 e1_T1
+margaret	m a1_T3 g a1_T1 r e1_T1 t
+maribyrnong	m a1_T3 i_T1 b i_T1 r n o1_T1 ng
+marise	m a1_T3 i_T3 x e1_T1
+mark	m a1_T3 k
+marketing	m a1_T3 k e1_T1 t i_T1 ng
+martins	m a1_T3 t i_T1 n s
+marx	m a1_T3 x
+mary	m a1_T3 i_T1
+mason	m a1_T3 x o1_T1 n
+massi	m a1_T3 x s i_T1
+master	m a1_T3 x t o3_T1
+mat	m a1_T1 t
+maureen	m au_T1 o2_T1 e1_T1 n
+maurice	m au_T1 d1 i_T1 k e1_T1
+mawjood	m a1_T1 d1 o1_T1 o1_T1 d1
+may	m ay_T1
+maythawan	m ay_T1 th a1_T1 a1_T1 n
+màu	m au_T1
+mát	m a1_T1 t
+máu	m au_T1
+máy	m ay_T1
+mãi	m ai_T1
+mãn	m a1_T1 n
+mảnh	m a1_T1 nh
+mạch	m a1_T1 ch
+mại	m ai_T1
+mạng	m a1_T1 ng
+mạnh	m a1_T1 nh
+mccormack	m k k o1_T1 d1 m a2_T3 k
+mccormick	m k k o1_T1 d1 m i_T1 k k
+mccornmack	m k k o2_T1 n m k k
+mcfarlane	m k ph a1_T1 r l a1_T1 n e1_T1
+mcgahn	m k g a1_T1 h n
+mcgowan	m k g au3_T1 a1_T1 n
+mcguire	m k g i_T1 r e1_T1
+me	m e1_T1
+medicare	m e2_T1 d2 i_T1 k a1_T1 r e1_T1
+mehmet	m e1_T1 h m e1_T1 t
+mehreen	m e1_T1 h o2_T1 e1_T1 n
+melbounre	m e1_T1 l k b o1_T1 u1_T1 n o2_T1
+melbourne	m e1_T1 l k b o1_T1 oa_T1 n e1_T1
+men	m e1_T1 n
+meobourne	m eo_T1 k b o1_T1 oa_T1 n e1_T1
+mét	m e1_T1 t
+michael	m i_T1 k a1_T1 eo_T1
+micheal	m i_T1 k e1_T1 a1_T1 n
+michelle	m i_T1 k e1_T1 l l e1_T1
+microwave	m i_T1 k r o2_T1 ua_T1 v e1_T1
+mike	m i_T3 k k e1_T1
+milne	m i_T1 l n e1_T1
+mindset	m i_T1 n d2 x e1_T3 t
+minh	m i_T1 nh
+minister	m i_T1 n i_T1 s t o3_T1
+minnesota	m i_T1 n e1_T3 o1_T1 t a1_T1
+misrata	m i_T1 s d1 a1_T1 t a1_T1
+mission	m i_T1 s s i_T1 o1_T1 n
+mitchell	m i_T1 t ch e1_T1 n
+mitchowo	m i_T1 t k au3_T1 o1_T1
+mix	m i_T3 k x
+miền	m ie2_T1 n
+miễn	m ie2_T1 n
+mình	m i_T1 nh
+miếng	m ie2_T3 ng
+miền	m ie2_T2 n
+miễn	m ie2_T5 n
+miệng	m ie2_T6 ng
+miệt	m ie2_T6 t
+mmới	m m oi3_T3
+mo	m o1_T1
+mogherini	m o2_T1 g th e1_T1 i_T1 n i_T1
+mohammed	m o2_T1 h a1_T1 m m d2 e2_T1
+mona	m o1_T1 n a1_T1
+monash	m o1_T1 n a1_T1 x h
+moncada	m o1_T1 n k a1_T1 j a1_T1
+mondo	m o1_T1 n j o1_T1
+mong	m o1_T1 ng
+monim	m o1_T1 n i_T1 m
+morcombe	m o2_T1 d1 k o2_T1 m b e1_T1
+morecombe	m o1_T1 r e1_T1 k o2_T1 m b e1_T1
+morecombesphát	m o1_T1 r e1_T1 k o2_T1 m b e1_T3 ph a1_T3 t
+moreno	m o1_T1 r e1_T1 n o1_T1
+morision	m o2_T1 r i_T3 x i_T1 o1_T1 n
+morison	m o2_T1 r i_T3 x o1_T1 n
+morrision	m o2_T1 r i_T3 x i_T1 o1_T1 n
+morrison	m o2_T1 r i_T3 x o1_T1 n
+mortlock	m o1_T1 r t l o2_T3 k
+moscow	m o1_T1 x k au3_T1
+mòn	m o1_T1 n
+mói	m oi_T1
+món	m o1_T1 n
+mỏi	m oi_T1
+mọc	m o1_T1 k
+mọi	m oi_T1
+mr	m t o3_T1
+mu	m u1_T1
+mua	m ua_T1
+muammar	m ua_T1 m m a1_T1
+mueller	m o2_T1 eo_T1 o3_T2
+muller	m u1_T1 n o3_T2
+muray	m ua_T1 ay_T1
+murray	m ua_T1 r ay_T1
+muru	m u1_T1 r u1_T1
+muà	m u1_T1 a1_T2
+muông	m ua_T1 ng
+muốn	m ua_T1 n
+mùa	m ua_T1
+mùi	m ui_T1
+mũi	m ui_T1
+mục	m u1_T1 k
+muốn	m ua_T3 n
+muộn	m ua_T6 n
+my	m i_T1
+myanmar	m i_T1 a1_T1 n m a1_T1
+mylvaganam	m i_T1 l v a1_T1 g a1_T1 n a1_T1 m
+mà	m a1_T2
+màn	m a1_T2 n
+màu	m au_T2
+mày	m ay_T2
+mác	m a1_T3 k
+mái	m ai_T3
+mát	m a1_T3 t
+máu	m au_T3
+máy	m ay_T3
+mất	m a3_T1 t
+mẫu	m au3_T1
+mật	m a3_T1 t
+mậu	m au3_T1
+mã	m a1_T5
+mãi	m ai_T5
+mãn	m a1_T5 n
+mãnh	m a1_T5 nh
+mét	m e1_T3 t
+mê	m e2_T1
+mì	m i_T2
+mình	m i_T2 nh
+mò	m o1_T2
+mòn	m o1_T2 n
+món	m o1_T3 n
+móng	m o1_T3 ng
+mô	m o2_T1
+môi	m oi2_T1
+môn	m o2_T1 n
+mông	m o2_T1 ng
+môt	m o2_T1 t
+mối	m oi2_T1
+mỗi	m oi2_T1
+một	m o2_T1 t
+mù	m u1_T2
+mùa	m ua_T2
+mùi	m ui_T2
+mắn	m a2_T1 n
+mắt	m a2_T1 t
+mặc	m a2_T1 k
+mặt	m a2_T1 t
+mũ	m u1_T5
+mơ	m o3_T1
+mời	m oi3_T1
+mới	m oi3_T1
+mưa	m ua2_T1
+mưu	m uu2_T1
+mươi	m uoi3_T1
+mướn	m ua2_T1 n
+mức	m k
+mực	m k
+mười	m uoi3_T2
+mại	m ai_T6
+mạn	m a1_T6 n
+mạng	m a1_T6 ng
+mạnh	m a1_T6 nh
+mảng	m a1_T4 ng
+mảnh	m a1_T4 nh
+mất	m a3_T3 t
+mấy	m ay3_T3
+mầm	m a3_T2 m
+mần	m a3_T2 n
+mẩu	m au3_T4
+mẫu	m au3_T5
+mật	m a3_T6 t
+mắc	m a2_T3 k
+mắn	m a2_T3 n
+mắt	m a2_T3 t
+mặc	m a2_T6 k
+mặt	m a2_T6 t
+mẹ	m e1_T6
+mẹo	m eo_T6
+mẹt	m e1_T6 t
+mẻ	m e1_T4
+mẽ	m e1_T5
+mến	m e2_T3 n
+mệnh	m e2_T6 nh
+mệt	m e2_T6 t
+mỉm	m i_T4 m
+mị	m i_T6
+mọi	m oi_T6
+mọn	m o1_T6 n
+mỏ	m o1_T4
+mỏi	m oi_T4
+mối	m oi2_T3
+mồ	m o2_T2
+mồi	m oi2_T2
+mỗi	m oi2_T5
+mộ	m o2_T6
+mộng	m o2_T6 ng
+một	m o2_T6 t
+mớ	m o3_T3
+mới	m oi3_T3
+mờ	m o3_T2
+mời	m oi3_T2
+mở	m o3_T4
+mục	m u1_T6 k
+mức	m u2_T3 k
+mừng	m u2_T2 ng
+mực	m u2_T6 k
+mỹ	m i_T5
+n	n
+nab	n a1_T1 b i_T1
+nabil	n ay3_T1 b
+nadler	n a1_T1 j l o3_T2
+nairobi	n ai_T1 r o2_T1 b i_T1
+nam	n a1_T1 m
+nancy	n a1_T1 n i_T1
+narisetti	n a1_T1 r i_T3 x e1_T3 t t i_T1
+natale	n a1_T1 t o1_T3 e1_T1
+nation	n a1_T1 t i_T1 o1_T1 n
+national	n a1_T1 t i_T1 o1_T1 n a1_T1 l
+nationals	n a1_T1 t i_T1 o1_T1 n a1_T1 l s
+naulakha	n au_T1 l e2_T3 kh a1_T1
+nauru	n au_T1 r u1_T1
+nay	n ay_T1
+nào	n ao_T1
+nàocuối	n ao_T1 k uoi2_T1
+này	n ay_T1
+não	n ao_T1
+nạn	n a1_T1 n
+ncl	n k n
+nebenzia	n e1_T3 p e1_T1 n nh i_T1 a1_T1
+ned	n e1_T1 d2 e2_T1
+negombo	n e2_T1 g o1_T1 m k b o1_T1
+nepal	n e2_T2 p a1_T1 l
+nespolon	n e1_T3 p o2_T1 l o2_T1 ng
+net	n e1_T1 t
+netanyahu	n e1_T1 t a1_T1 n i_T1 a1_T1 h u1_T1
+nettleton	n e1_T1 t t l e1_T3 t o1_T1 n
+network	n e1_T1 t j o1_T3 k
+networks	n e1_T1 t j o2_T1 k s
+neumann	n e2_T1 u1_T1 m a1_T1 n
+new	n e1_T1 v
+news	n e1_T1 o1_T1 s
+nét	n e1_T1 t
+ng	ng
+nga	ng a1_T1
+ngang	ng a1_T1 ng
+ngay	ng ay_T1
+ngài	ng ai_T1
+ngàn	ng a1_T1 n
+ngành	ng a1_T1 nh
+ngày	ng ay_T1
+ngạc	ng a1_T1 k
+ngại	ng ai_T1
+nghe	ng e1_T1
+nghi	ng i_T1
+nghiêm	ng ie2_T1 m
+nghiên	ng ie2_T1 n
+nghiệm	ng ie2_T1 m
+nghiện	ng ie2_T1 n
+nghiệp	ng ie2_T1 p
+nghiệt	ng ie2_T1 t
+nghĩa	ng i_T1 a1_T1
+nghiệm	ng ie2_T6 m
+nghiện	ng ie2_T6 n
+nghiệp	ng ie2_T6 p
+nghèo	ng eo_T2
+nghê	ng e2_T1
+nghênh	ng e2_T1 nh
+nghìn	ng i_T2 n
+nghĩ	ng i_T5
+nghĩa	ng i_T5 a1_T1
+nghẹt	ng e1_T6 t
+nghẽn	ng e1_T5 n
+nghề	ng e2_T2
+nghệ	ng e2_T6
+nghỉ	ng i_T4
+nghị	ng i_T6
+ngoan	ng oa_T1 n
+ngoài	ng oa_T1 i_T1
+ngoái	ng oa_T1 i_T1
+ngoại	ng oa_T1 i_T1
+ngoạn	ng oa_T1 n
+ngoài	ng oa_T2 i_T1
+ngoái	ng oa_T3 i_T1
+ngoãn	ng oa_T5 n
+ngòi	ng oi_T1
+ngóng	ng o1_T1 ng
+ngọn	ng o1_T1 n
+ngọt	ng o1_T1 t
+ngoại	ng oa_T6 i_T1
+ngoải	ng oa_T4 i_T1
+ngoặt	ng o1_T1 a2_T6 t
+ngu	ng u1_T1
+nguy	ng uy_T1
+nguyên	ng uy_T1 e2_T1 n
+nguyễn	ng uy_T1 e2_T1 n
+nguyện	ng uy_T1 e2_T1 n
+nguyễn	ng uy_T1 e2_T5 n
+nguyện	ng uy_T1 e2_T6 n
+nguồn	ng ua_T1 n
+ngùng	ng u1_T1 ng
+nguồn	ng ua_T2 n
+nguời	ng u1_T1 oi3_T2
+ngài	ng ai_T2
+ngàn	ng a1_T2 n
+ngàng	ng a1_T2 ng
+ngành	ng a1_T2 nh
+ngày	ng ay_T2
+ngáo	ng ao_T3
+ngân	ng a3_T1 n
+ngây	ng ay3_T1
+ngất	ng a3_T1 t
+ngập	ng a3_T1 p
+ngã	ng a1_T5
+ngòi	ng oi_T2
+ngó	ng o1_T3
+ngô	ng o2_T1
+ngôi	ng oi2_T1
+ngôn	ng o2_T1 n
+ngồi	ng oi2_T1
+ngõ	ng o1_T5
+ngăn	ng a2_T1 n
+ngắn	ng a2_T1 n
+ngặt	ng a2_T1 t
+ngũ	ng u1_T5
+ngơ	ng o3_T1
+ngợi	ng oi3_T1
+ngư	ng u2_T1
+ngưng	ng u2_T1 ng
+người	ng uoi3_T1
+ngược	ng uoi3_T1 k
+ngựa	ng ua2_T1
+người	ng uoi3_T2
+ngược	ng ua2_T6 k
+ngạc	ng a1_T6 k
+ngạch	ng a1_T6 ch
+ngại	ng ai_T6
+ngả	ng a1_T4
+ngầm	ng a3_T2 m
+ngẩn	ng a3_T4 n
+ngẫm	ng a3_T5 m
+ngập	ng a3_T6 p
+ngắn	ng a2_T3 n
+ngặt	ng a2_T6 t
+ngọc	ng o1_T6 k
+ngọn	ng o1_T6 n
+ngỏ	ng o1_T4
+ngồi	ng oi2_T2
+ngột	ng o2_T6 t
+ngớ	ng o3_T3
+ngờ	ng o3_T2
+ngỡ	ng o3_T5
+ngợi	ng oi3_T6
+ngợp	ng o3_T6 p
+ngụ	ng u1_T6
+ngụy	ng u1_T6 i_T1
+ngủ	ng u1_T4
+ngừa	ng ua2_T2
+ngừng	ng u2_T2 ng
+ngữ	ng u2_T5
+ngự	ng u2_T6
+ngực	ng u2_T6 k
+nha	nh a1_T1
+nhac	nh a1_T1 k
+nhanh	nh a1_T1 nh
+nhanpham	nh a1_T1 n ph a1_T1 m
+nhau	nh au_T1
+nhát	nh a1_T1 t
+nhạc	nh a1_T1 k
+nhi	nh i_T1
+nhiên	nh ie2_T1 n
+nhiêu	nh ieu_T1
+nhiều	nh ieu_T1
+nhiễm	nh ie2_T1 m
+nhiệm	nh ie2_T1 m
+nhiệt	nh ie2_T1 t
+nhìn	nh i_T1 n
+nhiều	nh ieu_T2
+nhiểm	nh ie2_T4 m
+nhiễm	nh ie2_T5 m
+nhiệm	nh ie2_T6 m
+nhiệt	nh ie2_T6 t
+nho	nh o1_T1
+nhóm	nh o1_T1 m
+nhu	nh u1_T1
+nhuận	nh u1_T1 a3_T1 n
+nhuận	nh ua_T6 n
+nhuộm	nh ua_T6 m
+nhà	nh a1_T2
+nhàng	nh a1_T2 ng
+nhào	nh ao_T2
+nhàtại	nh a1_T2 t ai_T6
+nhàu	nh au_T2
+nhái	nh ai_T3
+nhánh	nh a1_T3 nh
+nhát	nh a1_T3 t
+nháy	nh ay_T3
+nhân	nh a3_T1 n
+nhât	nh a3_T1 t
+nhấn	nh a3_T1 n
+nhất	nh a3_T1 t
+nhẫn	nh a3_T1 n
+nhận	nh a3_T1 n
+nhập	nh a3_T1 p
+nhật	nh a3_T1 t
+nhã	nh a1_T5
+nhãn	nh a1_T5 n
+nhãng	nh a1_T5 ng
+nhên	nh e2_T1 n
+nhì	nh i_T2
+nhìn	nh i_T2 n
+nhóm	nh o1_T3 m
+nhằm	nh a2_T1 m
+nhắm	nh a2_T1 m
+nhắn	nh a2_T1 n
+nhĩ	nh i_T5
+nhũng	nh u1_T5 ng
+nhơ	nh o3_T1
+như	nh u2_T1
+nhưn	nh u2_T1 n
+nhưng	nh u2_T1 ng
+nhức	nh u2_T1 k
+những	nh u2_T1 ng
+nhược	nh ua2_T6 k
+nhượng	nh ua2_T6 ng
+nhạc	nh a1_T6 k
+nhạn	nh a1_T6 n
+nhạt	nh a1_T6 t
+nhạy	nh ay_T6
+nhảy	nh ay_T4
+nhấn	nh a3_T3 n
+nhất	nh a3_T3 t
+nhầm	nh a3_T2 m
+nhậm	nh a3_T6 m
+nhận	nh a3_T6 n
+nhập	nh a3_T6 p
+nhật	nh a3_T6 t
+nhắc	nh a2_T3 k
+nhắm	nh a2_T3 m
+nhắn	nh a2_T3 n
+nhằm	nh a2_T2 m
+nhẹ	nh e1_T6
+nhị	nh i_T6
+nhỏ	nh o1_T4
+nhốt	nh o2_T3 t
+nhộn	nh o2_T6 n
+nhớ	nh o3_T3
+nhờ	nh o3_T2
+nhở	nh o3_T4
+nhủ	nh u1_T4
+nhức	nh u2_T3 k
+nhữ	nh u2_T5
+những	nh u2_T5 ng
+nhựng	nh u2_T6 ng
+nick	n i_T1 k k
+nicolas	n i_T1 k o1_T1 l a1_T1 s
+nigeria	n i_T1 j i_T1 e2_T1 r i_T1 a1_T1
+nikolic	n i_T1 k o2_T1 l i_T1 k
+ninh	n i_T1 nh
+niên	n ie2_T1 n
+niềm	n ie2_T1 m
+niệm	n ie2_T1 m
+niềm	n ie2_T2 m
+niệm	n ie2_T6 m
+no	n o2_T1
+noi	n oi_T1
+non	n o1_T1 n
+north	n o1_T3 t th
+notice	n o1_T1 t i_T1 k e1_T1
+notre	n o2_T1 tr e1_T1
+now	n au3_T1
+nói	n oi_T1
+nóng	n o1_T1 ng
+nsw	n x v
+nuôi	n uoi2_T1
+nàn	n a1_T2 n
+nào	n ao_T2
+này	n ay_T2
+náo	n ao_T3
+nát	n a1_T3 t
+náu	n au_T3
+nâng	n a3_T1 ng
+nầy	n ay3_T1
+nẩy	n ay3_T1
+nã	n a1_T5
+não	n ao_T5
+nè	n e1_T2
+né	n e1_T3
+ném	n e1_T3 m
+nét	n e1_T3 t
+nê	n e2_T1
+nên	n e2_T1 n
+nênnổi	n e2_T1 n n oi2_T4
+nêu	n e2_T1 u1_T1
+nếu	n e2_T1 u1_T1
+nó	n o1_T3
+nói	n oi_T3
+nón	n o1_T3 n
+nóng	n o1_T3 ng
+nô	n o2_T1
+nông	n o2_T1 ng
+nối	n oi2_T1
+nỗi	n oi2_T1
+nổi	n oi2_T1
+nội	n oi2_T1
+núi	n ui_T3
+nút	n u1_T3 t
+năm	n a2_T1 m
+nămnếu	n a2_T1 m n eu_T3
+năng	n a2_T1 ng
+nằm	n a2_T1 m
+nắm	n a2_T1 m
+nặc	n a2_T1 k
+nặng	n a2_T1 ng
+nơ	n o3_T1
+nơi	n oi3_T1
+nơiông	n oi3_T1 o2_T1 ng
+nư	n u2_T1
+nước	n ua2_T1 k
+nức	n k
+nữa	n ua2_T1
+nửa	n ua2_T1
+nước	n ua2_T3 k
+nướng	n ua2_T3 ng
+nại	n ai_T6
+nạn	n a1_T6 n
+nảy	n ay_T4
+nấu	n au3_T3
+nầy	n ay3_T2
+nắm	n a2_T3 m
+nắng	n a2_T3 ng
+nằm	n a2_T2 m
+nẵng	n a2_T5 ng
+nặn	n a2_T6 n
+nặng	n a2_T6 ng
+nếm	n e2_T3 m
+nến	n e2_T3 n
+nếu	n eu_T3
+nề	n e2_T2
+nền	n e2_T2 n
+nối	n oi2_T3
+nồi	n oi2_T2
+nổ	n o2_T4
+nổi	n oi2_T4
+nỗ	n o2_T5
+nỗi	n oi2_T5
+nộ	n o2_T6
+nội	n oi2_T6
+nộp	n o2_T6 p
+nở	n o3_T4
+nợ	n o3_T6
+nức	n u2_T3 k
+nửa	n ua2_T4
+nữ	n u2_T5
+nữa	n ua2_T5
+nựng	n u2_T6 ng
+o	o1_T1
+oan	oa_T1 n
+oán	oa_T1 n
+oberon	o1_T1 b o3_T1 o1_T1 n
+odarka	o1_T1 j a1_T1 r k a1_T1
+of	o1_T1 ph
+ohandjanian	o1_T1 h a1_T1 n d2 d1 a1_T1 n i_T1 a1_T1 n
+oleinikova	o2_T1 l e1_T3 i_T1 n i_T1 k o2_T1 v a1_T1
+olga	o1_T1 l g a1_T1
+oligarch	o1_T1 l i_T1 d1 i_T1 a1_T3 ch
+omar	o2_T1 m a1_T1 r
+on	o1_T1 n
+one	o1_T1 n e1_T1
+ong	o1_T1 ng
+operation	o1_T1 p e2_T1 d1 a1_T1 t i_T1 o1_T1 n
+oral	o1_T1 d1 a1_T1 n
+org	o1_T1 r j i_T1
+organ	o1_T1 r g a1_T1 n
+osman	o1_T1 x m a1_T1 n
+ottoman	o1_T3 t o2_T1 m a1_T1 n
+overseas	o1_T1 j o3_T1 x e1_T3 a1_T3 x
+oxytocin	o2_T1 x i_T1 t o1_T1 k i_T1 n
+oàng	oa_T2 ng
+p	p
+padpay	p a1_T1 d2 i_T1 b i_T1 ay_T1
+pagano	p a1_T1 g a1_T1 n o2_T1
+pakistan	p a1_T1 k i_T3 s t a1_T1 n
+palestine	p a1_T1 l e1_T3 s t i_T1 n e1_T1
+panama	p a1_T1 n a1_T1 m a1_T1
+panguna	p a1_T1 ng u1_T1 n a1_T1
+papua	p a1_T1 p ua_T1
+paris	p a1_T1 r i_T3 s
+party	p a1_T1 r t i_T1
+pasha	p a1_T1 x a1_T1
+patrick	p a1_T1 t d1 i_T1 k k
+paul	p au_T1 n
+pauline	p au_T1 l i_T1 n e1_T1
+payments	p ay_T1 m e1_T1 n t s
+payne	p a1_T1 i_T1 n e1_T1
+peel	p e2_T1 eo_T1
+peires	p e2_T1 i_T1 d1 e1_T1 s
+pelosi	p e2_T1 l o1_T1 x i_T1
+pence	p e2_T1 n e1_T1
+penny	p e2_T1 n i_T1
+penovic	p e1_T1 n o1_T1 j i_T1 k
+performance	p e2_T1 d1 ph o1_T1 d1 m a1_T1 n k e1_T1
+perth	p e2_T1 d1 th
+peter	p e2_T1 t e1_T1 r
+petro	p e2_T1 ch o2_T1
+pha	ph a1_T1
+phai	ph ai_T1
+pham	ph a1_T1 m
+phan	ph a1_T1 n
+phái	ph ai_T1
+phán	ph a1_T1 n
+pháp	ph a1_T1 p
+phát	ph a1_T1 t
+phải	ph ai_T1
+phản	ph a1_T1 n
+phạm	ph a1_T1 m
+phạt	ph a1_T1 t
+phe	ph e1_T1
+phelan	ph e2_T1 l a1_T1 n
+phép	ph e2_T2 p
+phi	ph i_T1
+phie	ph i_T1 e1_T1
+philipines	ph i_T1 l i_T1 p i_T1 n e1_T1 s
+philipinnes	ph i_T1 l i_T1 p i_T1 n e1_T3
+philippines	ph i_T1 l i_T1 p p i_T1 n e1_T1 s
+phim	ph i_T1 m
+phiên	ph ie2_T1 n
+phiến	ph ie2_T1 n
+phiếu	ph ieu_T1
+phía	ph i_T1 a1_T1
+phiếu	ph ieu_T3
+phiền	ph ie2_T2 n
+phiệt	ph ie2_T6 t
+pho	ph o1_T1
+phong	ph o1_T1 ng
+phòng	ph o1_T1 ng
+phỏng	ph o1_T1 ng
+phu	ph u1_T1
+phúc	ph u1_T1 k
+phút	ph u1_T1 t
+phục	ph u1_T1 k
+phàn	ph a1_T2 n
+phá	ph a1_T3
+phái	ph ai_T3
+phán	ph a1_T3 n
+pháo	ph ao_T3
+pháp	ph a1_T3 p
+phát	ph a1_T3 t
+phân	ph a3_T1 n
+phần	ph a3_T1 n
+phấn	ph a3_T1 n
+phẫu	ph au3_T1
+phẩm	ph a3_T1 m
+phận	ph a3_T1 n
+phật	ph a3_T1 t
+phép	ph e1_T3 p
+phê	ph e2_T1
+phí	ph i_T3
+phía	ph i_T3 a1_T1
+phòng	ph o1_T2 ng
+phó	ph o1_T3
+phóng	ph o1_T3 ng
+phô	ph o2_T1
+phối	ph oi2_T1
+phù	ph u1_T2
+phú	ph u1_T3
+phúc	ph u1_T3 k
+phút	ph u1_T3 t
+phương	ph ua2_T1 ng
+phức	ph k
+phường	ph ua2_T2 ng
+phượng	ph ua2_T6 ng
+phạm	ph a1_T6 m
+phạt	ph a1_T6 t
+phải	ph ai_T4
+phản	ph a1_T4 n
+phảo	ph ao_T4
+phấn	ph a3_T3 n
+phần	ph a3_T2 n
+phẩm	ph a3_T4 m
+phẩu	ph au3_T4
+phẫn	ph a3_T5 n
+phẫu	ph au3_T5
+phận	ph a3_T6 n
+phế	ph e2_T3
+phỏng	ph o1_T4 ng
+phố	ph o2_T3
+phối	ph oi2_T3
+phồng	ph o2_T2 ng
+phổ	ph o2_T4
+phổi	ph oi2_T4
+phụ	ph u1_T6
+phục	ph u1_T6 k
+phụng	ph u1_T6 ng
+phụt	ph u1_T6 t
+phủ	ph u1_T4
+phức	ph u2_T3 k
+pia	p i_T1 a1_T1
+piano	p i_T1 a1_T1 n o2_T1
+pill	p i_T1 n
+pin	p i_T1 n
+pl	p o3_T2 l
+place	p o3_T2 l a1_T1 k e1_T1
+plan	p o3_T2 l a1_T1 n
+plevna	p o3_T2 l e1_T1 v n a1_T1
+plibersek	p o3_T2 l i_T1 b o3_T1 x e1_T3 k
+plos	p o3_T2 l o1_T1 s
+pm	p m
+pop	p o1_T1 p
+poroshenko	p o1_T1 r o1_T1 x e1_T1 n k o2_T1
+port	p o1_T1 r t
+ports	p o1_T1 r t s
+powell	p o1_T1 e1_T1 n
+pr	p r
+preferential	p d1 e1_T1 ph e1_T1 d1 e1_T1 n t i_T1 a1_T1 n
+presbyterian	p d1 e1_T3 b i_T1 t o3_T1 i_T1 a1_T1 n
+preston	p d1 e1_T1 s t o1_T1 n
+program	p d1 o2_T2 g d1 a1_T1 m
+ptsd	p t s d2 e2_T1
+pulpally	p u1_T1 l p a1_T1 l l i_T1
+puri	p oa_T1 i_T1
+qua	k ua_T1
+quan	k ua_T1 n
+quang	k ua_T1 ng
+quanh	k ua_T1 nh
+quay	k ua_T1 i_T1
+quán	k ua_T1 n
+quản	k ua_T1 n
+quảng	k ua_T1 ng
+queensland	k u1_T1 e1_T1 e1_T1 n x l a1_T1 n d2 e2_T1
+quen	k u1_T1 e1_T1 n
+qui	k ui_T1
+quy	k uy_T1
+quyên	k uy_T1 e2_T1 n
+quyền	k uy_T1 e2_T1 n
+quyết	k uy_T1 e2_T1 t
+quyển	k uy_T1 e2_T1 n
+quyế	k uy_T1 e2_T3
+quyết	k uy_T1 e2_T3 t
+quyền	k uy_T1 e2_T2 n
+quá	k u1_T1 a1_T3
+quái	k u1_T1 ai_T3
+quán	k u1_T1 a1_T3 n
+quân	k u1_T1 a3_T1 n
+quấy	k u1_T1 ay3_T1
+quãng	k u1_T1 a1_T5 ng
+quét	k u1_T1 e1_T3 t
+quê	k u1_T1 e2_T1
+quên	k u1_T1 e2_T1 n
+quí	k u1_T1 i_T3
+quốc	k u1_T1 o2_T1 k
+quý	k uy_T3
+quặng	k u1_T1 a2_T1 ng
+quả	k u1_T1 a1_T4
+quản	k u1_T1 a1_T4 n
+quảng	k u1_T1 a1_T4 ng
+quấy	k ua_T3 i_T1
+quần	k ua_T2 n
+quận	k ua_T6 n
+quằn	k u1_T1 a2_T2 n
+quốc	k ua_T3 k
+quỳ	k uy_T2
+quỹ	k uy_T5
+ra	r a1_T1
+rachel	r a1_T1 ch eo_T1
+racing	r a2_T3 i_T1 ng
+radio	r a1_T1 i_T1 o2_T1
+radosavljevic	r a1_T1 d2 s v l j v i_T1 k
+rahul	r a1_T1 h u1_T1 n
+raj	r a1_T1 d1
+rajab	r a1_T1 d1 ay3_T1 b
+rajitha	r a1_T1 d1 i_T1 t a1_T1
+rajiv	r a1_T1 d1 i_T1 v
+raju	r a1_T1 d1 u1_T1
+rameshwary	r a1_T1 m e1_T1 s ua_T1 r i_T1
+ran	r a1_T1 n
+ranh	r a1_T1 nh
+ranil	r a1_T1
+ranjuth	r a1_T1 d1 u1_T1 th
+rao	r ao_T1
+ratima	r a1_T1 t i_T1 m a1_T1
+rau	r au_T1
+ravina	r a1_T1 j i_T1 n a1_T1
+ray	r ay_T1
+raymond	r ay_T1 m o1_T1 n d1
+ràng	r a1_T1 ng
+rãi	r ai_T1
+rb	a1_T1 r b i_T1
+re	r e1_T1
+reid	r oi_T1
+renata	r e1_T1 n a1_T1 t a1_T1
+reo	r eo_T1
+report	r e2_T2 p o2_T1 a1_T1
+respect	r e1_T3 p e1_T1 k t
+retima	r e2_T1 t i_T1 m a1_T1
+reuters	r e2_T1 u1_T1 t o3_T1 s
+richard	r i_T1 ch a1_T3 o1_T1
+rinh	r i_T1 nh
+rio	r i_T1 o2_T1
+riverina	r i_T1 j o3_T1 n a1_T1
+rizvi	r i_T3 s v i_T1
+riêng	r ie2_T1 ng
+ro	r o1_T1
+robati	r o2_T1 b a1_T1 t i_T1
+rober	r o2_T1 b o3_T2
+robert	r o2_T1 b o3_T1 t
+robinson	r o2_T1 b i_T1 n x o1_T1 n
+rockingham	r o2_T3 k i_T1 ng a1_T1 m
+rodrigo	r o1_T1 j r i_T3 g o1_T1
+roger	r o2_T1 g o3_T2
+ross	r o1_T1 x s
+rowan	r au3_T1 a1_T1 n
+ru	r u1_T1
+rudd	r u1_T1 d1 d2 e2_T1
+ruf	r u1_T1 e1_T3 ph
+run	r u1_T1 n
+rung	r u1_T1 ng
+ruwand	r u1_T1 ua_T1 n d2 e2_T1
+rút	r u1_T1 t
+rủa	r ua_T1
+rủi	r ui_T1
+ruột	r ua_T6 t
+ryan	r i_T1 a1_T1 n
+ràng	r a1_T2 ng
+rào	r ao_T2
+ráo	r ao_T3
+ráp	r a1_T3 p
+râm	r a3_T1 m
+rât	r a3_T1 t
+rất	r a3_T1 t
+rậm	r a3_T1 m
+rãi	r ai_T5
+rét	r e1_T3 t
+rê	r e2_T1
+rên	r e2_T1 n
+rêu	r e2_T1 u1_T1
+ròng	r o1_T2 ng
+rồi	r oi2_T1
+rối	r oi2_T1
+rộng	r o2_T1 ng
+rõ	r o1_T5
+rúng	r u1_T3 ng
+rút	r u1_T3 t
+răng	r a2_T1 ng
+rằng	r a2_T1 ng
+rơi	r oi3_T1
+rơn	r o3_T1 n
+rời	r oi3_T1
+rừng	r u2_T1 ng
+rưỡi	r uoi3_T5
+rượu	r uou_T6
+rất	r a3_T3 t
+rầu	r au3_T2
+rầy	r ay3_T2
+rẩy	r ay3_T4
+rẫy	r ay3_T5
+rập	r a3_T6 p
+rắc	r a2_T3 k
+rắn	r a2_T3 n
+rằng	r a2_T2 ng
+rẻ	r e1_T4
+rẽ	r e1_T5
+rền	r e2_T2 n
+rể	r e2_T4
+rỉ	r i_T4
+rối	r oi2_T3
+rồi	r oi2_T2
+rộn	r o2_T6 n
+rộng	r o2_T6 ng
+rời	r oi3_T2
+rở	r o3_T4
+rụi	r ui_T6
+rủi	r ui_T4
+rừng	r u2_T2 ng
+rửa	r ua2_T4
+rực	r u2_T6 k
+s	s
+sa	s a1_T1
+saeb	x a1_T1 e1_T3 p
+safer	x a1_T1 ph e1_T1 r
+sai	x ai_T1
+saint	x ai_T1 n t
+saleh	x a1_T1 l e1_T3 t
+sally	x a1_T1 l l i_T1
+saluza	x a1_T1 l u1_T1 d1 a1_T1
+samuel	x a1_T1 m u1_T1 eo_T1
+san	x a1_T1 n
+sandline	x a1_T1 n d2 l i_T1 n e1_T1
+sang	x a1_T1 ng
+sangita	x a1_T1 ng i_T1 t a1_T1
+sao	x ao_T1
+sarah	x a1_T1 d1 a1_T1 h
+sau	x au_T1
+saunders	x au_T1 n d2 e2_T1 d1 s
+save	x a1_T1 j e1_T1
+saving	x a1_T1 j i_T1 ng
+say	x ay_T1
+sàng	x a1_T1 ng
+sách	x a1_T1 ch
+sáng	x a1_T1 ng
+sánh	s a1_T1 nh
+sát	x a1_T1 t
+sản	x a1_T1 n
+sạch	x a1_T1 ch
+sạn	x a1_T1 n
+sbs	x p x
+school	x ch u1_T1 l
+scott	x k o1_T1 t t
+scri	s k r i_T3
+se	s e1_T1
+sebastian	x e1_T3 p a1_T3 s t i_T1 a1_T1 n
+seine	x e2_T1 i_T1 n e1_T1
+senaratne	x e1_T1 n a1_T1 d1 a1_T1 t n e1_T1
+seo	x eo_T1
+serbia	x e1_T3 b i_T1 a1_T1
+services	x e1_T3 v i_T1 k e1_T1 s
+sessions	x e1_T3 s i_T1 o1_T1 n s
+sevana	x e2_T1 v a1_T1 n a1_T1
+shamdasani	x a1_T1 m d2 a1_T1 s a1_T1 n i_T1
+shams	x a1_T1 m s
+shangri	x a1_T1 n g r i_T1
+share	x a1_T1 r e1_T1
+sharrouf	x a1_T1 r r o2_T1 u1_T1 e1_T3 ph
+shaw	x h a1_T1
+shayne	x h ay_T1 n e1_T1
+sheppard	x e2_T2 p p a1_T1 o1_T1
+sherbrook	x th e1_T1 b o1_T1 o1_T1 k
+shiralee	x i_T1 d1 a1_T1 l e1_T3 e1_T1
+shoes	x o1_T3 e1_T3
+shorten	x h o1_T1 r t e1_T1 n
+si	x i_T1
+sid	x oi_T1
+singer	x i_T1 ng o3_T2
+sinh	x i_T1 nh
+siobhan	x i_T1 o2_T1 b h a1_T1 n
+sir	x i_T1 r
+sirisena	x i_T1 r i_T3 x e1_T1 n a1_T1
+siêu	x ieu_T1
+siết	x ie2_T1 t
+sky	s k i_T1
+skype	s k i_T1 p e1_T1
+slaughter	x l au_T1 g t e1_T1 r
+slogan	x l o1_T1 g a1_T1 n
+smith	x m i_T3 k th
+smyth	x m i_T1 th
+snodgrass	x n o1_T1 j g d1 a1_T1 x s
+so	s o1_T1
+soát	s o1_T1 a1_T3 t
+sobbing	s o1_T1 b i_T1 b i_T1 i_T1 ng
+socola	x o1_T1 k o1_T1 l a1_T1
+sohara	s o1_T1 h a1_T1 d1 a1_T1
+soldiers	s o1_T1 d2 i_T1 o3_T1 s
+somalia	x o2_T1 m a1_T1 l i_T1 a1_T1
+son	x o1_T1 n
+sonar	x o1_T1 n a1_T1 r
+song	x o1_T1 ng
+sonia	x o1_T1 n i_T1 a1_T1
+sos	s o1_T1 s
+south	s o1_T1 u1_T1 th
+soát	s oa_T3 t
+sóc	x o1_T1 k
+sót	s o1_T1 t
+soạn	x oa_T6 n
+speak	x p e2_T1 a1_T1 k
+square	x k ua_T1 o2_T1
+sri	x r i_T1
+ss	x s
+st	s t
+start	s t a1_T1 t
+stephane	x ai_T1 ph a1_T1 n e1_T1
+ster	x t o3_T1
+stewart	x ai_T1 ua_T1 a1_T1
+stillhart	s t i_T1 eo_T1 a1_T1 a1_T1
+streker	x tr e1_T1 k o3_T2
+sturt	s t u1_T1 a1_T1
+su	x u1_T1
+subasinghe	s u1_T1 b a1_T1 x i_T1 ng e1_T1
+subianto	s u1_T1 b i_T1 a1_T1 n t o2_T1
+sudan	s u1_T1 d2 a1_T1 n
+sudesh	s u1_T1 d1 e1_T1 s h
+sung	x u1_T1 ng
+sunshine	x u1_T1 n x i_T1 n e1_T1
+suriaaratch	x oa_T1 ie2_T1 a1_T1 d1 a1_T1 t ch
+suriaaratchi	x oa_T1 ie2_T1 a1_T1 d1 a1_T1 t ch i_T1
+suriaraatchi	x oa_T1 i_T1 a1_T1 d1 a1_T1 a1_T1 t ch i_T1
+suriaraatchis	x oa_T1 i_T1 a1_T1 d1 a1_T1 a1_T1 t ch i_T1 s
+susah	s u1_T1 s a1_T1 h
+susan	s u1_T1 s a1_T1 n
+susie	s u1_T1 s i_T1 e1_T1
+suy	x uy_T1
+suốt	x ua_T1 t
+súng	x u1_T1 ng
+sút	s u1_T1 t
+suất	x ua_T3 t
+suốt	x ua_T3 t
+sydney	x i_T1 d1 n e1_T1 i_T1
+syria	x i_T1 r i_T1 a1_T1
+system	x i_T1 s t e1_T1 m
+sà	x a1_T2
+sài	s ai_T2
+sàm	x a1_T2 m
+sàng	x a1_T2 ng
+sách	x a1_T3 ch
+sám	x a1_T3 m
+sáng	x a1_T3 ng
+sánh	s a1_T3 nh
+sáo	x ao_T3
+sát	x a1_T3 t
+sáu	x au_T3
+sân	x a3_T1 n
+sâu	x au3_T1
+sấy	x ay3_T1
+sếp	x e2_T1 p
+sóc	x o1_T3 k
+sóng	x o1_T3 ng
+sót	x o1_T3 t
+sô	x o2_T1
+sông	x o2_T1 ng
+sống	x o2_T1 ng
+sùng	x u1_T2 ng
+súng	s u1_T3 ng
+săn	x a2_T1 n
+sắc	x a2_T1 k
+sắp	x a2_T1 p
+sẵn	x a2_T1 n
+sĩ	x i_T5
+sơ	x o3_T1
+sơn	x o3_T1 n
+sớm	x o3_T1 m
+sư	x u2_T1
+sưc	x u2_T1 k
+sưng	s u2_T1 ng
+sức	x u2_T1 k
+sực	x u2_T1 k
+sạc	x a1_T6 k
+sạch	x a1_T6 ch
+sản	x a1_T4 n
+sập	x a3_T6 p
+sắc	x a2_T3 k
+sắm	x a2_T3 m
+sắp	x a2_T3 p
+sẵn	x a2_T5 n
+sẻ	x e1_T4
+sẽ	s e1_T5
+sếp	x e2_T3 p
+sỉ	x i_T4
+sỏ	x o1_T4
+số	x o2_T3
+sốc	x o2_T3 k
+sống	x o2_T3 ng
+sốt	x o2_T3 t
+sổ	x o2_T4
+sớm	x o3_T3 m
+sờn	x o3_T2 n
+sở	x o3_T4
+sởi	x oi3_T4
+sỡ	s o3_T5
+sợ	x o3_T6
+sụp	s u1_T6 p
+sủng	x u1_T4 ng
+sứ	x u2_T3
+sức	x u2_T3 k
+sử	x u2_T4
+sửa	x ua2_T4
+sửng	x u2_T4 ng
+sữa	x ua2_T5
+sự	x u2_T6
+t	t
+ta	t a1_T1
+tafe	t a1_T1 ph e1_T1
+tai	t ai_T1
+tamil	t a1_T1 m i_T1 l
+tang	t a1_T1 ng
+tania	t a1_T1 n i_T1 a1_T1
+tanya	t a1_T1 n i_T1 a1_T1
+tarik	t a1_T1 r i_T3 k
+tasman	t a1_T1 x m a1_T1 n
+tasmania	t a1_T1 x m n i_T1 a1_T1
+tasmanian	t a1_T1 x m n i_T1 a1_T1 n
+tay	t ay_T1
+taylor	t ay_T1 l t o3_T1
+tài	t ai_T1
+tàn	t a1_T1 n
+tác	t a2_T3
+tách	t a1_T1 ch
+tái	t ai_T1
+tán	t a1_T1 n
+táo	t ao_T1
+tải	t ai_T1
+tại	t ai_T1
+tạm	t a1_T1 m
+tạo	t ao_T1
+tạp	t a1_T1 p
+ted	t e2_T1 d2
+tel	t eo_T1
+telstra	t eo_T1 x t r a1_T1
+terry	t e1_T1 d1 r i_T1
+testing	t e1_T1 s t i_T1 ng
+th	th
+tha	th a1_T1
+thai	th ai_T1
+tham	th a1_T1 m
+than	th a1_T1 n
+thang	th a1_T1 ng
+thanh	th a1_T1 nh
+thao	th ao_T1
+thay	th ay_T1
+thành	th a1_T1 nh
+thác	th a1_T1 k
+thách	th a1_T1 ch
+thái	th ai_T1
+tháng	th a1_T1 ng
+thánh	th a1_T1 nh
+tháo	th ao_T1
+thải	th ai_T1
+thảm	th a1_T1 m
+thảo	th ao_T1
+thcs	th k s
+the	th e1_T1
+them	th e1_T1 m
+then	th e1_T1 n
+theo	th eo_T1
+thep	th e2_T2 p
+theresa	th e1_T1 d1 e1_T3 a1_T1
+thẹn	th e1_T1 n
+thi	th i_T1
+thich	th i_T1 ch
+thien	th i_T1 e1_T1 n
+thiên	th ie2_T1 n
+thiêu	th ieu_T1
+thiết	th ie2_T1 t
+thiếu	th ieu_T1
+thiểu	th ieu_T1
+thiện	th ie2_T1 n
+thiệp	th ie2_T1 p
+thiệt	th ie2_T1 t
+thiệu	th ieu_T1
+thích	th i_T1 ch
+thính	th i_T1 nh
+thịnh	th i_T1 nh
+thiết	th ie2_T3 t
+thiếu	th ieu_T3
+thiểu	th ieu_T4
+thiện	th ie2_T6 n
+thiệp	th ie2_T6 p
+thiệt	th ie2_T6 t
+thiệu	th ieu_T6
+tho	th o1_T1
+thoa	th oa_T1
+thoại	th oa_T1 i_T1
+thomas	th o1_T1 m a1_T3 s
+thowheeth	th o1_T1 e1_T1 e1_T3 t t
+thoái	th oa_T3 i_T1
+thoáng	th oa_T3 ng
+thoát	th oa_T3 t
+thòi	th oi_T1
+thỏa	th oa_T1
+thoại	th oa_T6 i_T1
+thoạt	th oa_T6 t
+thoải	th oa_T4 i_T1
+thu	th u1_T1
+thua	th ua_T1
+thuyết	th uy_T1 e2_T1 t
+thuyết	th uy_T1 e2_T3 t
+thuyền	th uy_T1 e2_T2 n
+thuận	th u1_T1 a3_T1 n
+thuật	th u1_T1 a3_T1 t
+thuê	th u1_T1 e2_T1
+thuốc	th ua_T1 k
+thuộc	th ua_T1 k
+thuý	th uy_T3
+thúc	th u1_T1 k
+thụy	th uy_T1
+thuần	th ua_T2 n
+thuẫn	th u1_T1 a3_T5 n
+thuận	th ua_T6 n
+thuật	th ua_T6 t
+thuế	th u1_T1 e2_T3
+thuốc	th ua_T3 k
+thuộc	th ua_T6 k
+thuỵ	th uy_T6
+thà	th a1_T2
+thành	th a1_T2 nh
+thác	th a1_T3 k
+thách	th a1_T3 ch
+thái	th ai_T3
+tháng	th a1_T3 ng
+thánh	th a1_T3 nh
+tháp	th a1_T3 p
+thâm	th a3_T1 m
+thân	th a3_T1 n
+thần	th a3_T1 n
+thầu	th au3_T1
+thấp	th a3_T1 p
+thất	th a3_T1 t
+thấu	th au3_T1
+thấy	th ay3_T1
+thẩm	th a3_T1 m
+thậm	th a3_T1 m
+thập	th a3_T1 p
+thật	th a3_T1 t
+thê	th e2_T1
+thêm	th e2_T1 m
+thì	th i_T2
+thí	th i_T3
+thích	th i_T3 ch
+thính	th i_T3 nh
+thòi	th oi_T2
+thói	th oi_T3
+thô	th o2_T1
+thôi	th oi2_T1
+thôn	th o2_T1 n
+thông	th o2_T1 ng
+thống	th o2_T1 ng
+thù	th u1_T2
+thùng	th u1_T2 ng
+thú	th u1_T3
+thúc	th u1_T3 k
+thăm	th a2_T1 m
+thăng	th a2_T1 ng
+thắng	th a2_T1 ng
+thắt	th a2_T1 t
+thẳm	th a2_T1 m
+thẳng	th a2_T1 ng
+thặng	th a2_T1 ng
+thơ	th o3_T1
+thơm	th o3_T1 m
+thời	th oi3_T1
+thư	th u2_T1
+thưa	th ua2_T1
+thương	th ua2_T1 ng
+thường	th ua2_T1 ng
+thưởng	th ua2_T1 ng
+thượng	th ua2_T1 ng
+thừa	th ua2_T1
+thức	th u2_T1 k
+thực	th u2_T1 k
+thường	th ua2_T2 ng
+thưởng	th ua2_T4 ng
+thượng	th ua2_T6 ng
+thả	th a1_T4
+thải	th ai_T4
+thảm	th a1_T4 m
+thảng	th a1_T4 ng
+thảo	th ao_T4
+thảy	th ay_T4
+thấp	th a3_T3 p
+thất	th a3_T3 t
+thấu	th au3_T3
+thấy	th ay3_T3
+thầm	th a3_T2 m
+thần	th a3_T2 n
+thầy	th ay3_T2
+thẩm	th a3_T4 m
+thậm	th a3_T6 m
+thận	th a3_T6 n
+thập	th a3_T6 p
+thật	th a3_T6 t
+thậtvà	th a3_T6 t v a1_T2
+thắng	th a2_T3 ng
+thắp	th a2_T3 p
+thắt	th a2_T3 t
+thằn	th a2_T2 n
+thẳng	th a2_T4 ng
+thặng	th a2_T6 ng
+thẻ	th e1_T4
+thế	th e2_T3
+thề	th e2_T2
+thể	th e2_T4
+thỉ	th i_T4
+thỉu	th iu_T4
+thị	th i_T6
+thịnh	th i_T6 nh
+thịt	th i_T6 t
+thỏ	th o1_T4
+thỏa	th oa_T4
+thốn	th o2_T3 n
+thống	th o2_T3 ng
+thốngmới	th o2_T3 ng m oi3_T3
+thốt	th o2_T3 t
+thổ	th o2_T4
+thờ	th o3_T2
+thời	th oi3_T2
+thở	th o3_T4
+thụ	th u1_T6
+thục	th u1_T6 k
+thụy	th u1_T6 i_T1
+thủ	th u1_T4
+thủy	th uy_T4
+thứ	th u2_T3
+thức	th u2_T3 k
+thừa	th ua2_T2
+thử	th u2_T4
+thực	th u2_T6 k
+ti	t i_T1
+tiger	t i_T1 j i_T1 o3_T2
+tim	t i_T1 m
+tin	t i_T1 n
+tinh	t i_T1 nh
+tinkler	t i_T1 n k l o3_T2
+tinto	t i_T1 n t o2_T1
+tirển	t i_T1 r e2_T4 n
+tivi	t i_T1 j i_T1
+tiêm	t ie2_T1 m
+tiên	t ie2_T1 n
+tiêu	t ieu_T1
+tiền	t ie2_T1 n
+tiếc	t ie2_T1 k
+tiến	t ie2_T1 n
+tiếng	t ie2_T1 ng
+tiếp	t ie2_T1 p
+tiết	t ie2_T1 t
+tiểu	t ieu_T1
+tiệc	t ie2_T1 k
+tiệm	t ie2_T1 m
+tiện	t ie2_T1 n
+tìm	t i_T1 m
+tình	t i_T1 nh
+tích	t i_T1 ch
+tín	t i_T1 n
+tính	t i_T1 nh
+tíêp	t ie2_T1 p
+tỉnh	t i_T1 nh
+tịch	t i_T1 ch
+tiếc	t ie2_T3 k
+tiến	t ie2_T3 n
+tiếng	t ie2_T3 ng
+tiếp	t ie2_T3 p
+tiết	t ie2_T3 t
+tiềm	t ie2_T2 m
+tiền	t ie2_T2 n
+tiểu	t ieu_T4
+tiệc	t ie2_T6 k
+tiệm	t ie2_T6 m
+tiện	t ie2_T6 n
+tns	t n s
+to	t o1_T1
+toa	t oa_T1
+toàn	t oa_T1 n
+toán	t oa_T1 n
+tony	t o1_T1 n i_T1
+toomey	t o2_T1 m i_T1
+torpedo	t o2_T1 p e2_T1 d2 o2_T1
+torres	t o2_T1 d1 e1_T3
+tottenham	t o1_T1 t t e2_T1 nh a1_T1 m
+tourism	t ua_T1 i_T3 x m
+toàn	t oa_T2 n
+toán	t oa_T3 n
+tòa	t oa_T1
+tỏa	t oa_T1
+tp	t p
+tra	ch a1_T1
+trai	ch ai_T1
+trang	ch a1_T1 ng
+tranh	ch a1_T1 nh
+translated	ch a1_T1 n x l e2_T3 t d2 e2_T1
+trao	tr ao_T1
+trau	tr au_T1
+tràn	ch a1_T1 n
+trào	tr ao_T1
+trách	ch a1_T1 ch
+trái	ch ai_T1
+tránh	ch a1_T1 nh
+trát	ch a1_T1 t
+trải	ch ai_T1
+trại	ch ai_T1
+trạm	ch a1_T1 m
+trạng	ch a1_T1 ng
+tre	ch e1_T1
+treasured	ch e1_T1 a1_T3 x u1_T1 o2_T1 d2 e2_T1
+trent	ch e1_T1 n t
+treo	ch eo_T1
+tri	ch i_T1
+trinh	ch i_T1 nh
+tripoli	ch i_T1 p o2_T1 l i_T1
+triển	ch ie2_T1 n
+triệu	ch ieu_T1
+trình	ch i_T1 nh
+trích	ch i_T1 ch
+triết	ch ie2_T3 t
+triển	ch ie2_T4 n
+triệt	ch ie2_T6 t
+triệu	ch ieu_T6
+tro	ch o1_T1
+trong	ch o1_T1 ng
+trongmột	ch o1_T1 ng m o2_T6 t
+trọng	ch o1_T1 ng
+trọt	ch o1_T1 t
+tru	tr u1_T1
+trump	ch u1_T1 e1_T1 m p i_T1
+trun	ch u1_T1 n
+trung	ch u1_T1 ng
+truong	ch u1_T1 o1_T1 ng
+truy	ch uy_T1
+truyền	ch uy_T1 e2_T1 n
+truyền	ch uy_T1 e2_T2 n
+truyện	ch uy_T1 e2_T6 n
+truân	ch u1_T1 a3_T1 n
+truòng	ch u1_T1 o1_T2 ng
+trục	ch u1_T1 k
+truất	ch ua_T3 t
+tràn	ch a1_T2 n
+trào	ch ao_T2
+trá	ch a1_T3
+trách	ch a1_T3 ch
+trái	ch ai_T3
+tránh	ch a1_T3 nh
+tráo	ch ao_T3
+trát	ch a1_T3 t
+trân	ch a3_T1 n
+trầm	ch a3_T1 m
+trần	ch a3_T1 n
+trấn	ch a3_T1 n
+trận	ch a3_T1 n
+trãi	ch ai_T5
+trèo	ch eo_T2
+trê	ch e2_T1
+trên	tr e2_T1 n
+trêu	tr e2_T1 u1_T1
+trì	ch i_T2
+trình	ch i_T2 nh
+trí	ch i_T3
+trích	ch i_T3 ch
+trò	ch o1_T2
+tròn	ch o1_T2 n
+trôi	ch oi2_T1
+trông	ch o2_T1 ng
+trồng	ch o2_T1 ng
+trốn	ch o2_T1 n
+trội	ch oi2_T1
+trộn	ch o2_T1 n
+trù	ch u1_T2
+trùm	ch u1_T2 m
+trùng	ch u1_T2 ng
+trú	ch u1_T3
+trúc	ch u1_T3 k
+trăm	ch a2_T1 m
+trăn	ch a2_T1 n
+trắng	ch a2_T1 ng
+trặc	ch a2_T1 k
+trơ	ch o3_T1
+trời	ch oi3_T1
+trư	ch u2_T1
+trưa	ch ua2_T1
+trưng	ch u2_T1 ng
+trường	ch ua2_T1 ng
+trước	ch ua2_T1 k
+trưởng	ch ua2_T1 ng
+trừng	ch u2_T1 ng
+trực	ch u2_T1 k
+trước	ch ua2_T3 k
+trường	ch ua2_T2 ng
+trưởng	ch ua2_T4 ng
+trượt	ch ua2_T6 t
+trại	ch ai_T6
+trạm	ch a1_T6 m
+trạng	ch a1_T6 ng
+trả	ch a1_T4
+trải	ch ai_T4
+trấn	ch a3_T3 n
+trầm	ch a3_T2 m
+trần	ch a3_T2 n
+trận	ch a3_T6 n
+trắng	ch a2_T3 ng
+trằng	ch a2_T2 ng
+trẻ	ch e1_T4
+trể	ch e2_T4
+trễ	ch e2_T5
+trệ	ch e2_T6
+trị	ch i_T6
+trọn	tr o1_T6 n
+trọng	ch o1_T6 ng
+trốn	ch o2_T3 n
+trống	ch o2_T3 ng
+trồng	ch o2_T2 ng
+trỗi	ch oi2_T5
+trội	ch oi2_T6
+trớ	ch o3_T3
+trời	ch oi3_T2
+trở	ch o3_T4
+trợ	ch o3_T6
+trợn	ch o3_T6 n
+trụ	ch u1_T6
+trứng	tr u2_T3 ng
+trừ	ch u2_T2
+trừng	ch u2_T2 ng
+trữ	ch u2_T5
+trực	ch u2_T6 k
+ts	t s
+ttâm	t t a3_T1 m
+tu	t u1_T1
+tuaine	t ua_T1 i_T1 n e1_T1
+tung	t u1_T1 ng
+turk	t oa_T1 k
+turnbull	t oa_T1 n b u1_T1 n
+tuy	t uy_T1
+tuyê	t uy_T1 e2_T1
+tuyên	t uy_T1 e2_T1 n
+tuyến	t uy_T1 e2_T1 n
+tuyển	t uy_T1 e2_T1 n
+tuyệt	t uy_T1 e2_T1 t
+tuyến	t uy_T1 e2_T3 n
+tuyển	t uy_T1 e2_T4 n
+tuyệt	t uy_T1 e2_T6 t
+tuân	t u1_T1 a3_T1 n
+tuần	t u1_T1 a3_T1 n
+tuê	t u1_T1 e2_T1
+tuổi	t uoi2_T1
+tùy	t uy_T1
+túi	t ui_T1
+tục	t u1_T1 k
+tuần	t ua_T2 n
+tuệ	t u1_T1 e2_T6
+tuổi	t uoi2_T4
+tv	t v e2_T1
+tweet	t e1_T1 e1_T3 t
+tweeted	t e1_T1 e1_T3 t e2_T1 d2
+twitter	t o1_T1 ai_T1 t t e1_T1 r
+ty	t i_T1
+tài	t ai_T2
+tàn	t a1_T2 n
+tàng	t a1_T2 ng
+tàu	t au_T2
+tá	t a1_T3
+tác	t a1_T3 k
+tái	t ai_T3
+tám	t a1_T3 m
+tán	t a1_T3 n
+táng	t a1_T3 ng
+táp	t a1_T3 p
+tâm	t a3_T1 m
+tân	t a3_T1 n
+tât	t a3_T1 t
+tây	t ay3_T1
+tầm	t a3_T1 m
+tầng	t a3_T1 ng
+tấn	t a3_T1 n
+tất	t a3_T1 t
+tẫm	t a3_T1 m
+tẩy	t ay3_T1
+tận	t a3_T1 n
+tập	t a3_T1 p
+tật	t a3_T1 t
+té	t e1_T3
+tê	t e2_T1
+tên	t e2_T1 n
+tìm	t i_T2 m
+tình	t i_T2 nh
+tích	t i_T3 ch
+tím	t i_T3 m
+tín	t i_T3 n
+tính	t i_T3 nh
+tòa	t oa_T2
+tòi	t oi_T2
+tòng	t o1_T2 ng
+tóc	t o1_T3 k
+tóm	t o1_T3 m
+tô	t o2_T1
+tôi	t oi2_T1
+tôichúng	t oi2_T1 ch u1_T3 ng
+tôm	t o2_T1 m
+tôn	t o2_T1 n
+tông	t o2_T1 ng
+tồn	t o2_T1 n
+tốc	t o2_T1 k
+tối	t oi2_T1
+tốn	t o2_T1 n
+tốt	t o2_T1 t
+tổn	t o2_T1 n
+tổng	t o2_T1 ng
+tộc	t o2_T1 k
+tội	t oi2_T1
+tù	t u1_T2
+tùy	t u1_T2 i_T1
+tú	t u1_T3
+túc	t u1_T3 k
+túi	t ui_T3
+túm	t u1_T3 m
+túy	t u1_T3 i_T1
+tăgn	t a2_T1 g n
+tăm	t a2_T1 m
+tăng	t a2_T1 ng
+tắc	t a2_T1 k
+tặng	t a2_T1 ng
+tĩnh	t i_T5 nh
+tới	t oi3_T1
+tư	t u2_T1
+tươi	t uoi3_T1
+tươm	t ua2_T1 m
+tương	t ua2_T1 ng
+tước	t ua2_T1 k
+tưới	t uoi3_T1
+tướng	t ua2_T1 ng
+tưởng	t ua2_T1 ng
+tượng	t ua2_T1 ng
+từng	t u2_T1 ng
+tức	t u2_T1 k
+tước	t ua2_T3 k
+tướng	t ua2_T3 ng
+tưởng	t ua2_T4 ng
+tượng	t ua2_T6 ng
+tạ	t a1_T6
+tại	t ai_T6
+tạm	t a1_T6 m
+tạo	t ao_T6
+tạp	t a1_T6 p
+tả	t a1_T4
+tải	t ai_T4
+tản	t a1_T4 n
+tảng	t a1_T4 ng
+tấm	t a3_T3 m
+tấn	t a3_T3 n
+tất	t a3_T3 t
+tấu	t au3_T3
+tầm	t a3_T2 m
+tầng	t a3_T2 ng
+tẩy	t ay3_T4
+tận	t a3_T6 n
+tập	t a3_T6 p
+tật	t a3_T6 t
+tắc	t a2_T3 k
+tắm	t a2_T3 m
+tắt	t a2_T3 t
+tặc	t a2_T6 k
+tặng	t a2_T6 ng
+tế	t e2_T3
+tết	t e2_T3 t
+tề	t e2_T2
+tệ	t e2_T6
+tỉ	t i_T4
+tỉa	t i_T4 a1_T1
+tỉnh	t i_T4 nh
+tị	t i_T6
+tịch	t i_T6 ch
+tịn	t i_T6 n
+tỏ	t o1_T4
+tỏa	t oa_T4
+tố	t o2_T3
+tối	t oi2_T3
+tốn	t o2_T3 n
+tống	t o2_T3 ng
+tốt	t o2_T3 t
+tồi	t oi2_T2
+tồn	t o2_T2 n
+tổ	t o2_T4
+tổn	t o2_T4 n
+tổng	t o2_T4 ng
+tộc	t o2_T6 k
+tội	t oi2_T6
+tới	t oi3_T3
+tờ	t o3_T2
+tời	t oi3_T2
+tụ	t u1_T6
+tục	t u1_T6 k
+tụt	t u1_T6 t
+tụy	t u1_T6 i_T1
+tủ	t u1_T4
+tủi	t ui_T4
+tức	t u2_T3 k
+từ	t u2_T2
+từng	t u2_T2 ng
+tử	t u2_T4
+tự	t u2_T6
+tựu	t uu2_T6
+tỷ	t i_T4
+u	u1_T1
+ubnd	u1_T1 b n d2 e2_T1
+ukrain	u1_T1 k d1 a1_T1 i_T1 n
+ukraine	u1_T1 k d1 a1_T1 i_T1 n e1_T1
+ukrainian	u1_T1 k d1 a1_T1 i_T1 n i_T1 a1_T1 n
+ukrainians	u1_T1 k d1 a1_T1 i_T1 n i_T1 a1_T1 n s
+unemployed	u1_T1 n e1_T1 m p l i_T1 e2_T1 d2
+ung	u1_T1 ng
+unicef	u1_T1 n i_T1 k e1_T1 ph
+united	u1_T1 n ai_T1 d2 e2_T1
+uniting	u1_T1 n i_T1 t i_T1 ng
+university	u1_T1 n i_T1 j o3_T1 s i_T1 t i_T1
+usd	u1_T3 d2 e2_T1
+uts	u1_T1 t s
+uy	uy_T1
+uống	ua_T1 ng
+úc	u1_T1 k
+ũy	uy_T1
+ủng	u1_T1 ng
+ủy	uy_T1
+uống	ua_T3 ng
+uộc	ua_T6 k
+uỷ	uy_T4
+va	j a1_T1
+vaccin	j a2_T3 k i_T1 n
+vaccine	j a2_T3 k i_T1 n e1_T1
+vai	j ai_T1
+vanatu	j a1_T1 n a1_T1 t u1_T1
+vang	j a1_T1 ng
+varatharaja	j a1_T1 d1 a1_T1 t h a1_T1 d1 a1_T1 d1 a1_T1
+vass	j a1_T3 x s
+vassily	j a1_T3 x s i_T1 l i_T1
+vài	j ai_T1
+vàng	j a1_T1 ng
+vào	v ao_T1
+vãn	j a1_T1 n
+vải	j ai_T1
+vca	j k a1_T1
+vds	v d1 s
+ve	j e1_T1
+velisa	j e2_T1 l i_T1 s a1_T1
+velisha	j e2_T1 l i_T3 x a1_T1
+venezuela	j e1_T1 n e2_T1 u1_T1 e2_T1 l a1_T1
+verghese	j o3_T1 g e1_T1 s e1_T1
+vi	j i_T1
+victoria	j i_T1 k t o2_T1 i_T1 a1_T1
+video	j oi_T1 eo_T1
+vietnam	j i_T1 e1_T3 t n a1_T1 m
+vietnamese	j i_T1 e1_T3 t n a1_T1 m e1_T1 s e1_T1
+vignesh	j i_T1 j i_T1 n e1_T3 t
+villejuif	j i_T1 l l e1_T3 d1 ui_T1 e1_T3 ph
+vinh	j i_T1 nh
+virus	j i_T1 r u1_T1 s
+visa	j i_T1 s a1_T1
+visas	j i_T1 s a1_T1 s
+visual	j i_T1 s u1_T1 a1_T1 n
+viêm	j ie2_T1 m
+viên	j ie2_T1 n
+viết	j ie2_T1 t
+viễn	j ie2_T1 n
+việc	j ie2_T1 k
+viện	j ie2_T1 n
+việt	j ie2_T1 t
+vịnh	j i_T1 nh
+viếng	j ie2_T3 ng
+viết	j ie2_T3 t
+viếtquyên	j ie2_T3 t k uy_T1 e2_T1 n
+viễn	v ie2_T5 n
+việc	j ie2_T6 k
+viện	j ie2_T6 n
+việt	j ie2_T6 t
+vnch	j n ch
+vntuy	j n t uy_T1
+vo	j o1_T1
+voi	j oi_T1
+volodymyr	j o1_T1 l o1_T1 j i_T1 m i_T1 r
+vong	j o1_T1 ng
+voss	j o1_T1 x s
+voter	j o1_T1 t e1_T1 r
+voting	j o1_T1 t i_T1 ng
+vòng	j o1_T1 ng
+vọng	j o1_T1 ng
+vp	j p
+vrlh	j r l t
+vu	j u1_T1
+vua	j ua_T1
+vui	j ui_T1
+vun	j u1_T1 n
+vuông	j ua_T1 ng
+vùng	j u1_T1 ng
+và	j a1_T2
+vài	j ai_T2
+vàng	j a1_T2 ng
+vành	j a1_T2 nh
+vào	j ao_T2
+vác	j a1_T3 k
+váng	j a1_T3 ng
+váy	j ay_T3
+vân	j a3_T1 n
+vâng	v a3_T1 ng
+vây	j ay3_T1
+vấn	j a3_T1 n
+vất	j a3_T1 t
+vẫn	j a3_T1 n
+vận	j a3_T1 n
+vật	j a3_T1 t
+vậy	j ay3_T1
+vé	j e1_T3
+vê	v e2_T1
+vì	j i_T2
+ví	j i_T3
+víu	j iu_T3
+vòng	j o1_T2 ng
+vóc	v o1_T3 k
+vô	j o2_T1
+vốn	j o2_T1 n
+vội	j oi2_T1
+võ	j o1_T5
+vùi	j ui_T2
+vùng	j u1_T2 ng
+văn	j a2_T1 n
+vĩ	j i_T5
+vĩnh	v i_T5 nh
+vũ	j u1_T5
+vơ	j o3_T1
+vơi	j oi3_T1
+với	j oi3_T1
+vươn	j ua2_T1 n
+vương	j ua2_T1 ng
+vườn	j ua2_T1 n
+vượng	j ua2_T1 ng
+vượt	j ua2_T1 t
+vừa	j ua2_T1
+vững	j u2_T1 ng
+vực	j u2_T1 k
+vướng	j ua2_T3 ng
+vườn	j ua2_T2 n
+vượng	j ua2_T6 ng
+vượt	j ua2_T6 t
+vạ	j a1_T6
+vạn	j a1_T6 n
+vả	j a1_T4
+vải	j ai_T4
+vấn	j a3_T3 n
+vấnđề	j a3_T3 n d2 e2_T2
+vấp	v a3_T3 p
+vất	v a3_T3 t
+vẫn	j a3_T5 n
+vận	j a3_T6 n
+vật	j a3_T6 t
+vậy	j ay3_T6
+vắc	j a2_T3 k
+vắng	j a2_T3 ng
+vẹn	j e1_T6 n
+vẻ	j e1_T4
+vẽ	j e1_T5
+vết	j e2_T3 t
+về	j e2_T2
+vệ	j e2_T6
+vệt	j e2_T6 t
+vị	j i_T6
+vịt	j i_T6 t
+vọn	j o1_T6 n
+vọng	j o1_T6 ng
+vốn	j o2_T3 n
+vội	j oi2_T6
+với	j oi3_T3
+vời	j oi3_T2
+vở	j o3_T4
+vỡ	j o3_T5
+vợ	j o3_T6
+vụ	j u1_T6
+vứt	j u2_T3 t
+vừa	j ua2_T2
+vững	j u2_T5 ng
+vực	j u2_T6 k
+vỹ	j i_T5
+w	v
+wagga	ua_T1 g g a1_T1
+wales	ua_T1 l e1_T3 s
+walters	ua_T1 l t o3_T1 s
+washington	ua_T1 s i_T1 nh t o1_T1 n
+watson	ua_T1 t s o1_T1 n
+wayana	ua_T1 i_T1 a1_T1 n a1_T1
+weary	oe_T3 a1_T1 r i_T1
+web	o1_T1 e1_T3 p
+whatsapp	o1_T1 a1_T1 t s a1_T1 p p
+when	o1_T1 e1_T1 n
+white	o1_T1 h ai_T1
+who	o1_T1 o1_T3
+wickrematunga	o1_T1 ai_T1 k k o2_T1 m a1_T1 t u1_T1 ng a1_T1
+wickremeinghe	o1_T1 ai_T1 k k o2_T1 m i_T1 ng e1_T1
+wickremeshinge	o1_T1 ai_T1 k k o2_T1 m e1_T1 s i_T1 n g e1_T1
+wicramasinghe	o1_T1 ai_T1 k d1 a1_T1 m a1_T3 s i_T1 ng e1_T1
+widodo	o1_T1 ai_T1 d2 d2 o2_T1
+wikileaks	o1_T1 ai_T1 k i_T1 l e1_T3 a1_T1 k s
+wileaks	o1_T1 ai_T1 l e1_T3 a1_T1 k s
+will	o1_T1 ai_T1 n
+william	o1_T1 ai_T1 eo_T1 i_T1 a1_T1 m
+williamson	o1_T1 ai_T1 eo_T1 ie2_T1 m x o1_T1 n
+wilson	o1_T1 ai_T1 l x o1_T1 n
+windsor	o1_T1 ai_T1 n d2 o2_T1 t o3_T1
+wisata	o1_T1 ai_T1 s t a1_T1
+without	o1_T1 ai_T1 t o1_T3 u1_T1 t
+wong	o1_T1 o1_T1 ng
+wood	o1_T1 o1_T1 o1_T1 d1
+works	o1_T1 o2_T1 k s
+world	o1_T1 o2_T1 d2
+xa	x a1_T1
+xanh	x a1_T1 nh
+xao	x ao_T1
+xào	x ao_T1
+xác	x a1_T1 k
+xám	x a1_T1 m
+xáo	x ao_T1
+xảy	x ay_T1
+xe	x e1_T1
+xem	x e1_T1 m
+xét	x e1_T1 t
+xin	x i_T1 n
+xinh	x i_T1 nh
+xỉa	x i_T1 a1_T1
+xịt	x i_T3 t
+xoay	x oa_T1 i_T1
+xong	x o1_T1 ng
+xoáy	x oa_T3 i_T1
+xót	x o1_T1 t
+xu	x u1_T1
+xung	x u1_T1 ng
+xuyên	x uy_T1 e2_T1 n
+xuân	x u1_T1 a3_T1 n
+xuất	x u1_T1 a3_T1 t
+xuông	x ua_T1 ng
+xuống	x ua_T1 ng
+xúc	x u1_T1 k
+xuất	x ua_T3 t
+xuống	x ua_T3 ng
+xài	x ai_T2
+xào	x ao_T2
+xác	x a1_T3 k
+xáctuy	x a1_T3 k t uy_T1
+xáo	x ao_T3
+xâm	x a3_T1 m
+xây	x ay3_T1
+xấu	x au3_T1
+xã	x a1_T5
+xéo	x eo_T3
+xét	x e1_T3 t
+xếp	x e2_T1 p
+xíu	x iu_T3
+xóa	x oa_T3
+xói	x oi_T3
+xóm	x o1_T3 m
+xót	x o1_T3 t
+xôi	x oi2_T1
+xông	x o2_T1 ng
+xúc	x u1_T3 k
+xăng	x a2_T1 ng
+xư	x u2_T1
+xưa	x ua2_T1
+xưng	x u2_T1 ng
+xương	x ua2_T1 ng
+xứng	x u2_T1 ng
+xướng	x ua2_T3 ng
+xưởng	x ua2_T4 ng
+xạc	x a1_T6 k
+xạo	x ao_T6
+xảo	x ao_T4
+xảy	x ay_T4
+xấu	x au3_T3
+xế	x e2_T3
+xếp	x e2_T3 p
+xở	x o3_T4
+xứ	x u2_T3
+xứng	x u2_T3 ng
+xử	x u2_T4
+y	i_T1
+yalman	i_T1 o1_T3 m a1_T1 n
+yemen	i_T1 e1_T1 m e1_T1 n
+york	i_T1 o1_T1 r k
+yougov	i_T1 o2_T1 u1_T1 g o2_T3 p v
+young	i_T1 o2_T1 u1_T1 ng
+yytế	i_T1 i_T1 t e2_T3
+yên	i_T1 e2_T1 n
+yêu	i_T1 e2_T1 u1_T1
+yếu	i_T1 e2_T1 u1_T1
+yến	i_T1 e2_T3 n
+yếu	i_T1 eu_T3
+zara	x a1_T1 d1 a1_T1
+zareh	d1 o2_T1 t
+zaynab	x ay_T1 n ay3_T1 b
+zealand	x e2_T1 a1_T1 l a1_T1 n d2 e2_T1
+zelenskiy	x e2_T1 l e1_T1 n s k i_T1 i_T1
+zoanne	x oa_T1 n n e1_T1
+zolenskiy	x o2_T1 l e1_T1 n s k i_T1 i_T1
+zone	x o1_T1 n e1_T1
+ào	ao_T2
+á	a1_T3
+ác	a1_T3 k
+ái	ai_T3
+ám	a1_T3 m
+án	a1_T3 n
+ánh	a1_T3 nh
+áo	ao_T3
+áp	a1_T3 p
+âm	a3_T1 m
+âu	au3_T1
+ấn	a3_T1 n
+ấu	au3_T1
+ấy	ay3_T1
+ẩm	a3_T1 m
+ên	e2_T1 n
+ích	i_T3 ch
+ít	i_T3 t
+ô	o2_T1
+ôg	o2_T1 j i_T1
+ôi	oi2_T1
+ôm	o2_T1 m
+ôn	o2_T1 n
+ông	o2_T1 ng
+ồn	o2_T1 n
+ốc	o2_T1 k
+ổn	o2_T1 n
+ùa	ua_T2
+ùm	u1_T2 m
+ùn	u1_T2 n
+úa	ua_T3
+úc	u1_T3 k
+ý	i_T3
+ăn	a2_T1 n
+đ	d2
+đa	d2 a1_T1
+đagn	d2 a1_T1 g n
+đai	d2 ai_T1
+đam	d2 a1_T1 m
+đang	d2 a1_T1 ng
+đau	d2 au_T1
+đài	d2 ai_T1
+đàm	d2 a1_T1 m
+đàn	d2 a1_T1 n
+đàng	d2 a1_T1 ng
+đành	d2 a1_T1 nh
+đào	d2 ao_T1
+đáng	d2 a1_T1 ng
+đánh	d2 a1_T1 nh
+đáp	d2 a1_T1 p
+đãi	d2 ai_T1
+đảm	d2 a1_T1 m
+đảng	d2 a1_T1 ng
+đảo	d2 ao_T1
+đại	d2 ai_T1
+đạn	d2 a1_T1 n
+đạo	d2 ao_T1
+đạt	d2 a1_T1 t
+đe	d2 e1_T1
+đem	d2 e1_T1 m
+đen	d2 e1_T1 n
+đeo	d2 eo_T1
+đẹp	d2 e2_T2 p
+đi	d2 i_T1
+đia	d2 i_T1 a1_T1
+điên	d2 ie2_T1 n
+điều	d2 ieu_T1
+điểm	d2 ie2_T1 m
+điển	d2 ie2_T1 n
+điện	d2 ie2_T1 n
+điệp	d2 ie2_T1 p
+điệu	d2 ieu_T1
+đình	d2 i_T1 nh
+đích	d2 ch
+đỉnh	d2 i_T1 nh
+địa	d2 i_T1 a1_T1
+định	d2 i_T1 nh
+điạ	d2 a1_T6
+điềm	d2 ie2_T2 m
+điền	d2 ie2_T2 n
+điều	d2 ieu_T2
+điểm	d2 ie2_T4 m
+điển	d2 ie2_T4 n
+điễn	d2 ie2_T5 n
+điện	d2 ie2_T6 n
+điệp	d2 ie2_T6 p
+điệu	d2 ieu_T6
+đo	d2 o1_T1
+đoan	d2 oa_T1 n
+đoàn	d2 oa_T1 n
+đoán	d2 oa_T1 n
+đoạn	d2 oa_T1 n
+đoàn	d2 oa_T2 n
+đoàng	d2 oa_T2 ng
+đoán	d2 oa_T3 n
+đòi	d2 oi_T1
+đói	d2 oi_T1
+đóng	d2 o1_T1 ng
+đoạn	d2 oa_T6 n
+đu	d2 u1_T1
+đua	d2 ua_T1
+đúng	d2 u1_T1 ng
+đũa	d2 ua_T1
+đuối	d2 uoi2_T3
+đuổi	d2 uoi2_T4
+đà	d2 a1_T2
+đài	d2 ai_T2
+đàm	d2 a1_T2 m
+đàn	d2 a1_T2 n
+đàng	d2 a1_T2 ng
+đào	d2 ao_T2
+đá	d2 a1_T3
+đám	d2 a1_T3 m
+đán	d2 a1_T3 n
+đáng	d2 a1_T3 ng
+đánh	d2 a1_T3 nh
+đáo	d2 ao_T3
+đáp	d2 a1_T3 p
+đáy	d2 ay_T3
+đâm	d2 a3_T1 m
+đâu	d2 au3_T1
+đây	d2 ay3_T1
+đầu	d2 au3_T1
+đầy	d2 ay3_T1
+đấn	d2 a3_T1 n
+đất	d2 a3_T1 t
+đấu	d2 au3_T1
+đấy	d2 ay3_T1
+đẫm	d2 a3_T1 m
+đẩy	d2 ay3_T1
+đậm	d2 a3_T1 m
+đập	d2 a3_T1 p
+đã	d2 a1_T5
+đãi	d2 ai_T5
+đê	d2 e2_T1
+đêm	d2 e2_T1 m
+đều	d2 e2_T1 u1_T1
+đếm	d2 e2_T1 m
+đến	d2 e2_T1 n
+đình	d2 i_T2 nh
+đích	d2 i_T3 ch
+đòi	d2 oi_T2
+đó	d2 o1_T3
+đói	d2 oi_T3
+đóm	d2 o1_T3 m
+đón	d2 o1_T3 n
+đóng	d2 o1_T3 ng
+đô	d2 o2_T1
+đôi	d2 oi2_T1
+đôla	d2 o2_T1 l a1_T1
+đôn	d2 o2_T1 n
+đông	d2 o2_T1 ng
+đồn	d2 o2_T1 n
+đồng	d2 o2_T1 ng
+đốc	d2 o2_T1 k
+đối	d2 oi2_T1
+đốt	d2 o2_T1 t
+đổi	d2 oi2_T1
+độc	d2 o2_T1 k
+đội	d2 oi2_T1
+động	d2 o2_T1 ng
+đột	d2 o2_T1 t
+đùa	d2 ua_T2
+đùi	d2 ui_T2
+đùm	d2 u1_T2 m
+đùng	d2 u1_T2 ng
+đúc	d2 u1_T3 k
+đúng	d2 u1_T3 ng
+đăng	d2 a2_T1 ng
+đắc	d2 a2_T1 k
+đắn	d2 a2_T1 n
+đẳng	d2 a2_T1 ng
+đặc	d2 a2_T1 k
+đặt	d2 a2_T1 t
+đơ	d2 o3_T1
+đơn	d2 o3_T1 n
+đời	d2 oi3_T1
+đới	d2 oi3_T1
+đợi	d2 oi3_T1
+đưa	d2 ua2_T1
+đương	d2 ua2_T1 ng
+đường	d2 ua2_T1 ng
+được	d2 ua2_T1 k
+đừng	d2 u2_T1 ng
+đứa	d2 ua2_T1
+đức	d2 u2_T1 k
+đứng	d2 u2_T1 ng
+đứt	d2 u2_T1 t
+đựng	d2 u2_T1 ng
+đường	d2 ua2_T2 ng
+được	d2 ua2_T6 k
+đại	d2 ai_T6
+đạn	d2 a1_T6 n
+đạo	d2 ao_T6
+đạp	d2 a1_T6 p
+đạt	d2 a1_T6 t
+đảm	d2 a1_T4 m
+đản	d2 a1_T4 n
+đảng	d2 a1_T4 ng
+đảo	d2 ao_T4
+đất	d2 a3_T3 t
+đấu	d2 au3_T3
+đấy	d2 ay3_T3
+đần	d2 a3_T2 n
+đầu	d2 au3_T2
+đầy	d2 ay3_T2
+đẩy	d2 ay3_T4
+đập	d2 a3_T6 p
+đậu	d2 au3_T6
+đắc	d2 a2_T3 k
+đắm	d2 a2_T3 m
+đắn	d2 a2_T3 n
+đắp	d2 a2_T3 p
+đắt	d2 a2_T3 t
+đằng	d2 a2_T2 ng
+đẳng	d2 a2_T4 ng
+đẵ	d2 a2_T5
+đặc	d2 a2_T6 k
+đặn	d2 a2_T6 n
+đặng	d2 a2_T6 ng
+đặt	d2 a2_T6 t
+đẹp	d2 e1_T6 p
+đếm	d2 e2_T3 m
+đến	d2 e2_T3 n
+đề	d2 e2_T2
+đền	d2 e2_T2 n
+đều	d2 eu_T2
+để	d2 e2_T4
+đệ	d2 e2_T6
+đỉnh	d2 i_T4 nh
+địa	d2 i_T6 a1_T1
+địch	d2 i_T6 ch
+định	d2 i_T6 nh
+đọc	d2 o1_T6 k
+đỏ	d2 o1_T4
+đốc	d2 o2_T3 k
+đối	d2 oi2_T3
+đống	d2 o2_T3 ng
+đốt	d2 o2_T3 t
+đồ	d2 o2_T2
+đồn	d2 o2_T2 n
+đồng	d2 o2_T2 ng
+đổ	d2 o2_T4
+đổi	d2 oi2_T4
+đỗ	d2 o2_T5
+độ	d2 o2_T6
+độc	d2 o2_T6 k
+đội	d2 oi2_T6
+độn	d2 o2_T6 n
+động	d2 o2_T6 ng
+đột	d2 o2_T6 t
+đớn	d2 o3_T3 n
+đời	d2 oi3_T2
+đỡ	d2 o3_T5
+đợi	d2 oi3_T6
+đợt	d2 o3_T6 t
+đục	d2 u1_T6 k
+đụng	d2 u1_T6 ng
+đủ	d2 u1_T4
+đứa	d2 ua2_T3
+đức	d2 u2_T3 k
+đứng	d2 u2_T3 ng
+đứt	d2 u2_T3 t
+đừ	d2 u2_T2
+đừng	d2 u2_T2 ng
+đựng	d2 u2_T6 ng
+ơ	o3_T1
+ơi	oi3_T1
+ơn	o3_T1 n
+ưa	ua2_T1
+ưu	uu2_T1
+ươm	ua2_T1 m
+ương	ua2_T1 ng
+ước	ua2_T1 k
+ứng	u2_T1 ng
+ước	ua2_T3 k
+ướt	ua2_T3 t
+ười	uoi3_T2
+ả	a1_T4
+ảnh	a1_T4 nh
+ấm	a3_T3 m
+ấn	a3_T3 n
+ấp	a3_T3 p
+ấu	au3_T3
+ấy	ay3_T3
+ẩm	a3_T4 m
+ẩn	a3_T4 n
+ề	e2_T2
+ể	e2_T4
+ốc	o2_T3 k
+ốp	o2_T3 p
+ồ	o2_T2
+ồn	o2_T2 n
+ổn	o2_T4 n
+ổng	o2_T4 ng
+ớ	o3_T3
+ớt	o3_T3 t
+ở	o3_T4
+ục	u1_T6 k
+ủi	ui_T4
+ủng	u1_T4 ng
+ủy	uy_T4
+ứ	u2_T3
+ức	u2_T3 k
+ứng	u2_T3 ng
