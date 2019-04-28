@@ -15,5 +15,7 @@ if __name__ == '__main__':
 			f.close()
 			words += count(s)
 		except FileNotFoundError:
-			break
+			if index > 1189:
+				break
+			continue
 	print(f'The number of words in total is: {words}')
