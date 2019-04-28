@@ -113,14 +113,39 @@ def scrapper(link, index):
 	replace_set = ' ' * len(eliminate_set)
 	trans_tab = str.maketrans(eliminate_set, replace_set)
 	text = text.translate(trans_tab).upper()
-	
 	'''
+	# get number of words and audio length
+	info = {}
+	info['words'] = word_counter(text)
+	audio_length = str(t.find('div', class_='field-name-field-duration').contents[1])
+	time = audio_length.split()
+	# audio is longer than an hour
+	if len(time) > 4:
+		info['hours'] = 1
+	# audio is less than an hour
+	else:
+		info['hours'] = 0
+		if len(time) < 4:
+			# audio is less than one minute
+			if time[-1] == 'sec':
+				info['minutes'] = 0
+				info['seconds'] = int(time[0])
+			# audio is longer than one minute but has no second value
+			else:
+				info['minutes'] = int(time[0])
+				info['seconds'] = 0
+		# audio has both minute and second values
+		else:
+			info['minutes'] = int(time[0])
+			info['seconds'] = int(time[2])
+	return info
+	'''
+	
 	# filtering
 	audio_length = str(t.find('div', class_='field-name-field-duration').contents[1])
 	text_length = len(text)
 	if not filtering(audio_length, text_length):
 		return
-	'''
 	
 	# current path where the program runs
 	path = os.path.split(os.path.realpath(__file__))[0]
@@ -144,17 +169,34 @@ def scrapper(link, index):
 	ori.export(path + '/' + f'{str(index)}.wav', format='wav')
 	# delete the original audio
 	os.remove(path + '/' + f'{str(index)}.mp3')
+
+
+def word_counter(text):
+	return len(text.split())
 	
 		
 if __name__ == '__main__':
-	
+
 	link = language_selection()
 	resources = find_all_resources(link)
+	'''
+	info = {}
+	info['words'] = 0
+	info['hours'] = 0
+	info['minutes'] = 0
+	info['seconds'] = 0
 	index = 0
 	for item in resources:
 		index += 1
-		scrapper('https://www.sbs.com.au' + item, index)
+		s = scrapper('https://www.sbs.com.au' + item, index)
+		info['words'] += s['words']
+		info['hours'] += s['hours']
+		info['minutes'] += s['minutes']
+		info['seconds'] += s['seconds']
+	print(info)
 	''' 
-	link = 'https://www.sbs.com.au/yourlanguage/czech/cs/audiotrack/nejtemnejsi-den-pro-novy-zeland-49-mrtvych-desitky-zranenych' # please paste the link of the resource here
-	scrapper(link, 1)
-	'''	
+	index = 0
+	for item in resources:
+		index += 1 
+		scrapper('https://www.sbs.com.au' + item, index)
+	
