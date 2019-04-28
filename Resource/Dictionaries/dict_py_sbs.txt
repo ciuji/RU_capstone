@@ -1,0 +1,958 @@
+a1	a1
+acm	c m
+aec	e5 c
+ai1	ai1
+ai2	ai2
+ai4	ai4
+alan	l a3
+alfred	l f r e5 d
+allan	l l a3
+alpha	l p h
+amy	m
+an1	a1 n
+an4	a4 n
+andrew	a2 d r e5
+ang2	a2 ng
+anzac	a2 z c
+ao2	ao2
+ao4	ao4
+atm	t m
+australia	s t r l
+awasthi	s t h
+ba1	b a1
+ba2	b a2
+ba3	b a3
+ba4	b a4
+bai2	b ai2
+bai3	b ai3
+bai4	b ai4
+ban1	b a1 n
+ban3	b a3 n
+ban4	b a4 n
+bang1	b a1 ng
+bang3	b a3 ng
+bang4	b a4 ng
+bao1	b ao1
+bao3	b ao3
+bao4	b ao4
+bei1	b ei1
+bei3	b ei3
+bei4	b ei4
+ben3	b e3 n
+bennett	b e2 n t t
+bi3	b i3
+bi4	b i4
+bian1	b ia1 n
+bian3	b ia3 n
+bian4	b ia4 n
+biao1	b iao1
+biao3	b iao3
+bie2	b ie2
+bill	b l
+bin1	b i1 n
+bing1	b i1 ng
+bing4	b i4 ng
+bini	b n
+bishop	b sh p
+blingbling	b l i3 g b l i3 g
+bo1	b o1
+bo2	b o2
+bonnie	b o2 n e5
+bourke	b r k e3
+boxhill	b x h l
+break	b r e5 k
+breaking	b r e5 k i5 g
+bright	b r g h t
+brunswick	b r v1 s c k
+bu2	b u2
+bu3	b u3
+bu4	b u4
+ca1	c a1
+cai2	c ai2
+cai3	c ai3
+cai4	c ai4
+can1	c a1 n
+can2	c a2 n
+can3	c a3 n
+cang2	c a2 ng
+cao1	c ao1
+carisbrooke	c r b r k e3
+carol	c r l
+cbd	c b d
+ce4	c e4
+ceng2	c e2 ng
+cha1	ch a1
+cha2	ch a2
+cha4	ch a4
+chan2	ch a2 n
+chan3	ch a3 n
+chang2	ch a2 ng
+chang3	ch a3 ng
+chang4	ch a4 ng
+change	ch a1 g
+chao1	ch ao1
+chao2	ch ao2
+chao3	ch ao3
+che1	ch e1
+che4	ch e4
+chelsea	ch e5 l s e5
+chen2	ch e2 n
+chen4	ch e4 n
+cheng	ch e3 g
+cheng1	ch e1 ng
+cheng2	ch e2 ng
+chi1	ch ii1
+chi2	ch ii2
+chi4	ch ii4
+childcare	ch d c r e5
+china	ch i5
+chisholm	ch h l m
+chong1	ch o1 ng
+chong2	ch o2 ng
+chou2	ch ou2
+chu1	ch u1
+chu2	ch u2
+chu3	ch u3
+chu4	ch u4
+chuan2	ch ua2 n
+chuang1	ch ua1 ng
+chuang3	ch ua3 ng
+chuang4	ch ua4 ng
+chui1	ch uei1
+chui2	ch uei2
+chun1	ch ue1 n
+ci2	c ii2
+ci3	c ii3
+ci4	c ii4
+clive	c l e5
+collingwood	c l l i3 g d
+cong1	c o1 ng
+cong2	c o2 ng
+corres	c r r e5 s
+cu4	c u4
+cun1	c ue1 n
+cun2	c ue2 n
+cuo4	c uo4
+curtis	c r t s
+da1	d a1
+da2	d a2
+da3	d a3
+da4	d a4
+dai4	d ai4
+dan1	d a1 n
+dan4	d a4 n
+dandenong	d a5 d e3 o3 g
+dang1	d a1 ng
+dang3	d a3 ng
+dang4	d a4 ng
+dao3	d ao3
+dao4	d ao4
+day	d
+daylesford	d l s f r d
+de	d
+de2	d e2
+deakin	d k i5
+demond	d m io5 d
+deng1	d e1 ng
+deng3	d e3 ng
+deng4	d e4 ng
+des	d s
+di1	d i1
+di2	d i2
+di3	d i3
+di4	d i4
+dian1	d ia1 n
+dian3	d ia3 n
+dian4	d ia4 n
+diao4	d iao4
+die1	d ie1
+die2	d ie2
+ding1	d i1 ng
+ding3	d i3 ng
+ding4	d i4 ng
+dining	d n i2 g
+dong1	d o1 ng
+dong4	d o4 ng
+dou1	d ou1
+dou4	d ou4
+du1	d u1
+du2	d u2
+du4	d u4
+duan1	d ua1 n
+duan3	d ua3 n
+duan4	d ua4 n
+dui4	d uei4
+dun1	d ue1 n
+dun4	d ue4 n
+duncan	d ue1 c a2
+duo1	d uo1
+duo2	d uo2
+duo3	d uo3
+duo4	d uo4
+e2	e2
+e4	e4
+ekin	k i5
+en1	e1 n
+er2	e2 r
+er3	e3 r
+er4	e4 r
+evan	a5
+f	f
+fa1	f a1
+fa2	f a2
+fa3	f a3
+fa4	f a4
+fan1	f a1 n
+fan3	f a3 n
+fan4	f a4 n
+fang1	f a1 ng
+fang2	f a2 ng
+fang3	f a3 ng
+fang4	f a4 ng
+fei1	f ei1
+fei4	f ei4
+fen1	f e1 n
+fen3	f e3 n
+fen4	f e4 n
+feng1	f e1 ng
+feng2	f e2 ng
+feng4	f e4 ng
+fethi	f t h
+fine	f i5 e5
+fou3	f ou3
+fraser	f r s e4 r
+fu1	f u1
+fu2	f u2
+fu3	f u3
+fu4	f u4
+g	g
+gai1	g ai1
+gai3	g ai3
+gai4	g ai4
+gallery	g l l r
+gan1	g a1 n
+gan3	g a3 n
+gan4	g a4 n
+gang1	g a1 ng
+gang3	g a3 ng
+gao1	g ao1
+gao3	g ao3
+gao4	g ao4
+gary	g r
+ge1	g e1
+ge2	g e2
+ge3	g e3
+ge4	g e4
+gei3	g ei3
+gen1	g e1 n
+geng1	g e1 ng
+geng4	g e4 ng
+geoff	g e3 f f
+gladys	g l d s
+glow	g l
+go	g
+gong1	g o1 ng
+gong4	g o4 ng
+gou1	g ou1
+gou3	g ou3
+gou4	g ou4
+gov	g
+gu1	g u1
+gu3	g u3
+gu4	g u4
+gua1	g ua1
+gua3	g ua3
+guan1	g ua1 n
+guan3	g ua3 n
+guan4	g ua4 n
+guang1	g ua1 ng
+guang3	g ua3 ng
+gui1	g uei1
+guo	g
+guo1	g uo1
+guo2	g uo2
+guo3	g uo3
+guo4	g uo4
+ha1	h a1
+hai2	h ai2
+hai3	h ai3
+hai4	h ai4
+hall	h l l
+han2	h a2 n
+han4	h a4 n
+hang2	h a2 ng
+hao2	h ao2
+hao3	h ao3
+hao4	h ao4
+harry	h r r
+he1	h e1
+he2	h e2
+hei1	h ei1
+hen3	h e3 n
+hen4	h e4 n
+heng2	h e2 ng
+heron	h r o2
+hogg	h g g
+hotham	h t h m
+hou4	h ou4
+hu1	h u1
+hu2	h u2
+hu3	h u3
+hu4	h u4
+hua1	h ua1
+hua2	h ua2
+hua4	h ua4
+huai2	h uai2
+huai4	h uai4
+huan1	h ua1 n
+huan2	h ua2 n
+huan3	h ua3 n
+huan4	h ua4 n
+huang1	h ua1 ng
+huang2	h ua2 ng
+hui1	h uei1
+hui2	h uei2
+hui3	h uei3
+hui4	h uei4
+hun1	h ue1 n
+hun2	h ue2 n
+huo2	h uo2
+huo3	h uo3
+huo4	h uo4
+in	i5
+insight	i5 s g h t
+ipad	p d
+island	l a3 d
+jennifer	j e1 n f r
+ji	j
+ji1	j i1
+ji2	j i2
+ji3	j i3
+ji4	j i4
+jia1	j ia1
+jia4	j ia4
+jian1	j ia1 n
+jian3	j ia3 n
+jian4	j ia4 n
+jiang1	j ia1 ng
+jiang3	j ia3 ng
+jiang4	j ia4 ng
+jiao1	j iao1
+jiao3	j iao3
+jiao4	j iao4
+jie1	j ie1
+jie2	j ie2
+jie3	j ie3
+jie4	j ie4
+jin1	j i1 n
+jin3	j i3 n
+jin4	j i4 n
+jing1	j i1 ng
+jing3	j i3 ng
+jing4	j i4 ng
+jiu1	j iu1
+jiu3	j iu3
+jiu4	j iu4
+jodi	j d
+ju1	j v1
+ju2	j v2
+ju3	j v3
+ju4	j v4
+juan1	j va1 n
+juan3	j va3 n
+jue2	j ve2
+jun1	j v1 n
+jun4	j v4 n
+ka3	k a3
+kai1	k ai1
+kai3	k ai3
+kan1	k a1 n
+kan3	k a3 n
+kan4	k a4 n
+kang1	k a1 ng
+kang4	k a4 ng
+kao3	k ao3
+kao4	k ao4
+ke1	k e1
+ke3	k e3
+ke4	k e4
+ken3	k e3 n
+kirk	k r k
+kogarah	k g r h
+kong1	k o1 ng
+kong3	k o3 ng
+kong4	k o4 ng
+kou3	k ou3
+kou4	k ou4
+ku1	k u1
+ku3	k u3
+ku4	k u4
+kuai4	k uai4
+kuan3	k ua3 n
+kuang1	k ua1 ng
+kuang4	k ua4 ng
+kui2	k uei2
+kui4	k uei4
+kun1	k ue1 n
+kun3	k ue3 n
+kun4	k ue4 n
+kuo4	k uo4
+la1	l a1
+la3	l a3
+la4	l a4
+lai2	l ai2
+lai4	l ai4
+lan2	l a2 n
+lan3	l a3 n
+lan4	l a4 n
+lane	l a1 e5
+lang2	l a2 ng
+lang3	l a3 ng
+lang4	l a4 ng
+lao2	l ao2
+lao3	l ao3
+le	l
+le4	l e4
+lee	l e5
+legal	l g l
+lei1	l ei1
+lei2	l ei2
+lei3	l ei3
+lei4	l ei4
+leng3	l e3 ng
+lgbt	l g b t
+li	l
+li2	l i2
+li3	l i3
+li4	l i4
+lia3	l ia3
+lian2	l ia2 n
+lian3	l ia3 n
+lian4	l ia4 n
+liang2	l ia2 ng
+liang3	l ia3 ng
+liang4	l ia4 ng
+liao2	l iao2
+liao3	l iao3
+liao4	l iao4
+lie4	l ie4
+lin2	l i2 n
+lin3	l i3 n
+ling2	l i2 ng
+ling3	l i3 ng
+ling4	l i4 ng
+little	l t t l
+liu	l
+liu2	l iu2
+liu4	l iu4
+long2	l o2 ng
+long3	l o3 ng
+lou4	l ou4
+lu3	l u3
+lu4	l u4
+luan2	l ua2 n
+luan4	l ua4 n
+lun2	l ue2 n
+lun4	l ue4 n
+luo2	l uo2
+luo4	l uo4
+lv3	l v3
+lv4	l v4
+lve4	l ve4
+ma	m
+ma2	m a2
+ma3	m a3
+macedon	m c e5 d o1
+mai3	m ai3
+mai4	m ai4
+man3	m a3 n
+man4	m a4 n
+mang2	m a2 ng
+manning	m a1 n i2 g
+mansouri	m a1 s r
+mao1	m ao1
+mao2	m ao2
+mao4	m ao4
+maz	m z
+mckay	m c k
+me	m
+mei2	m ei2
+mei3	m ei3
+mei4	m ei4
+men	m e4
+men1	m e1 n
+men2	m e2 n
+meng2	m e2 ng
+meng3	m e3 ng
+meng4	m e4 ng
+mi2	m i2
+mi3	m i3
+mi4	m i4
+mian2	m ia2 n
+mian3	m ia3 n
+mian4	m ia4 n
+miao2	m iao2
+miao4	m iao4
+michael	m ch e5 l
+michele	m ch e5 l
+mie4	m ie4
+min2	m i2 n
+min3	m i3 n
+ming2	m i2 ng
+mo	m
+mo1	m o1
+mo2	m o2
+mo3	m o3
+mo4	m o4
+morelan	m r e5 l a3
+moreland	m r e5 l a3 d
+morrison	m r r o5
+mou2	m ou2
+mou3	m ou3
+mountfield	m ue1 t f e5 l d
+mt	m t
+mu3	m u3
+mu4	m u4
+muir	m r
+murdockcheng	m r d c k ch e4 g
+my	m
+na2	n a2
+na3	n a3
+na4	n a4
+nai3	n ai3
+nan2	n a2 n
+nan4	n a4 n
+nao3	n ao3
+ne	n
+nei3	n ei3
+nei4	n ei4
+neil	n
+neng2	n e2 ng
+newstars	n s t r s
+ni2	n i2
+ni3	n i3
+ni4	n i4
+nian2	n ia2 n
+nian4	n ia4 n
+niang2	n ia2 ng
+nin2	n i2 n
+ning2	n i2 ng
+niu2	n iu2
+niu3	n iu3
+nong2	n o2 ng
+nu3	n u3
+nu4	n u4
+nuo4	n uo4
+nv3	n v3
+on	o4
+ou1	ou1
+ou3	ou3
+overseas	e4 r s e5 s
+pa4	p a4
+pai1	p ai1
+pai2	p ai2
+pai4	p ai4
+painaustralia	p i5 s t r l
+palmer	p l m r
+pan1	p a1 n
+pan4	p a4 n
+pang2	p a2 ng
+pao1	p ao1
+pao3	p ao3
+pao4	p ao4
+parramatta	p r r m t t
+pei2	p ei2
+pei4	p ei4
+peng2	p e2 ng
+phillippa	p h l p p
+pi1	p i1
+pi2	p i2
+pi3	p i3
+pian1	p ia1 n
+pian4	p ia4 n
+piao4	p iao4
+pin2	p i2 n
+pin3	p i3 n
+ping2	p i2 ng
+po2	p o2
+po3	p o3
+po4	p o4
+practice	p r c t c e5
+pu3	p u3
+qi1	q i1
+qi2	q i2
+qi3	q i3
+qi4	q i4
+qia3	q ia3
+qian1	q ia1 n
+qian2	q ia2 n
+qian3	q ia3 n
+qiang1	q ia1 ng
+qiang2	q ia2 ng
+qiang3	q ia3 ng
+qiao1	q iao1
+qiao2	q iao2
+qiao3	q iao3
+qie3	q ie3
+qie4	q ie4
+qin1	q i1 n
+qing1	q i1 ng
+qing2	q i2 ng
+qing3	q i3 ng
+qing4	q i4 ng
+qiu1	q iu1
+qiu2	q iu2
+qu1	q v1
+qu2	q v2
+qu3	q v3
+qu4	q v4
+quan2	q va2 n
+quan3	q va3 n
+que1	q ve1
+que4	q ve4
+qun2	q v2 n
+raju	r j
+ran2	r a2 n
+ran3	r a3 n
+rang4	r a4 ng
+rao4	r ao4
+re4	r e4
+regional	r e3 g o3 l
+remote	r e3 m t e5
+ren2	r e2 n
+ren4	r e4 n
+reng1	r e1 ng
+reng2	r e2 ng
+ri4	r ii4
+roberta	r b r t
+robin	r b i1
+rong2	r o2 ng
+rou4	r ou4
+ru2	r u2
+ru4	r u4
+ruan3	r ua3 n
+rui4	r uei4
+rules	r l s
+ruo4	r uo4
+rural	r r l
+sai4	s ai4
+salt	s l t
+san1	s a1 n
+san4	s a4 n
+sang1	s a1 ng
+sao1	s ao1
+sbs	s b s
+school	s ch l
+scott	s c t t
+se4	s e4
+section	s e5 c t o5
+sen1	s e1 n
+sha1	sh a1
+shan1	sh a1 n
+shan3	sh a3 n
+shan4	sh a4 n
+shang1	sh a1 ng
+shang3	sh a3 ng
+shang4	sh a4 ng
+shao1	sh ao1
+shao3	sh ao3
+shao4	sh ao4
+she4	sh e4
+shei2	sh ei2
+shen1	sh e1 n
+shen2	sh e2 n
+shen3	sh e3 n
+shen4	sh e4 n
+sheng1	sh e1 ng
+sheng3	sh e3 ng
+sheng4	sh e4 ng
+shi1	sh ii1
+shi2	sh ii2
+shi3	sh ii3
+shi4	sh ii4
+shorten	sh r t e2
+shou1	sh ou1
+shou3	sh ou3
+shou4	sh ou4
+shu1	sh u1
+shu2	sh u2
+shu3	sh u3
+shu4	sh u4
+shua1	sh ua1
+shuai1	sh uai1
+shuai4	sh uai4
+shuang1	sh ua1 ng
+shuang3	sh ua3 ng
+shui3	sh uei3
+shui4	sh uei4
+shuo1	sh uo1
+shuo4	sh uo4
+si1	s ii1
+si3	s ii3
+si4	s ii4
+smyth	s m t h
+snapper	s n p p r
+song1	s o1 ng
+song4	s o4 ng
+sou1	s ou1
+spender	s p e2 d e4 r
+st	s t
+stem	s t e5 m
+storm	s t r m
+strata	s t r t
+strathfield	s t r t h f e5 l d
+street	s t r e5 e5 t
+study	s t d
+su1	s u1
+su4	s u4
+suan1	s ua1 n
+suan4	s ua4 n
+sui2	s uei2
+sui4	s uei4
+sun1	s ue1 n
+sun3	s ue3 n
+sunil	s ue1
+suo3	s uo3
+ta1	t a1
+ta3	t a3
+ta4	t a4
+tai1	t ai1
+tai2	t ai2
+tai4	t ai4
+tan1	t a1 n
+tan2	t a2 n
+tan3	t a3 n
+tan4	t a4 n
+tang2	t a2 ng
+tang4	t a4 ng
+tao1	t ao1
+tao2	t ao2
+tao3	t ao3
+te4	t e4
+teng2	t e2 ng
+the	t h
+ti2	t i2
+ti3	t i3
+ti4	t i4
+tian1	t ia1 n
+tian2	t ia2 n
+tiao2	t iao2
+tiao3	t iao3
+tie1	t ie1
+tie3	t ie3
+ting1	t i1 ng
+ting2	t i2 ng
+tong1	t o1 ng
+tong2	t o2 ng
+tong3	t o3 ng
+tong4	t o4 ng
+tou1	t ou1
+tou2	t ou2
+tou4	t ou4
+townhall	t n h l l
+translated	t r a2 s l t e5 d
+tu1	t u1
+tu2	t u2
+tu3	t u3
+tuan2	t ua2 n
+tui1	t uei1
+tui4	t uei4
+tuo1	t uo1
+uap	ua4 p
+viceland	c e5 l a3 d
+wa1	ua1
+wa2	ua2
+wai4	uai4
+wan2	ua2 n
+wan3	ua3 n
+wan4	ua4 n
+wang2	ua2 ng
+wang3	ua3 ng
+wang4	ua4 ng
+wanshu	ua1 sh
+warranty	r r a2 t
+wei1	uei1
+wei2	uei2
+wei3	uei3
+wei4	uei4
+wen1	ue1 n
+wen2	ue2 n
+wen3	ue3 n
+wen4	ue4 n
+wentworth	ue3 t r t h
+winnsenden	i5 n s e1 d e3
+with	t h
+wo3	uo3
+wo4	uo4
+wu1	u1
+wu2	u2
+wu3	u3
+wu4	u4
+xi1	x i1
+xi2	x i2
+xi3	x i3
+xi4	x i4
+xia2	x ia2
+xia4	x ia4
+xian1	x ia1 n
+xian2	x ia2 n
+xian3	x ia3 n
+xian4	x ia4 n
+xiang1	x ia1 ng
+xiang2	x ia2 ng
+xiang3	x ia3 ng
+xiang4	x ia4 ng
+xiao1	x iao1
+xiao3	x iao3
+xiao4	x iao4
+xie1	x ie1
+xie2	x ie2
+xie3	x ie3
+xie4	x ie4
+xin1	x i1 n
+xin4	x i4 n
+xing1	x i1 ng
+xing2	x i2 ng
+xing3	x i3 ng
+xing4	x i4 ng
+xiong1	x io1 ng
+xiong2	x io2 ng
+xiu1	x iu1
+xiu4	x iu4
+xu	x
+xu1	x v1
+xu2	x v2
+xu3	x v3
+xu4	x v4
+xuan1	x va1 n
+xuan2	x va2 n
+xuan3	x va3 n
+xue1	x ve1
+xue2	x ve2
+xue3	x ve3
+xue4	x ve4
+xun1	x v1 n
+xun2	x v2 n
+xun4	x v4 n
+ya1	ia1
+ya2	ia2
+ya4	ia4
+yan1	ia1 n
+yan2	ia2 n
+yan3	ia3 n
+yan4	ia4 n
+yang	ia4 g
+yang1	ia1 ng
+yang2	ia2 ng
+yang3	ia3 ng
+yang4	ia4 ng
+yao1	iao1
+yao2	iao2
+yao4	iao4
+ye1	ie1
+ye2	ie2
+ye3	ie3
+ye4	ie4
+yi1	i1
+yi2	i2
+yi3	i3
+yi4	i4
+yin1	i1 n
+yin3	i3 n
+yin4	i4 n
+ying1	i1 ng
+ying2	i2 ng
+ying3	i3 ng
+ying4	i4 ng
+yong1	io1 ng
+yong3	io3 ng
+yong4	io4 ng
+you1	iou1
+you2	iou2
+you3	iou3
+you4	iou4
+yu2	v2
+yu3	v3
+yu4	v4
+yuan2	va2 n
+yuan3	va3 n
+yuan4	va4 n
+yue1	ve1
+yue4	ve4
+yun2	v2 n
+yun3	v3 n
+yun4	v4 n
+yung	v1 g
+za2	z a2
+zai1	z ai1
+zai4	z ai4
+zan4	z a4 n
+zao1	z ao1
+zao3	z ao3
+zao4	z ao4
+ze2	z e2
+zei2	z ei2
+zen3	z e3 n
+zeng1	z e1 ng
+zeng4	z e4 ng
+zha3	zh a3
+zha4	zh a4
+zhai3	zh ai3
+zhai4	zh ai4
+zhan3	zh a3 n
+zhan4	zh a4 n
+zhang1	zh a1 ng
+zhang3	zh a3 ng
+zhang4	zh a4 ng
+zhao1	zh ao1
+zhao3	zh ao3
+zhao4	zh ao4
+zhe	zh
+zhe1	zh e1
+zhe2	zh e2
+zhe3	zh e3
+zhe4	zh e4
+zhen1	zh e1 n
+zhen3	zh e3 n
+zhen4	zh e4 n
+zheng1	zh e1 ng
+zheng3	zh e3 ng
+zheng4	zh e4 ng
+zhi1	zh ii1
+zhi2	zh ii2
+zhi3	zh ii3
+zhi4	zh ii4
+zhong1	zh o1 ng
+zhong3	zh o3 ng
+zhong4	zh o4 ng
+zhou1	zh ou1
+zhou4	zh ou4
+zhu1	zh u1
+zhu2	zh u2
+zhu3	zh u3
+zhu4	zh u4
+zhua1	zh ua1
+zhuan1	zh ua1 n
+zhuan3	zh ua3 n
+zhuan4	zh ua4 n
+zhuang1	zh ua1 ng
+zhuang4	zh ua4 ng
+zhui1	zh uei1
+zhun3	zh ue3 n
+zhuo2	zh uo2
+zi	z
+zi1	z ii1
+zi3	z ii3
+zi4	z ii4
+zizi	z z
+zong3	z o3 ng
+zong4	z o4 ng
+zou3	z ou3
+zu1	z u1
+zu2	z u2
+zu3	z u3
+zui4	z uei4
+zun1	z ue1 n
+zuo2	z uo2
+zuo3	z uo3
+zuo4	z uo
