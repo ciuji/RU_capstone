@@ -1,7 +1,9 @@
+# put this .py file into your corpus file
 import wave
 import contextlib
 
 duration = 0
+# change the range to the numbers of your files
 for i in range(1, 101):
     fname = str(i) + '.wav'
     try:
