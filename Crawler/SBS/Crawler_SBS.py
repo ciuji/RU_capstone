@@ -80,7 +80,7 @@ def filtering(time, length, max_time='8 min 0 sec', min_text=100):
 	return time_is_shorter_than(time, max_time) and text_is_longer_than(length, min_text)
 
 
-def scrapper(link, index):
+def scrapper(link, index, max_time, min_length):
 	r = requests.get(url=link)
 	soup = BeautifulSoup(r.text, 'html.parser')
 	t = soup.find('div', class_='ds-1col')
@@ -144,8 +144,9 @@ def scrapper(link, index):
 	# filtering
 	audio_length = str(t.find('div', class_='field-name-field-duration').contents[1])
 	text_length = len(text)
-	if not filtering(audio_length, text_length):
-		return
+	if not max_time == None:
+		if not filtering(audio_length, text_length, max_time=max_time, min_text=min_length):
+			return
 	
 	# current path where the program runs
 	path = os.path.split(os.path.realpath(__file__))[0]
@@ -176,9 +177,20 @@ def word_counter(text):
 	
 		
 if __name__ == '__main__':
-
+	
 	link = language_selection()
 	resources = find_all_resources(link)
+	max_time = None
+	min_length = None
+	choice = input('Do you want to apply filtering? (Y/N)		')
+	if choice.upper() == 'Y':
+		max_time = input('Please input the maximum duration for the audio (e.g. 8 min 30 sec): 		')
+		min_length = int(input('Please input the minimum length for the text:		'))
+	index = 0
+	for item in resources[: 5]:
+		index += 1 
+		scrapper('https://www.sbs.com.au' + item, index, max_time, min_length)
+	
 	'''
 	info = {}
 	info['words'] = 0
@@ -195,8 +207,3 @@ if __name__ == '__main__':
 		info['seconds'] += s['seconds']
 	print(info)
 	''' 
-	index = 0
-	for item in resources:
-		index += 1 
-		scrapper('https://www.sbs.com.au' + item, index)
-	
